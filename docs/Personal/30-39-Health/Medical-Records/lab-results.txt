@@ -1,4 +1,4 @@
-#+TITLE:     613- Laboratory Results
+#+TITLE:     Laboratory results
 #+AUTHOR:    Fabrice Niessen
 #+EMAIL:     (concat "fni" at-sign "pirilampo.be")
 #+DESCRIPTION:
@@ -30,7 +30,7 @@ Faire un *bilan* (physiologique) *des neurotransmetteurs*.
 
 http://www.doctissimo.fr/html/sante/analyses/index_analyses.htm
 
-* TODO À surveiller                                                 :noexport:
+* TODO À surveiller                                                   :noexport:
 
 - Ocytocine
 
