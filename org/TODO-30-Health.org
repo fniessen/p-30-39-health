@@ -9,6 +9,30 @@
 #+FILETAGS:  :personal:health:
 #+SETUPFILE: ~/org/theme-readtheorg.setup
 
+Xavier Bazin - Santé Corps Esprit
+Antoine Harben - Le Projet E
+Dr Thierry Schmitz - Lettre Médecin Santé
+
+* Medical records
+
+** Doctor visits
+
+** Lab results
+
+* Prescriptions
+
+* Health insurance
+
+* Fitness
+
+** Workout plans
+
+** Progress tracking
+
+** Diet plans
+
+* Nutrition
+
 superfood.nl (Jesse van der Velde)
 
 Cilou CRUsine Académie
@@ -20,9 +44,17 @@ Cilou CRUsine Académie
 Formation "La patisserie crue et vegan" (199 EUR)
 https://formations.crusineacademie.com/formation/index/
 
-Xavier Bazin - Santé Corps Esprit
-Antoine Harben - Le Projet E
-Dr Thierry Schmitz - Lettre Médecin Santé
+* Mental health
+
+** Therapy notes
+
+** Meditation
+
+*** TODO Gratitude evening routine
+
+I am deeply *loved* and that love *flows* effortlessly into *my life*.
+Money is *drawn* to me in unexpected and *abundant* ways.
+Every answer I *need* is already on its *way to me*.
 
 * Tasks
 
