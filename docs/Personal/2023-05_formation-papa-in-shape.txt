@@ -1,0 +1,203 @@
+#+TITLE: Formation Papa in Shape
+#+AUTHOR: Pirilampo
+#+DESCRIPTION: Notes issues de la formation PPIS
+#+STARTUP: overview
+
+* Formation Papa in Shape
+
+- Prix de coaching ailleurs
+- Engagement de résultat 6 kg, gratuit après les 3 mois
+
+** Call Franck Nicolas (Papa in Shape)
+[2023-05-12 Fri 18:00-18;45]
+
+- sport = 20% de l'équation; alimentation = 80 %
+- accompagnement de 3 ou de 6 mois
+- éducation nutritionnelle
+- coaching
+  + sport 2 ou 3 x dans la semaine (exercices de HIRT avec tapis de sol et
+    haltères pour squad, flexions, etc.) en plus du vélo,
+  + alimentation (noter ce que je mange pendant 7 jours, choisir à quel moment
+    manger les aliments) et
+  + sommeil
+- video sur Telegram, toutes les semaines (le même jour); aussi possible
+  d'avoir du live avec le coach, si besoin
+- 2 à 3 kg et 2 à 3 cm après 1 mois, sans s'affâmer
+- livres de recettes (de l'hiver, spécial été, spécial shaker, spécial snacks,
+  spécial bbq)
+- Formules
+  + 2 et 8 kg sur accompagnement 3 mois, sans les reprendre
+    499 EUR/mois -- 1497 EUR en entreprise
+  + sur 6 mois, c'est plus pour des addictions sur le sucre, le chocolat,
+    l'alcool, le stress
+    332 EUR/mois
+  + sur 12 mois, cyclo-sportifs ou athlétes en compétition
+    249 EUR/mois
+- Facture "Coaching pour dirigeant d'entreprise"
+
+1,5 an chez Papa in shape
+
+On tacle à la source : métabolisme.
+
+Coaching gratos, après les 3 mois, si t'es pas à 69 kg.
+
+** Macro Nutrition
+
+4 groupes d'aliments que tu dois absolument connaître pour faire du
+Carb-Cycling
+
+https://www.papainshape.com/4c656c87
+
+** HIRT training + Carb-cycling (Papa in shape)
+
+30 minutes de HIRT training, 3 x / semaine
+
+https://drive.google.com/file/d/1RGdpFJ_gzRsNW3bM_r4woUJQzo5yesYo/view?sc=1146414911f7a469e808604a40c788b9767968382
+
+** Semaine 1
+
+Alimentation = 80% des résultats
+
+Pour rappel : 1 grande frite au MacDo dévoré en 5 min, c'est plus de calories
+qu'une heure de natation...
+
+Alimentation + sport + état d'esprit (plaisir) = 100 % de résultat définitif
+
+Un hack pour ne plus craquer : *est-ce que ce que je m'apprête à manger ou
+à boire me rapproche de mon objectif ?*
+
+- OK 1 x par semaine.
+- Sinon
+  + Changer d'environnement
+  + Boire de l'eau
+  + 5 respirations profondes
+  + Visualiser ton objectif
+  + Par quoi est-ce que je peux remplacer cet aliment ?  (si pendant le repas)
+
+Privation = frustration = prise de poids sur le moyen / long terme
+
+"Échouer dans la planification, c'est planifier son échec"
+--> *Planifier sa semaine* (et son repas de triche)... le dimanche, par exemple.
+- ce qu'on va manger le matin, le midi et le soir
+- quand on va s'entraîner
+
+L'effet cumulé : choix --> comportement --> habitudes
+
+** Étape 1 du Carb-cycling : les jours modérés en glucides
+
+- Fondations : Jour glucide modéré
+  + Pas faible en glucide
+  + Pas riche en glucide
+  + S'apppuyer sur les *recettes*
+
+- Étape 2 (plus tard) : jours élevés en glucide
+
+** Les fondations d'un repas équilibré
+
+Pour préparer ton déjeuner ou ton diner équilibré tu as besoin :
+
+- 1 apport de *protéine* (boeuf, poulet, oeufs, protéines végétales...) --> *1/4 de
+  l'assiette*
+
+- 1 bonne quantité de *légumes* verts et de *fibres* (asperges, salade, brocolis,
+  chou, épinards, haricots, aubergines...) --> *1/2 de l'assiette*
+
+- 1 petite portion de *féculents* (patate douce, riz brun, pâtes complètes...) -->
+  *1/4 de l'assiette* soit environ 100g
+
+Et c'est tout !
+
+** Les fondations d'un petit déjeuner équilibré
+
+- Jus d'orange
+- Céréales
+
+Conséquences :
+
+- Pic de l'insuline garanti
+  --> Stockage du gras, voire diabète de type 2
+
+- Sensation de faim et baisse d'énergie
+
+*L'alimentation riche en sucre et faibre en fibres déclenche une plus grande
+action de l'insuline, bloquant la letpine, ce qui augmente l'appétit.*
+
+Objectif pour perdre du gras : maintenir la glycémie (taux de sucre dans le
+sang) à l'équilibre. Retarder l'apport de glucide pour booster le brûlage de
+graisse.
+
+Composition du petit-déjeuner équilibré (à faire 80% du temps) :
+- une boisson sans sucre (café, thé, eau)
+- des protéines
+- des lipides
+- des fibres, pour limiter la glycémie
+
+** Semaine 3
+
+*** Les fruits : ce qu'il faut savoir
+
+- glucides + fibres + micro-nutriments
+
+- digestion rapide
+
+- si consommé en fin de repas, troubles digestifs (gaz)
+
+- fruits secs : 60 g de sucre pour 100 g
+
+- 1 verre de 300 ml = 36 g de sucre ! (12 g de sucre pour 100 ml)
+
+- Au petit-déjeuner : bannir
+  + pas de fibres
+  + grand pic de glycémie
+  + grande réponse de l'insuline
+  + grand stockage de graisse
+
+- Fruits les moins sucrés
+
+  | rhubarbe     |   1 |
+  | citron       | 2.9 |
+  | groseilles   |   5 |
+  | melon        |   6 |
+  | pamplemousse |   6 |
+  | mûres        | 6.2 |
+  | pastèque     | 6.3 |
+  | framboise    |   7 |
+  | fraise       |   7 |
+  | nectarine    |   9 |
+
+- Fruits les plus sucrés
+
+  | dattes    | 73 |
+  | châtaigne | 38 |
+  | pistache  | 29 |
+  | banane    | 24 |
+  | passion   | 23 |
+  | figues    | 20 |
+  | mangue    | 17 |
+  |           | 16 |
+  |           | 16 |
+  |           | 16 |
+
+- Bon pour la santé, mais à corréler avec nos objectifs de perte de gras
+
+* Papa in shape (Formation)
+
+- App MyFitnessPal
+
+** Conseils
+
+- Le matin, 0 glucides
+- Segmentation de l'assiette systématique à chaque repas
+- Boissons, même NA, 1 à 2 doses par semaine grand max
+
+** Retour semaine 5
+
+- Couupler glucides avec protéines
+- Féculents : riz, quinoa, pommes de terre, patata douce; de temps en temps :
+  pâtes complètess
+- Schweppes : 1 à 2 dose par semaine, max !
+
+** Retour 2023-07-31 S6
+
+- Faire du sport à jeûn
+- Faire un jeûne de 24 h
