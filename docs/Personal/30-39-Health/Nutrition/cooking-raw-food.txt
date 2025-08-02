@@ -1,0 +1,3589 @@
+#+TITLE:     Raw food gourmande
+#+AUTHOR:    Fabrice Niessen
+#+EMAIL:     (concat "fni" at-sign "pirilampo.be")
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  fr
+#+OPTIONS:   H:4 num:2 toc:2
+
+#+FILETAGS:  :personal:
+#+SETUPFILE: ~/org/theme-readtheorg.setup
+
+#+LATEX_CLASS: mcbook
+#+LATEX_CLASS_options: [anonym,final]
+
+Oeufs lacto-fermentés (6 semaines dans saumure)
+https://www.youtube.com/watch?v=2vLc4qTivpE
+Cafetière Bialetti Venus 4 tasses (en inox -- pas en alu ! à 22:30)
+
+"Switch To This Diet" | THE IDEAL DIET FOR HUMAN BODY! - Sadhguru
+https://www.youtube.com/watch?v=DVs3TReDkwo
+
+Flop chef
+https://www.nathaliejomard.com/grumeautique/2022/3/21/flop-chef?fbclid=IwAR19ajs4FvchxaMiWYs3ncunMeKcsJTNFh8eM3OggJDm9MHbDBeHgbDHn6U
+
+Françoise, naturopathe spécialiste des cures de jus [2021]
+https://www.youtube.com/watch?v=wS1mfMz99ZQ
+https://puravida-naturo.fr/stage/week-end-feel-good-21-23-mai-2021-onesse-laharie
+Gratin d'aubergines au quinoa (cuit !)
+
+
+Superbes photos de sauces colorées, et photo de cuisine et d'accessoires...
+https://www.conasi.eu/blog/consejos-de-salud/cocina-vital/
+
+
+Faire ses conserves de pois chiches maison (recette en vidéo)
+http://www.enviedunerecette.com/2016/06/12/faire-ses-conserves-de-pois-chiches-maison-pourquoi-et-comment/
+
+Les haricots blancs, noirs ou rouges, les lentilles, les pois chiches et autres
+légumineuses ne font pas partie de l'alimentation crue-vegan : ni cuits, ni
+crus, ni germés.
+Tout ce qui est cru n'est pas forcément bon pour la santé !
+https://crudivegan.com/les-legumineuses-font-elles-partie-dune-alimentation-crue
+
+La manipulation de "la Fabrique du mensonge" : Constance témoigne
+
+- Biochef Nutriboost !
+
+- Pit&Pit - voeding en kruiden kopen in de webwinkel
+  https://www.pit-pit.com/
+  Gratis verzending vanaf 35 euro - Besteld voor 20u op werkdagen, morgen in huis
+
+- Superaliments BIO, superfruits, superalgues, cacao, restaurant,
+  préparations maison et recettes à base de superaliments.
+  https://www.sol-semilla.fr/fr/ (from Marie-Sophie L.)
+
+Fromages végétaux fermentés aux herbes-CRUsine Académie [2021]
+https://www.youtube.com/watch?v=0ZQPjyvwWaA
+
+- Le Kuvings D9900 est un extracteur à jus haut de gamme et très robuste, il
+  vous durera plusieurs années. C'est un modèle à large embouchure qui vous
+  évitera de découper les gros fruits (pommes et carottes par exemple). Il
+  permet un véritable gain de temps et dispose en plus d'un clapet de sécurité.
+
+XXX -10% avec Cilou
+https://www.warmcook.com/422-pack-essentiel-3x-boites-inox-alimentaires-rectangulaires.html
+
+* General
+
+** TODO Vidéos à voir
+
+- CRUsinedays 2021 #3 Sarah Juhasz
+  https://www.youtube.com/watch?v=b2JQ9HU-lQE
+
+* Chouette site
+
+- Sublimer les Amandes et Autres Oléagineux (tremper, déshydrater)
+  https://mimagusta.com/blog/sublimer-les-amandes-et-autres-oleagineux/
+
+- La cure d'eau à l'ail
+  https://mimagusta.com/blog/la-cure-deau-a-lail/
+
+- L'ail noir
+  https://mimagusta.com/blog/lail-noir/
+
+* Notes
+
+*Faisons de la nourriture notre première médecine.*
+-- Hipocrate
+
+*Le cru, ce n'est pas que des salades.*
+
+Passionnée de cuisine, la comédienne et naturopathe Marie-Sophie L. s'est
+convertie à la « raw food » (ou nourriture crue) à la suite d'un jeûne effectué
+lors d'un séjour en Inde. Le [[id:09acb8f3-bf0a-41bd-b6ba-2246f478d6e5][pad thaï]], qu'elle a découvert lors de ses voyages
+en Asie, est l'un de ses plats favoris. « /J'adorais le goût, mais je n'aimais
+pas trop les nouilles. J'ai cherché à traduire ces saveurs, j'ai ajouté du/
+/croquant et du frais, imaginé une sauce qui réveille les papilles. Même si le
+nom signifie "sauté thaï", c'est une recette qui gagne à être revisitée/
+/crue. Car ma "gastrawnomie", ce n'est pas juste des salades : il s'agit
+d'élaborer une nouvelle syntaxe culinaire, de traiter les produits bruts avec/
+/inventivité et humilité./ »
+
+Changer d'alimentation - Pr Henri Joyeux
+https://www.youtube.com/watch?v=P2aRLBFmPOI
+
+Sexy raw food - Le cru gourmet arrive enfin en France - Marie-Sophie L.
+https://www.youtube.com/watch?v=X0DsmfCHhbw
+
+Matériel :
+- Foodmatic Personal Mixer PM1000
+
+Pour créer des animations à partir de photos : *Dragonframe*
+
+Recette de la pizza crue
+https://www.youtube.com/watch?v=r7GndnmxdwE
+
+https://www.youtube.com/watch?v=pQj-quWVepk
+
+https://www.youtube.com/watch?v=RDBi_i5Ofa8
+
+https://www.youtube.com/watch?v=NaBPq1Os3wY
+
+Journée + aubergines
+https://www.youtube.com/watch?v=KgmZ_PkwsJQ
+
+Une collection de recettes d'Irène, Nelly et Miguel
+https://www.nellygrosjean.com/wp-content/uploads/2018/06/RAW-FOOD-Recettes-2016-V6-1.pdf
+
+** Quels sont les meilleurs super-aliments ?
+
+Voici une sélection parmi la longue liste des super-aliments. Si tous les
+aliments végétaux sont super, certains concentrent les bienfaits de la nature de
+façon intéressante pour nous, surtout en période de jeûne, de cûre, ou de
+restriction alimentaire :
+
+- baies de goji, baies d'aronia, açaï, acerola, cranberries, grenade, myrtille,
+  mulberry, épine-vinette, physalis, cassis, papaye, camu camu, nopal, chou
+  kale, baobab, moringa
+- herbe de blé, menthe, curcuma, gingembre, ginseng
+- graines germées
+- fève de cacao, caroube
+- lucuma, maca, guarana, ashwagandha
+- amande, noix de cajou, macadamia, noix de coco
+- graines de chanvre, de lin, de chia, de grenade, de courge, de tournesol, de
+  fénugrec, cardamome
+- algues telles que spiruline, klamath, chlorella
+
+La liste n'est bien sûr pas exhaustive...
+
+** Tableau nutritif
+
+- Les *fiches nutritionnelles par produits*
+  http://www.aprifel.com/profils-des-fruits-et-legumes.php
+
+- Fruits : tableau des calories
+  https://www.yazio.com/fr/aliments/fruits
+
+- https://www.cuisineaz.com/guide-des-aliments-p181
+
+- https://www.pinterest.com/pin/176836722850080552/
+
+- https://twitter.com/moringa_fr/status/728568013528666114/photo/1
+
+- http://theyellow.free.fr/NormanWalker.pdf, pages 76 à 83
+
+** Durée de trempage et des graines
+
+https://www.naturopathebordeaux.fr/le-trempage-des-noix-graines
+
+Pour éviter les inhibiteurs enzymatiques...
+
+- Alfalfa : 12 heures
+- Amandes : 8-12 heures
+- Amaranthe : 3-5 heures
+- Avoine : 8 heures
+- Blé : 8-10 heures
+- Épeautre : 6 heures
+- Fenugrec : 6 heures
+- Graines de chia : ne se trempe pas sauf pour obtenir un gel épaississant
+- Graines de chou : 4-6 heures
+- Graines de citrouille : 6-8 heures
+- Graines de lin : 6 heures
+- Graines de moutarde : 5 heures
+- Haricots : 8 heures
+- Lentilles : 8 heures
+- Macadamia : ne se trempe pas
+- Maïs : 12 heures
+- Millet : 5 heures
+- Noisettes : 8-12 heures
+- Noix : 4-6 heures
+- Noix du Brésil : ne se trempe pas
+- Noix de cajou : 2-3 heures
+- Noix de pécan : 12 heures
+- Orge : 6 heures
+- Pistache : ne se trempe pas
+- Pois chiches : 12-48 heures
+- Quinoa : 3-4 heures
+- Riz : 8-10 heures
+- Sarrasin : 6 heures
+- Seigle : 6-8 heures
+- Semences de brocoli : 8 heures
+- Sésame : 8 heures
+- Tournesol : 6-8 heures
+
+** Purge à l'huile de ricin
+
+https://www.santi-shop.eu/en/blog/sante-nutrition-1/post/la-purge-a-l-huile-de-ricin-1306
+
+** Rechercher une recette
+
+tags:
+- original
+- daily
+- light_and_fun
+- kids
+- cocktails
+
+Rechercher une recette
+https://www.marmiton.org/recettes/
+- Une recette
+  + Nom de la recette
+  + Avec ingrédient
+  + Sans ingrédient
+- Dans mon frigo
+  + Ingrédient
+  + Ingrédient
+  + Ingrédient
+
+- Mimi et Jacky Boisset, double-champions du monde de Raid Adventure
+
+** Herbes
+
+- La menthe
+- Le persil
+- La ciboulette
+- L'aneth
+- Le basilic
+- L'estragon
+- Le romarin
+- Le thym
+- La sauge
+- La coriandre
+
+** Retrouver son poids de forme (de "Nouvelle Page Santé")
+
+La bonne raison d'ajouter :
+- de l'épinard,
+- du chou de Chine,
+- des pousses de bambous,
+- du céleri branche,
+- de la courge cireuse,
+- de la myrtille
+dans vos plats de tous les jours.
+
+Aliments à éviter définitivement pour garder son poids de forme :
+- blé et tout ce qui est fait à partir de blé
+- maïs
+- avoine
+- orge
+- seigle
+- sorgho
+- millet
+- betterave (bombe énergétique) qui sert à fabriquer du sucre et de l'alcool
+- carotte
+- produits laitiers (issus du lait de vache : lait, yaourt, fromage)
+- sel
+- sucre
+
+** Autres recettes
+
+- 23 Raw Vegan Recipes You're Craving Right Now
+  https://www.brit.co/raw-vegan-recipes/
+
+- Avocado Hummus
+  https://www.delish.com/cooking/recipe-ideas/recipes/a58255/avocado-hummus-recipe/
+
+** Cure de pommes
+
+https://www.youtube.com/watch?v=SG3VHvh3d2k
+
+* Recettes tierces
+
+- *Entrées, plats, sauces, fauxmages, wraps, crêpes, desserts, laits et boissons*
+  http://www.pimpmegreen.com/index/
+
+- https://regenerescence.com/recettes/
+
+- Jus de légumes et fruits : le re-vitaliseur, le re-booster, etc.
+  https://1001jus.fr/12-raisons-boire-jus-legumes-fruits/
+
+- Pâte à tartiner crue - #raw #healthy - alimentation vivante
+  https://cuisine-saine.fr/recette-crue/pate-a-tartiner-crue-cacao-cru/
+  https://www.youtube.com/watch?v=F754iKnzeA8
+  200 g de noix de cajou
+  60 g de sirop d'agave cru
+  3 cs d'huile de noix
+  1 pincée de sel rose
+  120 ml de lait de riz
+  3 cs de cacao cru
+
+- Recette Nutella | VEGAN, cru et santé
+  https://www.youtube.com/watch?v=CGnmc9mbaS8
+
+- Pâte à tartiner au cacao, noisettes, amandes, crue et #vegan
+  https://www.tastinggoodnaturally.com/pate-a-tartiner-au-cacao-noisettes-amandes-crue-et-vegan/
+
+* Organisation d'un repas... tout cru !
+
+Dans un repas cru, il n'y a pas de différence entre une entrée et un plat de
+résistance, si ce n'est la quantité servie.
+
+Pour orchestrer un repas pour des convives, il est bon de défférencier les
+plats. C'est à dire ne pas proposer une [[id:6e938454-7f61-4beb-81e4-4cff9700ad58][tarte à l'oignon]] en entrée et une [[id:9a3216e4-0c47-4aa8-8028-f041f5403201][tarte
+au chocolat]] en dessert; deux tartes au même menu ne conviennent pas, de même que
+deux entremets, un salé et un sucré seraient redondants -- mêmes bases que
+celles de la cuisine traditionnelle... cuite.
+
+Je vous conseille de choisir une entrée légère et raffraichissante pour ouvrir
+l'appétit et détendre les papilles; une [[id:cb866f74-aef9-4cf1-82a7-ffed4a905fa7][crupote de légume et fruit]], sinon, une
+soupe ou un velouté, onglet "Des Purées et des Soupes", ou des soupes à base de
+jus, la Soupe Thaï, le [[id:3d1f286f-6fb6-41f4-bfc3-d27d98e87b80][brouet aux jeunes pousses]], sauf que le préparation à la
+dernière minute n'est pas pratique avec des invités... Les [[id:d60a4065-529e-4d98-8b97-911baaa27d48][makis]], faciles
+à préparer d'avance, sont une belle entrée, à condition de ne pas en servir
+trop. Attention, ma cuisine est rassasiante et dense, il ne faut pas la servir
+en quantité trop importante.
+
+Pour le plat principal, tous les plats sont possibles...
+
+Vous avez le choix des desserts, le plus convaincant et facile à réussir étant
+le [[id:37429967-1f0b-406a-b819-8cde5edcf904][gâteau au cacao corsé et au carawmel tendre]], ou un [[id:24cbeaa0-776f-4730-93f0-ed4ca7eac869][crumble]] plus léger avec
+des fruits frais de saison...
+
+* Apéros
+
+** Chips de kale au curry
+
+[[file:instant-cru/chips-kale.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270808&idpage=1355573
+
+Alternative : http://www.enviedunerecette.com/2018/01/27/chips-de-kale-recette-filmee-vegan/
+
+*** Temps
+
+- Temps de préparation : 10 minutes.
+- Temps de déshydratation : 12 heures.
+
+*** Ingrédients
+
+Pour 2 plaques :
+
+- 350 g de chou kale
+- [[id:1f4abacf-ab43-41de-902e-e1700cd45884][Sauce curry]]
+
+Facultatif mais bienvenu :
+- 1/2 poivron, coupé en dés
+- 1/2 oignon
+- 1/2 gousse d'ail pelé
+
+** Les meilleures chips de kale crues au monde [2020]
+
+https://www.youtube.com/watch?v=k0GNsF9Tcxg
+
+** Chips de patates douces (de 42 Délices)
+
+https://www.youtube.com/watch?v=rFQHi8TgneE
+
+Temps : 15 min.
+
+*** Ingrédients
+
+- 500 g de patates douces
+- 1 1/2 jus de citron
+- 2 cc d'Herbes de Provence
+- 1 cc de cumin
+- 1/2 cc de curcuma
+- 1/4 cc de piment (facultatif)
+- Poivre (facultatif)
+
+*** Préparation
+
+Nombre de plateaux : environ 4
+
+1. Éplucher la patate douce et faire des fines tranches à la mandoline
+2. Dans un saladier, mélanger le jus de citron et les épices
+3. Ajouter les tranches de patates douces et bien mélanger pour enrober de la
+   marinade
+4. Sur un plateau de déshydratation, recouvert d'une feuille téflex, étaler les
+   tranches les unes à côté des autres
+5. Mettre au déshydrateur à 42°C pendant 8h à 10h. Pensez à retirer la feuille
+   teflex après quelques heures pour faciliter le séchage.
+
+Dégustez ou conservez dans un contenant hermétique jusqu'à 1 an.
+
+** Chips de betteraves (de 42 Délices)
+
+https://www.youtube.com/watch?v=rFQHi8TgneE
+
+*** Ingrédients
+
+- 500 g de betteraves
+- 1/2 citron
+- 1 cc de curry
+
+*** Préparation
+
+1. Éplucher let laver la betterave et faire des fines tranches à la mandoline
+3. Dans un saladier, mélanger le jus de citron et les épices
+4. Ajouter les tranches de betteraves et bien mélanger pour enrober de la
+   marinade
+5. Sur un plateau de déshydratation, recouvert d'une feuille téflex, étaler les
+   tranches les unes à côté des autres
+6. Mettre au déshydrateur à 42°C pendant 12h minimum. Pensez à retirer la feuille
+   teflex après quelques heures pour faciliter le séchage.
+
+Dégustez ou conservez dans un contenant hermétique jusqu'à 1 an.
+
+** Chips de navets
+
+(avec herbes de provence, piment)
+
+** Bacon d'aubergine
+
+[[file:instant-cru/bacon-aubergine.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270808&idpage=1355564
+
+*** Ingrédients
+
+Pour une 30-aine de tranches de bacon d'aubergine :
+
+- 2 belles aubergines détaillées en tranches fines dans la longueur
+
+Marinade pour Bacon d'Aubergine pour 1 T :
+
+- 1/4 T (50 g) de tamari
+- 1/4 T (60 ml) d'huile d'olive
+- 1/4 T (60 ml) de sirop d'érable ou d'agave cru
+- 1/4 T (60 ml) de miso
+- 1 cs (12 g) de Thé du Tigre du Palais des Thés
+- 1 cs de jus de citron
+- Une pointe de chili ou de piment de Cayenne
+
+*** Préparation
+
+1: la Marinade
+
+Placez tous les ingrédients dans le blender puissant pour les réduire en crème
+onctueuse et lisse. Le piment se rajoute à la fin car il a tendance
+à s'échauffer sous la lame du blender.
+
+2 : les Aubergines
+
+Détaillez les aubergines en tranches de deux ou trois millimètres d'épaisseur
+environ pour les plonger dans la marinade 1 heure... ou une nuit. Ensuite,
+placez-les à la douce chaleur du déshydrateur pour les rendre croustillantes ou
+plus molle comme du bacon, soit de 12 à 36 heures. La marinade, rallongée par le
+jus rendu par les aubergines, se réduit dans le déshydrateur pour devenir une
+sauce qui peut devenir très épaisse. Elle sera utilisée dans des risotto, des
+wraps etc.
+
+Les aubergines peuvent aussi se laisser détailler en morceaux assez gros, en
+sachant qu'ils vont beaucoup réduire à la douce chaleur de la
+déshydratation... Ils sont alors parfaits pour agrémenter un risotto ou des
+pâtes de légumes.
+
+*** Dégustation
+
+Avec un risotto fumé ou enroulé autour de pruneau ou d'autres légumes ou fruits
+il est surprenant... Un peu relevé en piment de Cayenne il est délicieux avec
+une [[id:4b3af93f-d0eb-4c51-8d38-b09657f30abc][concassée napolitaine]].
+
+* Entrées / Hors d'oeuvre
+
+** Maki
+:PROPERTIES:
+:ID:       d60a4065-529e-4d98-8b97-911baaa27d48
+:END:
+
+[[file:instant-cru/maki-jeunes-pousses-0.png]]
+
+[[file:instant-cru/maki-jeunes-pousses.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270774&idpage=1355433
+
+Repas idéal avec des graines germées et un jus vert.
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270774&idpage=1355432
+
+*** Ingrédients
+
+- 1 feuille d'algue nori pour maki
+- 3/4 T de jeunes pousses (radis, poireaux, alfalfa, pois, roquette...)
+- 1/3 T de [[id:fb4a09f0-7171-4085-b827-3c512afd6d10][ricotta de macadamia]] nature (fromage, douceur lactée) ou de crème
+
+  ... ou riz de chou fleur ???
+
+- 3 ou 4 bâtonnets de chaque légume ou fruit, au choix; par exemple :
+  + mangue (saveur douce, légèrement poivrée)
+  + avocat
+  + poivron rouge (saveur acidulée) ou orange
+  + carotte
+  + concombre
+- 1 cc de graines de sésame
+
+De la sauce Tamari (ou soja) pour y tremper les makis.
+
+** Raviolis de betterave à la ricotta aux fines herbes
+
+[[file:instant-cru/raviolis-betterave.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270785&idpage=1355497
+
+*** Temps
+
+Temps de préparation : une 10-aine de minutes.
+
+*** Ingrédients
+
+- 1 ou 2 betteraves choisies rondes et larges pour favoriser leur découpe
+- 1 beau bouquet de feuilles de coriandre fraîches
+- La [[id:68615c97-7b2a-4b8f-b66d-5012ff58ace2][ricotta de macadamia aux herbes fines]] (pour 1 T)
+
+** Raviolis de concombre à la ricotta, aux pignons de cèdres et à la menthe
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270785&idpage=1355498
+
+** Raviolis à la poire, aux noix et au vinaigre balsamique
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270785&idpage=1355499
+
+** Carpaccio de courgettes crues
+
+https://www.guydemarle.com/recettes/carpaccio-de-courgettes-crues-17439
+
+** Asperges tombées au sel à la crème
+
+Les asperges sauvagement massées avec du sel se rendent avec tendresse pour se
+laisser délicatement napper de crème de cajou à l'estragon...
+
+Le temps de préparation...
+
+Une dizaine de minutes
+
+Le temps d'attendrissement...
+
+Une quinzaine de minutes
+
+Le matériel...
+
+Un blender puissant pour la Crème de Cajou
+
+Un sac en plastique alimentaire éventuellement pour masser les asperges.
+
+Les ingrédients...
+
+1° : Deux bottes d'asperges vertes
+
+Une ou deux pincées de sel
+
+2° :Une petite poignée de noix de cajou
+
+Le jus rendu par les asperges + un peu d'eau selon la consistance désirée
+
+Un filet de citron
+
+Un soupçon d'huile essentielle d'estragon ou de l'estragon frais ciselé
+
+ Un tour de moulin à poivre noir
+
+La préparation...
+
+1° : Les asperges vertes...
+
+ - ou blanches - aiment être fermement massées avec du sel. Elles sont alors
+   prêtes à rendre leur jus au contact du sel pour gagner en tendresse... tout
+   en restant al dente.
+
+Un sac en plastique alimentaire facilite le massage et accélère le dégorgement
+des asperges. Le massage peut se faire à mains nues.
+
+2°: La crème...
+
+Tous les ingrédients se placent dans la petite cuve d'un mini blender puissant
+tout en recevant des ablutions d'eau progressives, pour atteindre la consistance
+crémeuse et épaisse d'une sauce réconfortante. L'huile essentielle d'estragon,
+divisée s'ajoute avec parcimonie en fin de broyage.
+
+La note de dégustation...
+
+Le contraste entre la vivacité encore croquante de l'asperge et l'onctueuse
+douceur de la crème de cajou est très intéressante et charme littéralement les
+papilles.
+
+Vous retrouverez le petit blender Kaly ici https://mariesophiel.com/produit/kaly-personal-blender/
+
+* Soupes
+
+Il suffit de :
+- quelques *légumes* de toutes sortes :
+  + des carottes,
+  + du céleri rave,
+  + des navets,
+  + des feuilles vertes,
+  + des fanes de radis,
+  + de betterave
+  + ...
+- d'une poignée de *graines oléagineuses*; par exemple, des noix de cajou,
+- du *sel* et
+- des *épices*.
+
+Et le tour est joué. Il ne vous reste plus qu'à rajouter un peu d'*eau*.
+
+Avec les *carottes*, nous ajoutons quelques gt d'*HE de mandarine* pour redonner
+à la carotte les notes de tête qu'elle a perdues.
+
+Il faut être équipé d'un Blender assez puisant pour pouvoir broyer les légumes
+les plus résistants en texture crémeuse et onctueuse.
+
+Vous pouvez préparer vos purées épaisses pour les *réchauffer* (sur votre lieu de
+travail) en leur ajoutant de l'*eau bouillante*. Cela ne les cuira pas, cela les
+élèvera à une bonne température, confortable l'hiver.
+
+** Soupe de carotte
+
+https://www.youtube.com/watch?v=idVSHTbQl30
+
+Le parfum des *carottes* explose en bouche avec des goûts d'enfance acidulés. La
+présence de la *noix de cajou* crémeuse prolonge le parfum puissant de la carotte
+crue.
+
+Le velouté de la soupe doit sa perfection à la puissance du blender.
+Insuffisamment *mixée* et d'une texture même légèrement granuleuse, elle perd
+beaucoup de son intérêt.
+
+Une gt d'HE d'*orange* ou de *mandarine* lui apporte une fraîcheur à la fois tendre
+et discrète; elle met en valeur les notes déjà présentes dans la carotte,
+rehaussant les notes de tête que la carotte a perdues. Un je ne sais quoi qui
+surprend les papilles déjà émoustillées par le *poivre noir*, le *cumin* et le
+*poivre de Cayenne*.
+
+** Soupe chaude aux blettes
+
+- Une énorme botte de blettes, feuilles et côtes, coupées en morceaux
+- 3/4 de tasse d'houmous bio de votre choix, maison ou "tout fait"
+- Une ou deux gousses d'ail lacto-fermentées ou à peine d'ail cru
+- Du plasma marin ou du sel
+- De l'eau bouillante
+
+Mixez l'ensemble dans un blender en ajoutant l'eau bouillante peu à peu. Une
+petite quantité au début et le reste quand le mélange est déjà onctueux, selon
+que vous voulez une soupe épaisse ou plus fluide.
+
+** Soupe thaï
+
+** Brouet du potager aux jeunes pousses
+:PROPERTIES:
+:ID:       3d1f286f-6fb6-41f4-bfc3-d27d98e87b80
+:END:
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270789&idpage=1355505
+
+*** Temps
+
+Temps de préparation : à peine une 15-aine de minutes.
+
+Le Brouet se prépare à la dernière minute et se déguste sans attendre, afin de
+profiter du plein potentiel du jus des légumes frais.
+
+*** ingrédients
+
+- 2 T de jus de céleri
+- 1 T de jus de carotte
+- 1 T de jus de pomme
+- 1/2 oignon rouge
+- 1 cs d'huile d'olive
+- 1 cc de poudre de badiane (anis étoilé)
+- 1 pointe d'ail écrasé ou râpé
+- 1/4 à 1/2 cc de sel
+- Quelques tours de moulin à poivre
+- Les fines pousses et autres feuilles
+- Des fines pousses d'alfalfa, de fenouil et de radis
+- Des pousses de tournesol
+- Des pétales de chou de Bruxelles
+- Des pluches de cerfeuil, de persil et de coriandre
+- Selon la saison...
+
+*** Préparation
+
+Tous les ingrédients du Brouet se retrouvent dans la cuve d'un blender puissant
+jusqu'à l'obtention d'un brouet liquide, unifié et parfumé.
+
+Les pousses viennent s'étendre avec légèreté sur le brouet, les autres feuilles
+se cisèlent délicatement pour se parsemer sur l'ensemble.
+
+** Purées et soupes
+
+Tous les légumes peuvent se marier pour faire une soupe formidable.
+
+1. 1 carotte (qui va donner de la consistance à la soupe) + HE de cumin ou
+   d'orange
+2. Chou kale (très riche en protéines, côté un peu crucifère, un peu piquant)
+3. Courgette (assez aqueuse, elle va donner un peu d'eau dans la soupe, en plus
+   de donner du vert)
+4. Brocoli
+5. Un peu d'eau chaude (la plus chaude possible, elle ne va pas cuire les
+   légumes)
+6. Mixer
+7. Noix de cajou (pour donner un côté onctueux et lacté, et une consistance plus
+   crémeuse -- ce sont aussi des protéines)
+8. Petit filet d'huile d'olive ou d'huile de sésame (qui va contribuer aussi
+   à la digestion des légumes)
+9. Avocat (si on ne veut mettre ni huile ni noix de cajou)
+10. Céleri branche (très précieux pour donner un goût très cuisiné, extrêmement
+    confortable, aux soupes, avec leur goût très parfumé)
+11. Un peu de sel
+12. Du masala (mélange d'épices indiennes, un peu pimenté, qui contient du
+    cumin, et qui va réchauffer aussi la soupe)
+13. Mixer
+14. Rajouter de l'eau bouillante, à cette purée, pour avoir une soupe
+
+Autres légumes :
+- Chou-fleur
+- Céleri rave
+- Chou rouge
+- Fenouil (qui donne un goût un peu anisé qui est délicieux)
+- Navets
+- Feuilles vertes
+- Fanes de radis
+- Betterave...
+
+Mettre les légumes les plus aqueux en dessous ou au dessus (en contact le plus
+direct avec la lame).
+
+** Gaspacho à la betterave, menthe fraîche et cumin
+
+Ce gaspacho vous surprendra de part sa fraîcheur et son agréable équilibre de
+saveurs. Pour des journées chaudes, ou non, vous devriez très vite
+l'adopter.
+
+Ingrédients pour 6 verrines :
+
+- 500 g de betterave cuite
+- Sel
+- Poivre
+- Cumin
+- Vinaigre Balsamique
+- Eau froide
+- Glaçons
+- Menthe fraîche
+- Oignon jaune
+- Ail
+
+https://www.youtube.com/watch?v=tRi8Ze8SAFs
+
+** Gaspacho vert et cru
+
+Ingrédients :
+
+- 2 concombres, pelés et coupés en morceaux
+- 2 avocats mûrs, pelés et dénoyautés
+- 2 poignées de feuilles d'épinards frais
+- 1/2 botte de persil frais
+- 1/2 botte de coriandre fraîche
+- Le jus d'un citron
+- 2 gousses d'ail
+- 1/4 de tasse d'huile d'olive extra vierge
+- Sel et poivre noir fraîchement moulu, selon votre goût
+- 2 à 3 tasses d'eau froide (ajustez selon la consistance désirée)
+
+Instructions :
+
+- Placez tous les ingrédients dans un mixeur ou un blender, à l'exception de
+  l'eau froide.
+- Mixez jusqu'à obtenir une consistance lisse et crémeuse.
+- Ajoutez progressivement l'eau froide tout en continuant de mixer, jusqu'à
+  obtenir la consistance souhaitée.
+- Goûtez et ajustez l'assaisonnement avec du sel et du poivre selon votre goût.
+- Versez le gaspacho dans des bols ou des verres.
+- Réfrigérez pendant au moins une heure pour bien refroidir avant de servir.
+- Au moment de servir, garnissez avec des feuilles d'épinards ou de coriandre
+  fraîche, et ajoutez éventuellement des tranches de concombre ou des croutons
+  déshydratés pour plus de texture.
+- Ce gaspacho vert et cru est rafraîchissant, sain et plein de saveurs
+  vives. Profitez de cette soupe froide parfaite pour les chaudes journées d'été
+  ou comme entrée légère pour un repas équilibré.
+
+https://www.crusineacademie.com/fraicheur-verte-a-letat-pur-decouvrez-notre-delicieux-gaspacho-cru-aux-saveurs-vives-et-revigorantes/
+
+* Salades
+
+** Brocodélice
+
+[[file:instant-cru/brocodelice.png]]
+
+https://linstantcru.learnybox.com/formation/formation/15656/?idmodule=151496&idpage=759890
+
+https://linstantcrubeaute.learnybox.com/formation/formation/15656/?idmodule=151496&idpage=759890
+
+*** Ingrédients
+
+Pour 1 à 2 personnes :
+
+- 2 T (140 g) de brocoli en fleurettes
+- 1 1/2 cs (20 ml) de sauce tamari légère en sel (bio, marque : lima)
+- 1 cs (15 ml) d'huile de sésame
+- 1/4 T (40 g) d'ananas frais coupés en petits morceaux
+- 1/2 botte (5 g) de feuilles de coriandre ciselées
+- 1 cc (5 ml) de graines de sésame
+- 2 cc (10 ml) de baies de goji
+- 1 cc environ de gingembre râpé
+
+** Pousses, graines germées
+
+*** Alfalfa
+
+*** Lentilles germées
+
+*** Dalles
+
+*** Pousses de tournesol
+
+Avec un petit d'huile d'olive et de vinaigre balsamique.
+
+*** Pousses de pois chiche
+
+*** Pousses de poireaux
+
+En assaisonnement, pour parfumer une salade, parce qu'elles sont fortes (un
+petit goût d'ail).
+
+* Plats principaux
+
+** Pad thaï
+:PROPERTIES:
+:ID:       09acb8f3-bf0a-41bd-b6ba-2246f478d6e5
+:END:
+
+https://www.lemonde.fr/les-recettes-du-monde/article/2018/07/16/pad-thai-cru-la-recette-vegan-de-marie-sophie-l_5332291_5324493.html
+
+** Samosas
+
+** Risotto de légumes (rawsotto)
+
+Pour renouveler les pâtes et le riz
+
+- Cubes de légumes \\
+  Exemples :
+  + [[id:c1a7cd5e-1f3c-4e9f-919c-c40d15109457][Panais]] aux notes acidulées et réglissées
+  + [[id:b0c5706f-2e47-402a-ac6e-02b3d6565708][Navets]] aux notes délicatement soufrées, avec une sauce crémeuse
+  + Chou-fleur, avec une sauce piquante et quelques grains de raisins
+  + Chou rave
+  + Patates douces
+- Quelques noix (de cajou, par exemple) si vous désirez un risotto plus riche --
+  pas indispensable si vous avez une *sauce crémeuse* qui engage déjà des graines
+  oléagineuses
+- Un petit peu de sel
+
+** Rawsotto crémeux de panais aux cèpes
+:PROPERTIES:
+:ID:       c1a7cd5e-1f3c-4e9f-919c-c40d15109457
+:END:
+
+#+ATTR_LATEX: :width 0.5\linewidth
+[[file:instant-cru/risotto-panais-cepes.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270793&idpage=1355519
+
+*** Ingrédients
+
+**** Crème de cajou aux cèpes
+
+Pour 1 T de crème et 1/2 T de cèpes réhydratés :
+
+- 1 T (30 g) de cèpes déshydratés
+- 1 1/4 T (375 ml) d'eau pure
+- 1 1/2 T (175 g) de noix de cajou pour 1 T d'eau de trempage des cèpes au
+  final
+- 1 cs de miso d'orge
+- 1 pincée de sel, attention le miso est déjà très salé
+- 1 pincée de poivre noir fraîchement moulu ou 1 gt d'HE de poivre noir
+
+**** Risotto
+
+- 2 T de panais coupés en dés réguliers
+- 1/2 cc de sel
+- 1 branche de thym frais pluché ou 1 cc de thym séché
+
+*** Préparation
+
+**** Crème
+
+Faites tremper les cèpes dans l'eau pure quelques minutes pour qu'ils expriment
+tous leurs parfums.
+
+Récoltez l'eau de trempage des cèpes à travers une étamine ou un sac à lait
+tissé bien serré pour la débarrasser de ses impuretés toute en gardant la
+précieuse saveur des cèpes. Plongez les noix de cajou dans le précieux jus pour
+mixer intimement dans un blender avec le sel et le poivre noir et former
+ensemble une crème onctueuse.
+
+Trempez à nouveau les cèpes réhydratés dans une eau claire et rincez-les
+soigneusement afin de les débarrasser complètement des petits éclats de terre
+qui s'incrustent parfois dans les champignons séchés. Ils sont alors prêts
+à rejoindre la crème en se posant délicatement à la surface.
+
+**** Risotto
+
+Placez les morceaux de panais (et les noix de cajou pour un risotto plus gras)
+dans la cuve d'un robot équipé d'une lame en S pour les réduire en petits
+morceaux de la taille de grains de riz. Allez doucement, par pulsions brèves. Le
+risotto n'apprécie pas de se retrouver transformé en semoule après un tour de
+trop dans le robot.
+
+**** Risotto crémeux
+
+Mêlez une partie de la Crème de Cajou aux Cèpes au risotto de panais. L'autre
+partie se réserve pour venir s'alanguir à la surface du risotto ou se glisser
+dans une saucière. Des morceaux de cèpes et quelques feuilles de thym viennent
+s'échouer délicatement sur le risotto.
+
+** Risotto fumé à la crème tigre
+:PROPERTIES:
+:ID:       b0c5706f-2e47-402a-ac6e-02b3d6565708
+:END:
+
+*** Temps
+
+Temps de préparation : une 20-aine de minutes.
+
+*** Ingrédients
+
+Pour 2 ou 3 personnes :
+
+**** Crème tigre
+
+Pour une 1/2 T :
+
+- 1/4 T (60 ml) de miso
+- 3 cs (45 ml) d'huile de noisette
+- 1/2 cs d'huile de sésame grillée
+- 2 pruneaux ou 1 cs de sirop d'érable ou d'agave cru
+- 1 cs de Thé du Tigre fraichement moulu
+- 1/2 cs de tamari
+- 1 pointe de piment de Cayenne
+- Du poivre fraichement moulu
+- 2 cs (30 ml) d'eau ou plus...
+
+**** Risotto
+
+- 2 T de navets coupés en dés de taille régulière
+- 1 T de noix de cajou
+- Pas de sel car la crème tigre est salée
+- 4 pruneaux
+
+Notes :
+
+La crème tigre se mêle intimement au risotto en ronronnant... le temps
+d'accueillir des morceaux épais de bacon d'aubergine au thé du tigre (cf. module
+Déshydratation) qui apportent une texture et une consistance et accordent aux
+parfums et aux saveurs encore plus de longueur en bouche...
+
+À moins qu'une [[id:4b3af93f-d0eb-4c51-8d38-b09657f30abc][concassée napolitaine]] ne décide de l'accompagner, tant les
+saveurs épicées de la concassée s'accordent harmonieusement avec ce risotto.
+
+** Purée de carottes
+
+[[file:instant-cru/puree-carottes.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270791&idpage=1355510
+
+*** Ingrédients
+
+Pour 2 personnes :
+
+- 2 T de carottes coupées en morceaux
+- 1 T de noix de cajou
+- 1 T d'eau pure tiède (pour une purée chaude... Mais crue !)
+- 1/2 cc de sel
+- À la dernière minute
+  + 1 gt d'HE de cumin ou 1/2 cc de poudre de cumin
+  + 1 gt d'HE de poivre noir ou 1 grosse pincée de poivre noir moulu finement
+  + 1 pointe de piment de Cayenne
+  + *1 gt d'HE de mandarine ou quelques zestes ou du jus* en place de l'eau
+
+** Purée de céleri-rave
+
+Le temps de préparation...
+En moins de cinq minutes
+
+Le matériel...
+Un blender puissant
+Un robot équipé d'une lame en S
+
+Les ingrédients... (pour deux personnes)
+
+1: la purée toute simple
+
+2 T de céleri rave coupées en morceaux
+1/2 à 1 T de noix de cajou1 T d'eau pure tiède (pour une purée chaude... Mais crue !)
+1/2 CAC de sel
+Une tige de céleri branche pour ciseler sur la purée
+
+2: à la dernière minute
+
+1/2 goutte d'huile essentielle de noix de muscade ou une demi-cuillère à café de poudre de noix de muscade
+
+La préparation...
+
+Placez tous les ingrédients dans la cuve d'un blender puissant pour être broyés en une purée veloutée... Très veloutée et assez épaisse dans un premier temps. L'eau se rajoute petit à petit pour ne pas tapisser les parois du blender et permettre un broyage parfait.
+
+Ajoutez les gouttes d'huiles essentielles à la dernière minute, avec parcimonie pendant les derniers tours de blender car elles n'aiment pas être trop chahutées dans le robot.
+
+La note de dégustation...
+
+Ce céleri est un légume racine ordinaire, aux parfums extraordinaires...
+
+C'est une armoire à épices; sous ses allures de planète terreuse, il recèle un profil organoleptique complexe et riche.
+
+Le velouté de la soupe doit sa perfection à la puissance du blender. Insuffisamment mixée et d'une texture même légèrement granuleuse, elle perd beaucoup de son intérêt.
+
+Le céleri est le soliste, nous le laissons exprimer sa complexité, la noix de cajou est avec lui pour soutenir ses parfums avec intégrité et humilité, l'adoucir sans prendre le pas sur lui, comme une reine serviable, et lui donner par son apport de gras une onctuosité ainsi qu'une plus grande longueur en bouche.
+Les accents chauds, graves et épicés  de noix de muscade rebondiront avec les parfums du céleri pour lui apporter de la profondeur.
+N'en ajoutez qu'un soupçon, divisez votre goutte d'huile essentielle ou ajoutez de la noix de muscade en poudre pour mieux la maîtriser...
+
+** Tombée d'épinards
+:PROPERTIES:
+:ID:       07e8e054-ef60-4427-bfa7-354b0190a479
+:END:
+
+[[file:instant-cru/tombee-epinards.png]]
+
+*** Ingrédients
+
+Pour 2 personnes :
+
+- 4 à 6 T (165 à 250 g) de pousses d'épinards bien tassées (dont on a pris le
+  soin d'enlever la tige)
+- 1 cs d'huile d'olive extra vierge pressée à froid
+- 1/4 cc de sel
+
+*** Note de dégustation
+
+Cette recette est encore plus gourmande avec de la crème ou... des cèpes à la
+crème.
+
+Avec [[id:0904359a-6705-4787-b293-92d50c2c1f4c][béchamel de cajou]].
+
+*** Avec les thés
+
+Avec un *Tamaryokucha Imperial*, les notes fleuries des épinards sont
+exaltées.
+
+** Lasagnes à la Napolitaine
+:PROPERTIES:
+:ID:       8b948df2-ce19-407c-8e94-3421a899e450
+:END:
+
+[[file:instant-cru/lasagnes-napolitaine.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270784&idpage=1355493
+
+Intercalez entre les bandes de courgettes :
+
+1. [[id:4b3af93f-d0eb-4c51-8d38-b09657f30abc][Sauce napolitaine]]
+2. [[id:fb4a09f0-7171-4085-b827-3c512afd6d10][Ricotta de macadamia]] + [[id:caa40ac8-f860-4ced-b479-d1259e42edc3][Pesto d'Hiver]]
+3. [[id:4b3af93f-d0eb-4c51-8d38-b09657f30abc][Sauce napolitaine]]
+4. [[id:07e8e054-ef60-4427-bfa7-354b0190a479][Tombée d'épinards]]
+
+Et ainsi de suite jusqu'à épuisement des ingrédients.
+
+C'est la [[id:0904359a-6705-4787-b293-92d50c2c1f4c][béchamel de cajou à la muscade et au poivre noir]] qui a le dernier mot
+et vient clore la débauche de superpositions pour se napper sur les lasagnes.
+
+** Lasagnes d'hiver
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270784&idpage=1355494
+
+** Lasagnes (d'Irène Grosjean)
+
+https://www.youtube.com/watch?v=x1SVd-GSwjo&pbjreload=101
+
+- Courgettes en tranches
+
+Couche 1 :
+- Fond de feuilles d'épinard
+- Pesto d'épinard
+  + épinards
+  + basilic
+  + 1 avocat
+  + un peu d'ail
+  + persil
+  + 1 oignon
+
+Couche 2 fromager (béchamel) :
+- Noix de cajou mouillées et ramollies, riches en protéines et en minéraux
+- 3 gousses d'ail
+- 1 demi-litre d'eau
+- Grosse cuillère d'agar-agar dilué et amené à ébullition
+
+Couche 3 (sauce napolitaine) :
+- Ail
+- Tomates séchées
+- Tomates fraîches
+- Graines de chia pour épaissir (aspect gélatineux au contact d'un liquide)
+
+Crumesan (parmesan) :
+- Noix du brésil
+- Ail
+- Sel
+- Poivre
+
+** Teriyaki de légumes
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270808&idpage=1355572
+
+*** Sauce Teriyaki
+
+Pour 3 T de sauce
+
+- 1 T de tamari
+- 1 T d'huile de sésame
+- 1/4 T de sirop d'érable
+- 1/4 à 1/3 T de jus de citron (selon l'acidité des citrons)
+- 1/4 T de poudre d'oignon
+- 1 cs de gingembre râpé
+- 1 cc de sésame grillée
+- 1 cc de poivre
+- 1 cs d'ail écrasé
+
+*** Teriyaki de légumes
+
+- Trois T de sauce teriyaki
+- Une T et demie de haricots plats ciselés en biais
+- Une T de brocoli détaillé en fleurettes, la tige ciselée en biais
+- Trois quarts de T de shiitake tranchés
+- Trois quarts de T de chou bock choy (ou chou chinois) ciselé
+- Trois quarts de T de pousse de soja ou autres pousses germées
+- Une demi-T de poivron rouge détaillé en julienne
+- Un quart de T d'oignon rouge découpé en fines lamelles
+- Une demi-T de carottes détaillées en julienne ou râpées à la mandoline
+- Un ananas détaillé en petits cubes
+- 6 petites brochettes de bois
+
+* Tartes, quiches et pizza
+
+** Pâte à pizza
+:PROPERTIES:
+:ID:       dee088a2-5049-47ac-959a-f517a2e0c97c
+:END:
+
+https://masterclass-cooking-show.learnybox.com/formation/formation/27972/?idmodule=270634&idpage=1354839
+
+*** Temps
+
+Temps de déshydratation : une 12-aine d'heures ou plus selon la croustillance
+désirée. Flip-flop après 3 heures de déshydratation.
+
+*** Ingrédients
+
+Pour 1 belle pizza ou 4 petites, ou 20 de mini-pizzas (pour 4 à 6 personnes) :
+
+- 1 T d'amandes (moins chères) ou de noix de Pécan ou de Grenoble
+- 1 T de graines de tournesol
+- 1 T de courgette jaune de préférence ou de courge butternut
+- 1 cs de levure maltée
+- 3 cs de graines de lin fraîchement moulues
+- 1 cc de sel rose de l'Himalaya ou de vrai sel de mer
+- 1/4 de T d'eau si les graines de tournesol n'ont pas été trempées
+- Des herbes fraîches ou séchées, des épices se présentent en affinités avec les
+  légumes de la pizza : du thym ou du romarin ou du basilic ou des herbes de
+  Provence
+
+Broyer plus qu'un cracker : on la veut moins texturée.
+
+** Pizza
+
+*** Pâte à pizza (pas dure !) de Suzanne
+
+- 1 kg carottes
+- 10 à 12 tomates séchées (1 h. dans l'eau)
+- mixer
+- ajouter 3 cs de graines de lin mixées en poudre
+- 1 oignon vert
+
+*** Sauce tomate de Suzanne
+
+- 6 à 8 tomates
+- mixer
+- prendre un bol et une passoire
+- passer la tomate dans la passoire (remuer et attendre, recommencer)
+  + jus, à boire... avec la pizza
+  + pulpe, à remettre dans le mixer
+- persil
+- mixer
+
+*** Garniture de Suzanne
+
+- champignons
+- feuilles d'épinard
+- cerises confites
+- ananas
+- betterave cuite
+- petits pois crus
+- tomates cerise
+
+** Tarte à l'oignon
+:PROPERTIES:
+:ID:       6e938454-7f61-4beb-81e4-4cff9700ad58
+:END:
+
+https://www.youtube.com/watch?v=pQj-quWVepk
+
+*** Fond de tarte
+
+- 225 g d'amandes brutes, réduites en poudre
+- 130 g de graines de sarrasin, réduites en fine farine
+- 65 g de pâte de coco
+- 1 cs d'huile d'olive
+- 1/2 cc de sel
+
+*** Garniture (fromage)
+
+- 60 g de noix de cajou
+- 1 cs de levure maltée
+- eau
+- 3 cs de *vin blanc*
+- Sel
+- 2 cs de crềme d'amande
+- 2 gt d'HE de muscade (ou raper la coque d'une noix de muscade)
+- Poivre noir
+- 25 g d'*oignons* séchés
+- Miso d'orge
+- Agar-agar (et eau bouillante ?)
+
+* Plats d'accompagnement
+
+** Taboulé et couscous
+
+Les graines de quinoa nous aident à fabriquer des taboulés et des couscous, des
+gâteaux croustillants.
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270774&idpage=1355435
+
+** Taboulé fraicheur au chou fleur cru
+
+https://www.guydemarle.com/recettes/taboule-fraicheur-au-chou-fleur-cru-25265
+
+*** Ingrédients
+
+- 1 chou fleur cru
+- 0,5 concombre
+- 0,5 poivron rouge en gros dés
+- 1 jus de citron
+- 1 tomate
+- 2 cs de huile d'olive
+- 1 cc de cumin en poudre
+- 1 pincée de  sel, poivre
+- 1 cs de menthe fraîche
+- 1 cs de ciboulette
+
+** Pâtes
+
+*** Spaghetti
+
+[[file:instant-cru/spaghetti.png]]
+
+- Spaghetti
+- [[id:4b3af93f-d0eb-4c51-8d38-b09657f30abc][Sauce napolitaine]]
+- [[id:0904359a-6705-4787-b293-92d50c2c1f4c][Béchamel de cajou]]
+
+https://www.youtube.com/watch?v=hjvzzf3PzdY
+
+*** Raviolis et spaghettis aux cèpes et à la crème
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270779&idpage=1355475
+
+**** 1 : les « Pâtes » de Courgettes (pour 4 personnes)
+
+- 4 courgettes jaunes... ou vertes
+- Une petite branche de thym frais
+- Quelques éclats de poivre noir
+
+**** 2 : les Cèpes à la Crème (pour 2 T de crème et 1/2 T de cèpes réhydratés)
+
+- 1 T (30 g) de cèpes déshydratés
+- 1 1/4 T (375 ml) d'eau pure
+- 1 1/2 T (175 g) de noix de cajou pour 1 T d'eau de trempage des cèpes au
+  final)
+- 1 cs de miso d'orge
+- 1 pincée de sel (attention : le miso est déjà très salé)
+- 1 pincée de poivre noir fraîchement moulu ou 1 gt d'HE de poivre noir
+
+*** Spaghettis (Spiralizer)
+
+Pour 2 personnes :
+
+- 2 grosses courgettes ou 3 courgettes de taille moyenne
+
+https://linstantcru.learnybox.com/les-spaghetti-a-la-napolitaine/
+
+Possible aussi avec :
+- concombre (ne pas dégorger avec le sel, il va rester, ou il va partir avec
+  l'eau... avec les vitamines)
+- carotte
+- patate douce
+- butternut
+- betterave crue / cuite (avec gants en plastique)
+
+** Crupotes de légume et fruit
+:PROPERTIES:
+:ID:       cb866f74-aef9-4cf1-82a7-ffed4a905fa7
+:END:
+
+2 portions de légumes pour 1 portion de fruits.
+
+Ne pas rajouter d'eau; sinon, c'est un smoothie.
+
+*** Crupote betterave-framboise
+
+[[file:instant-cru/crupote-betterave-framboise.png]]
+
+https://linstantcrubeaute.learnybox.com/formation/formation/15656/?idmodule=151493&idpage=759881
+
+**** Ingrédients
+
+- 2 T de *betterave* épluchées (la peau est toxique) et coupée en morceaux
+- 1 T de *framboises* fraîches ou décongelées
+- 1 à plusieurs gt (selon les qualités) d'*extrait de vanille* bio = goût
+  grenadine (= framboise et vanille)
+
+*** Crupote brocoli-ananas-coriande
+
+[[file:instant-cru/crupote-brocoli-ananas-coriandre.png]]
+
+https://linstantcrubeaute.learnybox.com/formation/formation/15656/?idmodule=151493&idpage=759884
+
+**** Ingrédients
+
+- 2 T de tiges et troncs de brocoli coupés en morceaux
+- 1 T à 1 1/2 T d'ananas frais épluché et coupé en morceaux
+- (Après avoir goûté) Un tiers de botte de feuilles de coriandre fraîches
+
+*** Crupote courge-mangue
+
+[[file:instant-cru/crupote-courge-mangue.png]]
+
+https://linstantcrubeaute.learnybox.com/formation/formation/15656/?idmodule=151493&idpage=759887
+
+**** Temps
+
+Temps de préparation : quelques minutes.
+
+**** Ingrédients
+
+- 2 T de *courge* (ou butternut, potimarron ou potiron -- on garde la peau) ou de
+  *carottes* en tronçons
+- 1 T à 1 1/2 T de *mangue* surgelée bio, ou fraîche, épluchée et coupée en
+  morceaux
+- 1 gt d'*HE d'orange* divisée selon sa puissance
+- 1 petite pincée de *curcuma*
+
+On peut ajouter des fruits de la passion, des bananes, une mandarine ou des
+arômes pour pin d'épices.
+
+**** Conservation
+
+Elle se conserve dans le réfrigérateur pendant une semaine dans un récipient en
+verre hermétiquement fermé.
+
+** Compote de pommes crue à la cannelle
+
+https://www.femmeactuelle.fr/cuisine/recettes/dessert/compote-de-pomme-crue-a-la-cannelle-12894
+
+*** Ingrédients
+
+Pour 4 personnes :
+- 6 pommes
+- 0,5 citron
+- 1 cc cannelle (ou de cardamome, d'extrait de vanille, de fruits secs..)
+
+*** Préparation
+
+Pelez les pommes, coupez-les pour en retirer le coeur et passez-les au mixeur
+avec le jus du demi-citron, plus ou moins longtemps en fonction de la
+consistance que vous souhaitez obtenir.
+
+Ajoutez 1 cc de cannelle en poudre.
+
+* Fromages
+
+** Ricotta de macadamia
+:PROPERTIES:
+:ID:       fb4a09f0-7171-4085-b827-3c512afd6d10
+:END:
+
+[[file:instant-cru/ricotta-macadamia.png]]
+
+*** Ingrédients
+
+Pour 1 3/4 T de fromage :
+
+- 2 T (250 g) de noix de macadamia de préférence trempées dans l'eau (le
+  trempage n'est pas indispensable avec un blender puissant)
+- 1/2 T (120 ml) d'eau (pure ou distillée) ou 3/4 T (180 ml) si les noix de
+  macadamia n'ont pas été trempées
+- 1 cs de levure maltée (c'est optionnel et pas du tout indispensable)
+- 1 cc de jus de citron ou plus selon l'acidité du citron et celle désirée du
+  fromage
+- 1/2 cc de sel
+
+** Ricotta de macadamia aux herbes fines
+:PROPERTIES:
+:ID:       68615c97-7b2a-4b8f-b66d-5012ff58ace2
+:END:
+
+[[file:instant-cru/ricotta-macadamia-herbes-fines.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270781&idpage=1355483
+
+*** Ingrédients
+
+Pour 1 3/4 T de fromage :
+
+- [[id:fb4a09f0-7171-4085-b827-3c512afd6d10][Ricotta de macadamia]] (pour 1 3/4 T)
+- 1/2 T (40 g) d'*oignon rouge* ou d'*échalote* coupé en petits morceaux
+- Toutes les fines herbes (fraîches ou séchées) que vous aimez, avec de
+  préférence des *feuilles de coriandre* fraîches
+
+* Desserts et gâteaux
+
+** Pudding à la mangue et au chia (de Irene's Easy Recipes)
+
+https://www.youtube.com/watch?v=1dO6RPjB1Gs
+
+XXX https://www.plus-saine-la-vie.com/recettes/pouding-chia-a-la-mangue/
+
+(Le rapport eau:graines de chia de 5:1 doit être au moins maintenu pour un bon
+résultat.)
+
+*** Ingrédients
+
+Pour 8-10 :
+
+- 1 mangue
+- 1 boîte de lait de coco (400 ml)
+- 5 à 6 cs de graines de chia
+- Quelques gt de stevia liquide
+- 1/2 cc d'essence de vanille
+
+Pour la garniture :
+
+- Myrtilles
+- Noix de coco râpée
+
+** Chocolat
+:PROPERTIES:
+:ID:       b439f0a1-a277-4c66-bedd-12d9057e7113
+:END:
+
+[[file:instant-cru/chocolat.png]]
+
+https://minimalistbaker.com/easy-vegan-chocolate/
+
+*** Ingrédients
+
+- 1 T de beurre de cacao
+- 3 à 5 cs de sirop d'érable (ou de sirop d'agave avec des résultats variés)
+- 1/2 T de poudre de cacao
+- 1 cc d'extrait de vanille (facultatif)
+- 1 pincée de sel de mer (facultatif // plus au goût)
+- Pépites de cacao (facultatif // pour le nappage)
+
+Alternative (https://www.youtube.com/watch?v=lnKje1ezQd4) :
+- 100 g de beurre de cacao
+- 60 g de nectar d'agave cru
+- 80 g de poudre de cacao cru
+- poudre de vanille
+- 1 pincée de sel
+
+Alternative (http://www.pimpmegreen.com/2020/12/23/coeur-cacao-gourmands-fetes/) :
+- 60 g de beurre de cacao
+- 40 g de cacao cru en poudre
+- 30-40 g de miel liquide d'acacia
+- Des noisettes, graines de courges, canneberges (airelles), goji, etc.
+
+*** Préparation
+
+1. Dans un bol au "bain-marie" (à feu moyen), laissez fondre 2 à 3 minutes le
+   beurre de cacao.
+
+2. Une fois fondu, ajoutez le sirop d'érable (ou le sirop d'agave) et mélangez
+   à l'aide d'un fouet ou d'une cuillère en bois jusqu'à ce que le mélange soit
+   fluide et homogène. Retirez le bol du feu.
+
+3. Ajoutez la poudre de cacao, la vanille (facultatif) et le sel de mer
+   (facultatif), et fouettez pour mélanger jusqu'à ce qu'il n'y ait plus de
+   grumeaux.
+
+4. Goûtez et ajustez la saveur selon vos besoins. J'ai ajouté environ 3 cs
+   d'agave au total et une pincée de sel supplémentaire (quantités indiquées
+   dans la recette originale), mais cela dépend entièrement de la douceur que
+   vous préférez à votre chocolat.
+
+5. Versez délicatement le chocolat dans des moules à cupcakes et recouvrez de
+   sel de mer ou de cacao (facultatif).
+
+6. Transférez le chocolat au congélateur ou au réfrigérateur pour qu'il
+   prenne -- environ 10 minutes.
+
+Dégustez le chocolat directement du congélateur, du réfrigérateur ou
+à température ambiante. Conservez les restes dans un récipient bien fermé au
+réfrigérateur pendant une semaine, ou au congélateur jusqu'à un mois.
+
+** Banana popsticks
+
+- Bananes avec un bâtonnet dedans (minimum 1 jour au congélateur !)
+- [[id:b439f0a1-a277-4c66-bedd-12d9057e7113][Chocolat]] cru fait maison (encore liquide)
+- Noisettes hachées
+
+Remettre au congélateur 2 minutes.
+
+** Tiramisu
+
+https://www.youtube.com/watch?v=FaIQ7ZEwewg
+
+*** Ingrédients
+
+Pour 4 personnes.
+
+- 12 dattes (trempées ?)
+- 40 g de sarrasin
+- 1/4 cc de caroube en poudre (goût noisetté, caramélisé)
+- 40 g de poudre d'amandes
+
+(se garde 4 à 5 jours)
+
+Crème :
+- 90 g de noix de cajou trempées (3 ou 4 heures)
+- 100 ml d'huile de coco désodorisée (= 90 g à sec)
+- 1/8 cc d'extrait vanille
+- 1/16 cc de curcuma
+- 30 ml de sirop d'agave
+- 100 ml d'eau
+
+1/4 cc de cacao cru par portion
+
+** Tiramisu (Ti-raw-misu)
+
+https://www.aveganvisit.com/home/2017/8/3/tirawmisu-from-verona
+
+https://www.youtube.com/watch?v=njzDbD2X8t4
+
+*** Ingrédients
+
+Pour 4 personnes.
+
+Éponge :
+- 175 g de noix de cajou (non trempées)
+- 50 g de noix de coco desséchée
+- 50 g de crème de coco (la partie épaisse du haut d'une boîte)
+- 75 g de sirop d'érable
+
+Crème :
+- 150 g de noix de cajou (trempées toute la nuit)
+- 100 ml d'eau
+- 20 g de rhum
+- 50 g de sirop d'érable
+- 50 g de café fraîchement infusé
+- 1/2 c. à thé d'extrait de vanille (optionnel)
+- 125 ml d'huile de coco, fondue à température ambiante
+
+Pour servir :
+- Poudre de cacao et pépites de cacao
+
+*** Instructions
+
+1. Pour faire l'*éponge*, ajoutez les noix de cajou, la noix de coco desséchée, la
+   crème de noix de coco et le sirop d'érable dans un robot lame en S et mixez
+   le tout pour obtenir une texture dense, semblable à celle d'un gâteau.
+2. Pressez la "génoise" dans le fond des bols et mettez-les au réfrigérateur
+   pour les raffermir.
+3. Pour faire la *crème*, ajoutez tous les ingrédients de la crème (sauf l'huile
+   de coco) dans votre puissant blender. Commencez à mixer à faible vitesse
+   pendant environ 30 secondes, puis augmentez la vitesse et mélangez jusqu'à ce
+   que la crème soit lisse, soyeuse et légère (environ 30 secondes à 1 minute).
+4. N'hésitez pas à ajouter du café ou du rhum si vous aimez un goût un peu plus
+   fort.
+5. Ajoutez l'huile de noix de coco à la crème, mixez pendant 10 secondes pour
+   obtenir un mélange homogène.
+6. Versez la crème sur l'éponge et mettez au réfrigérateur pour qu'elle se
+   raffermisse pendant environ *5 heures*. Vous pouvez la servir plus tôt avec une
+   texture plus légère, semblable à celle d'une crème pâtissière, ou si vous la
+   laissez plus longtemps, par exemple toute une nuit, elle se raffermit pour
+   donner une texture plus proche de celle d'un gâteau au fromage.
+7. Avant de *servir*, saupoudrez les dessus de cacao en poudre et saupoudrez
+   quelques pépites de cacao.
+
+** Tirawmisu (de CRUsine Académie)
+
+https://www.youtube.com/watch?v=crXZrTyMzPI
+
+** Tiramisu
+
+https://www.begreenchica.com/tiramisu-raw/
+
+** Brownies
+
+https://www.youtube.com/watch?v=iGGpxa8CL50&list=PLMNEtd7Z6EbKFXTGBxHMpV7e9p2MT-DeG
+
+** Brownie
+
+https://www.begreenchica.com/brownie-raw/
+
+** Fond de tarte aux amandes et au cacao
+:PROPERTIES:
+:ID:       28aef70b-9b17-4109-9540-57460528e60b
+:END:
+
+*** Ingrédients
+
+Pour 2 T :
+
+1. 3/4 T (100 g) d'*amandes*, de préférence trempées et déshydratées mais ce n'est
+   pas indispensable
+2. 3/4 T (75 g) de *poudre de cacao* cru
+3. 1/2 T (55 g) de *sucre de fleur de coco*
+4. 1 grosse pincée de sel
+5. 1/4 T (60 ml) d'*huile de coco* légèrement liquéfiée
+
+https://linstantcrudecouverte.learnybox.com/formation/formation/16140/?idmodule=156615&idpage=783258
+
+** Carawmel tendre
+:PROPERTIES:
+:ID:       7ebd4f98-f40c-4170-b9be-345254d2fe31
+:END:
+
+[[file:instant-cru/carawmel-tendre.png]]
+
+*** Ingrédients
+
+Pour 1 1/3 T, 300 ml :
+
+- 1/2 T (120 ml) de sirop d'érable ou de sirop d'agave cru
+- 1/2 T (120 ml) d'huile de coco solidifiée ou du beurre de coco (le beurre
+  contient de la chair de coco alors que l'huile n'est que de l'huile)
+- 1/4 cc de sel
+- 1/3 T (70 g) de beurre d'amande
+- Graines de gousses de vanille (ou 1/4 cc d'extrait de vanille)
+
+** Carawmel
+:PROPERTIES:
+:ID:       c2c69713-7b17-4ec8-8008-5cfb66cb4c92
+:END:
+
+*** Ingrédients
+
+Pour 2 T :
+
+- 1 1/2 T de sirop d'érable ou de sirop de pomme cru
+- 1/2 T d'huile de coco non liquéfiée
+- 1/4 cc de sel
+- Quelques gt d'extrait de vanille
+
+*** Préparation
+
+Tous les ingrédients se jettent dans le bol du robot pour se laisser mixer en un
+carawmel clair et soyeux... encore liquide.
+
+** Ganache pur cacao
+:PROPERTIES:
+:ID:       a48fba52-67b9-4bcc-8310-3b4810273f9c
+:END:
+
+*** Ingrédients
+
+Pour 4 T :
+
+1. 1 T (240 ml) d'*huile de coco* fondue
+2. 2 1/4 T (540 ml) de *sirop d'érable* (ou d'agave cru)
+3. 2 1/4 T (250 g) de *poudre de cacao* cru
+4. 1/2 cc de café en poudre
+
+https://linstantcrudecouverte.learnybox.com/formation/formation/16140/?idmodule=156615&idpage=783264
+
+** Tarte au chocolat
+:PROPERTIES:
+:ID:       9a3216e4-0c47-4aa8-8028-f041f5403201
+:END:
+
+[[file:instant-cru/tarte-chocolat.png]]
+
+*** Ingrédients
+
+Pour 12 à 18 personnes :
+
+1. [[id:28aef70b-9b17-4109-9540-57460528e60b][Fond de tarte aux amandes et au cacao]] pour 2 T
+2. [[id:a48fba52-67b9-4bcc-8310-3b4810273f9c][Ganache pur cacao]] pour 4 T
+
+Tabler pour que les bulles d'air remontent à la surface.
+
+https://linstantcrudecouverte.learnybox.com/formation/formation/16140/?idmodule=156615&idpage=783270
+
+** Gâteau au cacao corsé et au carawmel tendre
+:PROPERTIES:
+:ID:       37429967-1f0b-406a-b819-8cde5edcf904
+:END:
+
+[[file:instant-cru/gateau-cacao-corse-carawmel-tendre.png]]
+
+https://linstantcru.learnybox.com/formation/formation/15654/?idmodule=270800&idpage=1355539
+
+*** Ingrédients
+
+Pour 12 à 18 personnes :
+
+1. [[id:28aef70b-9b17-4109-9540-57460528e60b][Fond de tarte aux amandes et au cacao]] pour 2 T
+2. [[id:7ebd4f98-f40c-4170-b9be-345254d2fe31][Carawmel tendre]] pour 1 1/3 T
+3. [[id:a48fba52-67b9-4bcc-8310-3b4810273f9c][Ganache pur cacao]] pour 4 T
+
+** Croustillants de sésame au miel
+
+[[file:instant-cru/croustillants-sesame-miel.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270808&idpage=1355560
+
+*** Temps
+
+- Temps de préparation : 15 min.
+- Temps de déshydratation : 15 h.
+
+*** Ingrédients
+
+- 1 T (130 g) de graines de sésame blond
+- 3/4 T (180 ml) d'eau
+- 1/4 T (45 g) de graines de lin doré fraîchement moulues
+- 3 cs (45 ml) de miel liquide
+- 1 pincée de sel rose
+
+*** Préparation
+
+Tous les ingrédients se rejoignent joyeusement dans la cuve d'un robot équipé
+d'une lame en S et se laisse mixer rapidement pour former une purée qui
+s'étalera nonchalamment en couche fine sur une à trois feuilles de téflex selon
+l'épaisseur des tuiles ou des rouleaux désirés. Pour des tuiles très fines,
+trois feuilles de téflex peuvent se laisser recouvrir de préparation. Pour des
+rouleaux, un ou deux feuilles suffiront pour que les rectangles découpés
+s'enroulent facilement autour des cylindres pour se former et sécher sans se
+briser. Après six à huit heures, selon l'épaisseur des tuiles et des rouleaux,
+la préparation est prête à se laisser retourner délicatement sur la grille et se
+laisser découper aux ciseaux en rectangles de la taille désirée. Les rectangles
+de pâte peuvent s'enrouler tendrement autour de cylindres pour en épouser la
+forme en séchant avant de s'en détacher pour parfaire leur séchage pendant une
+douzaine d'heures.
+
+Les rouleaux se laisseront docilement fourrer de crèmes, de fruits ou de
+fromages, et ce à la dernière minute pour ne pas compromettre leur croustillance
+ni se laisser ramollir par le fourrage.
+
+Les tuiles se laisseront superposer à la dernière minute par des fruits, de la
+crème ou toute autre préparation, salée ou sucrée.
+
+*** Note de dégustation
+
+La croustillance des tuiles et des rouleaux se préserve dans des boîtes
+hermétiques et se ravive en un passage de quelques heures à la chaleur douce et
+soufflante du déshydrateur. Le délicat goût de miel s'accorde parfaitement avec
+des saveurs salées ou sucrées, des fruits un peu acides comme les framboises
+ainsi que des crèmes sucrées ou des fromages salés, le tout au coeur d'une
+salade de pousses et d'herbes. Un peu de miel peut venir se couler sur la
+préparation finale.
+
+*** Avec les thés
+
+Nous aimons particulièrement le Tie Guan Yin Impérial du palais des Thés dont
+notes torréfiées, sésame grillé au biscuit, donne de la longueur en bouche, très
+bon avec le miel.
+
+** Crumbles                                                         :prepa15min:
+:PROPERTIES:
+:ID:       24cbeaa0-776f-4730-93f0-ed4ca7eac869
+:END:
+
+*** Ingrédients
+
+- 1 T (130 g) de noix de macadamia
+- 1/2 T (55 g) de sucre de fleur de coco (ou plus selon la douceur ou l'acidité
+  des fruits)
+- 1/4 cc de sel
+- 1/4 cc d'extrait de vanille
+
+*** Fruits
+
+- 2 T (500 ml) de fruits frais
+- 3/4 T (180 ml) de fruits séchés (exceptées les graines oléagineuses et les
+  graines)
+
+*** Préparation
+
+Placez les ingrédients du Crumble dans la cuve d'un robot équipé d'une lame en
+S pour les réduire en sable plus ou moins fin. Le sable est prêt à recouvrir les
+fruits le moment venu.
+
+Préparez la compotée de fruits en les mariant selon leurs affinités, dans la
+cuve d'un robot équipé d'une lame en S - ou dans celle d'un blender. Placez
+d'abord les fruits secs accompagnés d'une petite portion (ou de jus) de fruits
+pour les broyer en purée grossière et encore texturée. Puis ajoutez à la
+dernière seconde les morceaux de fruits frais afin de les broyer à peine
+quelques secondes afin qu'ils conservent une certaine contenance avec quelques
+morceaux.
+
+*** Idées pour des alliances heureuses
+
+- Ainsi les pommes comploteront avec des abricots secs pour se compoter
+  amicalement.
+
+- Les poires partageront la cuve du robot avec des pruneaux et quelques zestes
+  d'orange (une pointe de cannelle dans le Crumble)
+
+- Toutes les sortes de prunes même un peu acides se laisseront mixer avec des
+  raisins secs pour échanger un peu de douceur contre leur vivacité.
+
+- Les pêches et les abricots rechercheront la compagnie des baies rouges séchées
+  comme les airelles, les cranberries, les baies de goji.
+
+- Les fraises et les framboises comme tous les fruits rouges frais aimeront
+  tempérer leur vivacité avec des fruits fermes comme les bananes, les pommes ou
+  les mangues et se marieront volontiers avec des fruits secs distingués comme
+  les mangues séchées, les ananas séchés, les litchis.
+
+- Les fruits d'hiver comme les pommes, les bananes, les poires, les kiwis, les
+  kakis, les mangues pourront tous se retrouver dans la cuve d'un robot
+  à condition qu'ils y rejoignent des dattes, des raisins secs, des abricots
+  secs ou tout autre fruit sec qui leurs apporteront la douceur de leur saveur
+  sucrée pour leur éviter de passer brutalement à la casserole.
+
+- Les fruits frais retrouveront avec familiarité leurs semblables séchés. Ainsi
+  les abricots frais renoueront avec les abricots secs, les pommes fraîches avec
+  les pommes séchées etc. Pour que hors du feu, la vivacité du fruit cru se
+  compote avec la suavité des fruits secs.
+
+** Lait d'amande crémeux
+
+** Cheesecake aux framboises
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270806&idpage=1355557
+
+** Gâteau moelleux à la mangue
+
+*** Ingrédients
+
+Pour un gâteau pour 6 à 8 personnes.
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270802&idpage=1355547
+
+*** Base pour gâteau moelleux
+
+Pour 2 T (450 g) :
+
+- 1 T (64 g) de noix de coco râpée
+- 1 T (130 g) de noix de pécan, de Grenoble ou d'amandes
+- 1/4 T (30 g) de dattes dénoyautées ou d'abricots secs dénoyautés
+- Une généreuse pincée de sel
+
+*** Mangues
+
+- 2 ou 3 belles mangues bien mûres pour 2 1/2 T (350 g) de chair détaillée en
+  petits morceaux
+
+Des fruits, des épices et autres essences qui peuvent venir au secours d'une
+mangue un peu décevante :
+
+- mangues séchées
+- citron vert
+- menthe
+- ananas séché
+- cardamome
+- framboises fraîches
+- gingembre
+- mandarine
+
+Orange, sirop d'agave et de cayenne peuvent accompagner.
+
+* Autres plats sucrés (crêpe, glace)
+
+** Glace
+
+- Bananes surgelées
+
+Servir ces glaces avec des coulis de toutes sortes réalisés avec le
+blender. J'aime rajouter un *coulis* fabriqué avec des *framboises surgelées* et un
+peu de *sirop d'agave*.
+
+Vous pouvez aussi ajouter une *sauce au chocolat fondante*, engageant la [[id:a48fba52-67b9-4bcc-8310-3b4810273f9c][ganache
+pur cacao]] ou la Ganache Pralinée qu'il suffit de rallonger avec de l'eau pour
+les transformer en sauce. N'oubliez pas d'ajouter une petite *Tuile de Sésame
+blond au Miel*.
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270774&idpage=1355429
+
+** Glace à base de banane
+
+*** Ingrédients
+
+- 3 bananes fraîches (pour consistance crème glacée)
+- Framboises surgelées
+- Pour sucrer (optionnel) : sirop d'érable, sirop d'agave ou miel
+
+Mixer.
+
+Pour une glace en boule, la remettre au congélateur. Goût smoothie, 100 %
+fruits.
+
+https://masterclass-cooking-show.learnybox.com/formation/formation/27972/?idmodule=270634&idpage=1354836
+
+** Helado de vainilla con nueces
+
+Para dos personas:
+
+- 4 plátanos congelados (pelados y troceados antes de congelar)
+- 1/2 cucharada de postre de canela
+- 1/2 cucharada de postre de vainilla en polvo
+- 3 nueces peladas
+
+https://www.begreenchica.com/helados-saludables/
+
+*** Dans la série suédoise Gasmann
+
+- datiles
+- anacardos
+- vainilla en polvo
+
+** Glace à base de mangue
+
+- 3 bananes fraîches (pour consistance crème glacée)
+- Mangue surgelée (aussi pour consistance crème glacée)
+
+https://masterclass-cooking-show.learnybox.com/formation/formation/27972/?idmodule=270634&idpage=1354836
+
+** Glace au chocolat
+
+- 2 bananes
+- 1/2 T de noix de cajou ou de noisettes
+- 2 cs de poudre de cacao cru
+- 1 à 2 cs de sirop d'érable ou d'agave
+- 1 petite pincée de sel
+
+48:50
+
+* Petits-déjeuners
+
+** Mousse coco - chia (de Claudine Spini)
+
+*** Ingrédients
+
+- crème de coco
+- 3 cs de chia (va gonfler)
+- compléter avec lait d'amandes
+- 1 cc ou cs de sucre de coco
+- *bien* mélanger
+- mettre au frigo le soir (prêt pour le matin)
+
+Dessert surprise rapide.
+
+** Pudding de chia
+
+https://masterclass-cooking-show.learnybox.com/formation/formation/27972/?idmodule=270634&idpage=1354839
+(à 08:30)
+
+** Crackers et granola
+
+Protocole :
+
+- 1 1/2 T de sarrasin germé ou 1/4 T de courge ou de tournesol germées ou 1/2 T
+  de fruits oléagineux (amandes, noix de cajou, noix de pécan, noix de
+  macadamia)
+  + Faire broyer 2/3
+  + Mettre l'autre 1/3 à la fin, pour avoir des éclats
+- 1 pomme à 1 1/2 pomme
+- un peu de jus de citron (sauf si vous mettez des fruits qui ont déjà une
+  acidité, comme les framboises)
+- un petite pincée de sel gris (même dans les desserts, car exhausteur de goût)
+
+Robot lame en S.
+
+Déshydrateur avec feuille téflex avec une spatule.
+À mi-déshydratation, les retourner et enlever la feuille téflex.
+
+Mangue / framboise = mélange exceptionnel
+
+https://masterclass-cooking-show.learnybox.com/formation/formation/27972/?idmodule=270634&idpage=1354839
+
+* Sandwichs (burgers, tacos)
+
+** Comme du thon mayonnaise
+
+https://www.crusineacademie.com/thon-mayonnaise-vegetal-cru/
+
+** Petits pains crus (de Marie-Sophie L.)
+
+[[file:instant-cru/petits-pains.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270808&idpage=1355569
+
+https://masterclass-cooking-show.learnybox.com/formation/formation/27972/?idmodule=270634&idpage=1354839
+
+*** Ingrédients
+
+- 1 T bien tassée (160 g) de *pulpe d'amande* (obtenue après extraction de la
+  crème d'amande à travers un sac à lait). \\
+  /2 T d'amandes + 2 T d'eau broyées et filtrées produisent 2 T (300 g) de pulpe
+  d'amande et 1 3/4 T de lait épais./
+- 300 g de *graines de sarrasin fraîchement germées*
+- 4 cs (40 g) de *graines de lin fraîchement moulues* (à moudre à la dernière
+  minute car elles s'oxydent) -- ce sont elles qui vont épaissir, qui vont
+  gonfler
+- 1 cc de *sel* (gris)
+- (1 à) 3 gt d'*HE de poivre noir*
+
+Optionnellement :
+- Raisons secs ou petits fruits secs
+- Noix
+
+*** Préparation
+
+Mêler tous les ingrédients à la main dans un cul de poule.
+
+Former des navettes et les couper en 2 pour les mettre à déshydrater (sans
+téflex) dans un four à 42°C pendant 3 heures... plus ou moins selon la
+consistance désirée.
+
+Alternative :
+- 1 heure à 60° C et
+- 4 heures à 45° C.
+
+Conservation :
+- Un peu mous, ne se conservent pas trop longtemps
+- Craquants, se conservent longtemps dans une boite hermétiquement fermée
+
+*** Note de dégustation
+
+Déposer la [[id:751b7936-9d3c-462d-8b5a-b2114e3a4ed8][bonne foi]] en morceau épais sur le pain, sans l'étaler...
+
+*** Avec les thés...
+
+Le thé Chaï *Nunshen* est extraordinaire avec la [[id:751b7936-9d3c-462d-8b5a-b2114e3a4ed8][bonne foi]] et le pain cru...
+
+** Petits pains moelleux (de 42 Délices)
+
+[[file:instant-cru/petits-pains-moelleux.png]]
+
+https://www.youtube.com/watch?v=rFQHi8TgneE
+
+*** Ingrédients
+
+Pour 15 petits pain :
+- 1 1/2 T de carottes râpées
+- 3 branches de céleri
+- 1/2 oignon
+- 1 T de lin moulu
+- 3 cs de cumin
+- 3/4 T d'eau de quinton
+- 1/4 T de psyllium (va remplacer le gluten : moëlleux et élastique)
+- 1 cs de graines de sésame (pour la décoration)
+
+*** Préparation
+
+1. Mettre tous les ingrédients sauf le psyllium au blender.
+2. Mixer jusqu'à l'obtention d'une *pâte lisse*
+3. Ajouter le psyllium et mixer, *laisser gonfler 5 min*
+4. Sur un plateau de déshydratation, recouvert d'une feuille téflex, former des
+   boules avec la *boule à glace* diamètre 5cm. Parsemer de *graines de sésame*.
+5. Mettre au déshydrateur à *60°C pendant 1h* puis environ 16h à 42°C. Retirer la
+   feuille au bout de 2h quand les pains ne collent plus.
+6. Les petits pains doivent être secs à l'extérieur, moelleux à l'intérieur mais
+   pas trop humide.
+
+Dégustez aussitôt ou conservez dans un *contenant hermétique* au *réfrigérateur*
+quelques (5) jours.
+
+** Terrine de bonne foi (foie gras végétal)
+:PROPERTIES:
+:ID:       751b7936-9d3c-462d-8b5a-b2114e3a4ed8
+:END:
+
+** Viande de taco aux noix
+
+https://minimalistbaker.com/10-minute-raw-vegan-taco-meat/
+
+VIANDE DE TACO AUX NOIX
+- SundayDigest
+- Sponsorisé par SundayDigest
+- Die lächerlichsten Bilder, die im Fitnessstudio gemacht wurden
+
+EN SAVOIR PLUS
+- 2/3 de T de tomates séchées au soleil (de préférence conditionnées à sec, pas dans l'huile)
+- 3 Ts de noix crues
+- 4 gousses d'ail (hachées)
+- 1/2 cuillère à café de sel de mer (et plus selon le goût)
+- 1 cuillère à soupe de paprika fumé
+- 1 cuillère à soupe de cumin moulu
+- 1 cuillère à soupe de poudre de chili
+- 2 c. à café de sucre de coco (omettre si vous évitez le sucre, ou ajouter un peu de stévia)
+- 1-2 petits poivrons habanero (épépinés et hachés // plus ou moins selon la préférence des épices // ou sub 1 piment chipotle dans une sauce adobo, plus selon le goût, mais cela fera que la recette ne sera plus crue)
+- 1 à 2 cuillères à café de levure nutritionnelle (facultatif)
+- ~1/4 T d'eau selon les besoins (et plus selon les besoins)
+
+POUR L'AGRICULTURE/SERVOIR (facultatif)
+- Tortillas
+- Coriandre
+- Avocat
+- Radis
+
+Instructions
+- Ajouter les tomates séchées au soleil dans un petit bol et couvrir d'eau chaude. Réserver et laisser tremper pendant au moins 5 minutes.
+- Dans le bol d'un robot ménager, ajoutez les noix et faites un repas semi-fin en les pulsant (certains gros morceaux peuvent être utilisés, mais attention à ne pas les mélanger au beurre). Transférez les noix dans un bol à mélanger moyen et mettez-les de côté.
+- Égouttez les tomates séchées au soleil (en réservant l'eau dans un petit bol pour la remettre dans la sauce par la suite) et ajoutez-les au bol du robot de cuisine. Ajoutez l'ail, le sel de mer, le paprika fumé, le cumin, la poudre de chili, le sucre de coco, les habaneros et la levure nutritionnelle (facultatif) et mélangez jusqu'à l'obtention d'une pâte lisse. Ajoutez 1 cuillère à soupe (15 ml) d'eau réservée à la fois jusqu'à l'obtention d'une sauce épaisse mais coulante (voir photo).
+- Goûtez et ajustez la saveur selon les besoins, en ajoutant plus de sel pour le salé, de l'ail pour plus de "zing", des poivrons pour la chaleur, du cumin pour le fumé, ou du sucre de coco pour équilibrer la chaleur.
+- Ajoutez le mélange aux noix et remuez pour combiner. À ce stade, vous pouvez à nouveau goûter et ajuster les saveurs selon vos besoins. Nous avons ajouté un peu plus de sel.
+- Dégustez dans n'importe quel cadre où l'on utiliserait de la viande à tacos : tacos, salade, nachos, burritos, et plus encore. Les restes peuvent être conservés jusqu'à 5-7 jours au réfrigérateur ou jusqu'à 1 mois au congélateur.
+
+** Wraps (oranges) au potimarron
+
+https://www.youtube.com/watch?v=iGGpxa8CL50&list=PLMNEtd7Z6EbKFXTGBxHMpV7e9p2MT-DeG
+
+Ingrédients pour 2 plateaux, soit 4 à 8 wraps :
+- 800 g environ de potimarron (ou autre courge)
+- 10 cl d'huile d'olive
+- 5 cl de jus de citron
+- 10 cl d'eau
+- 1 cc de graines de coriandre
+- 1 cc de basilic séché
+- 80 g de graines de lin (pour la texture)
+- 20 g de sésame (pour le croquant)
+
+Optionnel :
+- épinards
+- poivrons
+
+2 à 3 mm sur un plateau du déshydrateur
+12 heures
+
+Garnir avec les crudités et sauces de votre choix.
+
+** Wraps (verts) aux épinards et wraps (rouges) aux poivrons
+
+https://www.youtube.com/watch?v=_VQH-zaQrF4
+
+- 1 T de graines de lins broyées
+- 4 belles poignées d'épinards
+- 1 cs de cumin en poudre
+- 1 oignon
+- 3 dattes Medjool
+- 1 T d'eau
+- 2 cs de tamari
+
+* Boîte à lunch (panier repas)
+
+Les amandes trempées une douzaine d'heures sont prêtes à donner du lait, de la
+crème et des crackers.
+
+Les graines de sarrasin trempées quelques heures et laissées à germer 24 heures
+dans une passoire sous un linge propre développent un germe; elles peuvent
+ensuite être utilisées telles quelles pour des granola ou des gâteaux (de
+voyage), ou être mises à sécher dans un déshydrateur afin d'être moulues en
+farine.
+
+Les graines de quinoa nous aident à fabriquer des taboulés et des couscous, des
+gâteaux croustillants.
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270774&idpage=1355435
+
+** Gâteau de voyage à l'ananas, au romarin et au gingembre
+
+https://masterclass-cooking-show.learnybox.com/formation/formation/27972/?idmodule=270634&idpage=1354839
+
+** Bananes déshydratées
+
+[[file:instant-cru/bananes-deshydratees.png]]
+
+https://linstantcrubeaute.learnybox.com/formation/formation/15656/?idmodule=151505&idpage=759899
+
+https://masterclass-cooking-show.learnybox.com/formation/formation/27972/?idmodule=270634&idpage=1354836
+
+*** Ingrédients
+
+- *Bananes* bien mûres, un peu écrasées ou coupées en rondelles
+
+*** Préparation
+
+Placer les bananes sur la grille d'un déshydrateur et les laisser sécher à 42° C
+pendant 12+ heures (mais, la 1-ère heure, on peut les mettre à 60° C ou 56° C).
+
+#+begin_tip
+Bananes séchées : si on veut les veut bien sèches, les déshydrater au moins 24
+heures. Voir https://www.youtube.com/watch?v=rFQHi8TgneE (28:10).
+#+end_tip
+
+*** Note de dégustation
+
+À emporter à l'école, roulées dans de la poudre de noisettes, dans du cacao...
+
+À mettre dans du granola, au petit déjeuner.
+
+** Pommes déshydratées
+
+https://linstantcrubeaute.learnybox.com/formation/formation/15656/?idmodule=151505&idpage=759899
+
+Une simple déshydratation en dessous de 42 °C concentre si fortement les parfums
+et les sucres de la pomme qu'on la croit carawmélisée.
+
+** Pommes carawmélisées (Pommes au carawmel)
+
+[[file:instant-cru/pommes-carawmelisees.png]]
+
+*** Temps
+
+Temps de déshydratation : une 12-aine d'heures ou moins pour que les pommes
+restent fondantes.
+
+*** Ingrédients
+
+- 4 à 6 pommes détaillées en rondelles fines
+- [[id:c2c69713-7b17-4ec8-8008-5cfb66cb4c92][Carawmel]]
+
+*** Préparation
+
+Les pommes se glissent dans le plateau du déshydrateur et se laisser recouvrir
+de carawmel. Le carawmel va sécher à la douce chaleur du déshydrateur et rendre
+les pommes fondantes...
+
+** Croustillants de sésame aux pommes carawmélisées
+
+[[file:instant-cru/croustillants-sesame-pommes-carawmelisees.png]]
+
+https://linstantcru.learnybox.com/formation/formation/15654/?idmodule=270808&idpage=1355563
+
+** Cuirs de fruits
+
+Mélanger des glaces (à base de banane, à base de mangue, etc.) sur une feuille
+téflex ou un papier sulfurisé, en faisant un joli dessin (épaisseur de quelques
+millimètres) et les mettre au déshydrateur.
+
+Si les myrtilles ne sont pas assez acides, rajouter un peu de citron -- avec les
+framboises, surtout pas (elles sont largement assez acides).
+
+Les rouler, faire des crèpes, les couper en rondelles, faire des serpentins,
+faire des bonbons (à couper aux ciseaux), à fourrer comme des briques, comme des
+chaussons.
+
+https://masterclass-cooking-show.learnybox.com/formation/formation/27972/?idmodule=270634&idpage=1354836
+
+** Cuir de carawmel de pommes
+
+- 3 ou 4 pommes
+- Sel
+- Pour sucrer : sirop d'érable (le plus gourmand !), dattes, raisons secs, miel
+  ou sirop d'agave
+- Un peu d'huile de coco
+- Un tout petit peu de citron, pour petit côté d'acidité
+
+Étaler sur une feuille téflex ou du papier sulfurisé.
+
+60° C la première heure.
+
+** Amandes caramélisées crues
+
+https://www.youtube.com/watch?v=j6HCNnpXQps
+
+* Sauces, trempettes et vinaigrettes
+
+Les secrets de l'équilibre; pour une sauce basique, il faut :
+
+- 1 T d'huile (d'olive, de lin, de cameline, de noisette, d'argan etc... je
+  prends soin de varier mes huiles) ou un avocat qui se laissera mixé dans un
+  blender avec les liquides et de l'eau
+- environ 5 cs de jus de citron ou de vinaigre de cidre (ou balsamique) ou de
+  tamari
+
+
+Bonjour Virginie. Les vidéos de techniques donnent rarement des recettes mais
+les protocoles de fabrication et d'utilisation du matériel pour produire des
+textures... sans cuisson. Pour la Sauce de salade, en fonction de vos goûts en
+terme de texture, fluide ou épaisse, de saveur, acide, douce, amère... je
+préfère vous enseigner à réussir VOTRE sauce, celle qui répondra à VOS
+goûts. Pour cela, dans un petit bol mixeur, verser la moitié de vos graines de
+tournesols déjà germées, (faites-en germer plein, celles qui ne seront pas
+engagées dans la fabrication de la sauce se mélangeront à la salade pour lui
+apporter du croquant). puis, ajouter l'huile, le citron, le sel, éventuellement
+du vinaigre de cidre... et à ce moment là, goûtez. Il vous reste sous la main de
+tous les ingrédients, dont le citron, pour ajuster vitre sauce à votre goût. Il
+se peut que vous trouviez les graines de tournesol un peu amères, selon le stade
+de germination et leur qualité ; ajoutez alors une pointe de sirop d'agave ou la
+chair d'un avocat, ou des noix de cajou. Ajouter aussi de l'eau pour émulsifier
+le mélange, de la poudre de graines de moutarde, des herbes fraiches, surgelées,
+séchées... ou en huile essentielle. je reste à votre écoute pour tout complément
+d'information après que vous ayez expérimenté ce protocole. J'ai modifié la page
+de formation pour y insérer la réponse à votre question... Joyeusement !
+Marie-Sophie
+
+** Sauce balsamique
+
+*** Ingrédients
+
+- Huile de lin, de cameline ou d'olive
+- Vinaigre balsamique
+- [[https://vidya.shop/product/plasma-marin-hypertonique-vitalisea-3l-special-crusine/][Sérum de Quinton]]
+
+** Sauce à la mangue et à la coriandre
+
+*** Ingrédients
+
+- De l'avocat
+- De la mangue
+- Des feuilles de coriandre
+
+que j'allonge avec :
+
+- Du sérum de Quinton et
+- De l'eau.
+
+*** Préparation
+
+Si je n'ai pas de *feuille de coriandre* sous la main, je met 1 gt d'*HE de
+feuilles de coriandre* diluée dans un flacon d'huile d'olive.
+
+Lorsqu'une *mangue* est décevante à l'ouverture ou *pas assez mûre*, il m'arrive
+d'utiliser une tranche de *mangue décongelée ou séchée* (réhydratée dans le sérum
+de Quinton quelques minutes le temps de préparer les ingrédients de la sauce et
+de découper les légumes de la salade).
+
+** Mayonnaise sans huile (avec de l'avocat)
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270774&idpage=1355422
+
+*** Ingrédients
+
+- 1/2 à 1 *avocat* entier
+- 1/2 à 1 cc de graines de *moutarde* dorée entières, selon votre tolérance aux
+  notes piquantes
+- 1/4 T (60 ml) d'eau
+- 1 cs (15 ml) de jus de *citron*
+- 1/2 cc de poudre d'oignon (optionnel) ou 1 cs d'oignon frais écrasé
+  (optionnel)
+- Une pointe d'ail écrasé selon l'humeur
+- Du sel
+- Du poivre blanc
+
+** Mayonnaise
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270774&idpage=1355435
+
+*** Ingrédients
+
+- Un peu d'avocat
+- Graines de tournesols trempées quelques heures (doublent de volume)
+- De l'eau
+- Du *citron*
+- Du sel
+
+** Mayonnaise de cajou
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270774&idpage=1355422
+
+*** Ingrédients
+
+- Avocat
+- Graines de *moutarde*
+- Noix de cajou
+- Sérum de Quinton
+  (NDLR, https://www.topsante.com/medecines-douces/remedes-de-grand-mere/l-eau-de-quinton-le-serum-marin-a-tout-faire-248691)
+
+** Sauce napolitaine (ou concassée napolitaine)
+:PROPERTIES:
+:ID:       4b3af93f-d0eb-4c51-8d38-b09657f30abc
+:END:
+
+[[file:instant-cru/sauce-napolitaine.png]]
+
+https://linstantcru.learnybox.com/les-spaghetti-a-la-napolitaine/
+
+*** Ingrédients
+
+Pour 2 personnes (1 1/2 T, 360 ml) :
+
+- 1 T (150 g) de tomates coupées en dés, épépinées
+- 1/4 T (10 g) de tomates séchées, puis pulvérisées en poudre dans un mini
+  blender ou un moulin à céréales
+- 1/4 T (25 g) d'olives noires dénoyautées (optionnel)
+- 1 T (100 g) de poivron coupé en morceaux, éventuellement pelé
+- 1/2 oignon rouge ou 1 belle échalote coupé en morceaux
+- 2 cs (30 ml) d'huile d'olive
+- 1 ou 2 dattes dénoyautées ou 1 cs soupe de sirop d'agave cru
+- 2 cs de basilic frais ou 1 gt d'HE de basilic ou 2 cc de basilic séché
+- 1 cs d'origan frais ou 1 cc d'origan séché ou d'herbes de Provence
+- 1 petite gousse d'ail hachée si elle est bienvenue à vos papilles
+- 1/2 cc de sel
+- 1 pointe de poivre de Cayenne
+- Quelques gt de jus de citron éventuellement...
+
+** Béchamel de cajou à la muscade et au poivre noir
+:PROPERTIES:
+:ID:       0904359a-6705-4787-b293-92d50c2c1f4c
+:END:
+
+[[file:instant-cru/bechamel-cajou.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270784&idpage=1355494
+
+*** Ingrédients
+
+Pour 1 T (240 ml) :
+
+- 1 T (120 g) de noix de cajou
+- 1/4 T d'eau (60 à 120 ml), selon l'épaisseur de la crème désirée
+- 1 pincée de noix de muscade finement et fraîchement moulue
+- 1 pincée de sel
+- Du poivre noir
+
+** Pesto d'hiver
+:PROPERTIES:
+:ID:       caa40ac8-f860-4ced-b479-d1259e42edc3
+:END:
+
+[[file:instant-cru/pesto-hiver.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270783&idpage=1355489
+
+*** Ingrédients
+
+Pour 1 T :
+
+- 3 T (125 g) de jeunes pousses d'épinard bien tassées, et
+- 1 à 2 gt d'HE de basilic mêlée à l'huile d'olive
+
+ou
+
+- 3 belles bottes de basilic (qui remplace bien entendu les épinards dans les
+  mêmes proportions, sans ajout d'HE)
+
+Puis :
+
+- 1/4 T (30 g) de pignons de cèdre ou de noix de pécan, ou de Grenoble
+- 1/4 T (60 ml) d'huile d'olive
+- 1/2 gousse d'ail (plus ou moins ou pas du tout selon le goût)
+- 1/4 cc de sel
+- 1/2 cs de levure maltée (optionnel)
+- Quelques gt à 1/2 cs de jus de citron, selon l'acidité du citron, des
+  épinards, à rajouter avec parcimonie ou pas du tout.
+
+*** Avec les thés
+
+Avec cet étonnant pesto d'hiver, un *Tamaryokucha Imperial*, de préférence et
+Grand Cru, thé vert du Japon, s'unit parfaitement tant en parfum qu'en texture.
+
+** Pesto de menthe
+
+[[file:instant-cru/pesto-menthe.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270783&idpage=1355491
+
+*** Temps
+
+Temps de préparation : 5 minutes.
+
+*** Ingrédients
+
+Pour 1 T :
+
+- 3 T (deux belles bottes) de feuilles de menthe bien tassées
+- 1/4 T (30 g) de pignons ou amandes de cèdre ou de noix de Grenoble
+- 1/4 T (60 ml) d'huile d'olive
+- 1/2 gousse d'ail (plus ou moins ou pas du tout selon le goût)
+- 1/4 cc de sel
+- 1/2 cs de levure maltée
+- Quelques gt à 1/2 cs de jus de citron selon l'acidité du citron
+
+*** Préparation
+
+Placez tous les ingrédients dans la cuve d'un blender pour les transformer en
+sauce à la texture juste croquante comme il faut. Certains pignons de cèdre se
+plaisent à résister au broyage et ajoutent ainsi une notre plaisante à l'oeil et
+à la dent.
+
+*** Note de dégustation
+
+Ce pesto de menthe pourra se plaire dans des compositions telles :
+- des [[id:8b948df2-ce19-407c-8e94-3421a899e450][lasagnes]],
+- des cannelloni,
+- toutes sortes de pâtes végétales et crues
+- des quiches,
+- des tartes ou
+- des [[id:dee088a2-5049-47ac-959a-f517a2e0c97c][pizza]]...
+
+** Sauce curry
+:PROPERTIES:
+:ID:       1f4abacf-ab43-41de-902e-e1700cd45884
+:END:
+
+*** Ingrédients
+
+- 1 T (110 g) de noix de cajou (ou de graines de tournesol germées)
+- 1/2 T (120 ml) d'eau
+- 1 cs de curry
+- 1 pincée de piment de Cayenne
+- 3/4 de cc de sel
+
+** Sauce tomate fraîche (de Suzanne Vegan)
+
+- tomates cerise (ou tomates rondes, ou tomates allongées, ou coulis de tomates
+  100 % tomates, ni sel, ni huile = passata)
+- basilic
+- 3 ou 4 dattes
+
+** Sauce blanche (de Suzanne Vegan)
+
+- noix de cajou (ou noix de Grenoble ou pistaches)
+- mixer avec jus de citron et herbes
+- ajouter eau
+- ajouter tomates séchées (coupées en petits morceaux, pas mixées !)
+
+** Poudre d'épices
+
+https://www.youtube.com/watch?v=rFQHi8TgneE à 37:00
+
+*** Ingrédients
+
+- Gingembre
+- Curcuma
+- Oignon
+- Ail
+
+*** Préparation
+
+1. Broyer, dans le blender, avec un peu d'eau jusqu'à l'obtention d'une pâte
+2. Déshydrater
+3. Broyer
+
+* Boissons
+
+https://bru.be/fr/les-mocktails-bru-r-font-petiller-la-tournee-minerale
+
+https://1001jus.fr/12-raisons-boire-jus-legumes-fruits/
+
+https://www.grazia.fr/cuisine/recettes/jus-anti-fatigue-voici-la-boisson-energetique-et-naturelle-qui-va-remplacer-le-c-970802#img12
+
+https://amelioretasante.com/4-jus-faire-face-stress-a-depression-a-fatigue/
+
+https://www.begreenchica.com/http:/www.begreenchica.com/temas/programas/zumos/
+
+https://viehealthy.com/jus-betterave-rouge/
+
+http://www.enviedunerecette.com/2016/10/09/le-jus-vert-du-debutant-epinard-carotte-pomme/
+
+
+
+Les dix erreurs les plus communes quand on fait des jus...et comment y remédier !
+https://www.youtube.com/watch?v=r3oqr80I7to
+
+
+1. Variez : ne faites pas toujours les mêmes jus
+2. Buvez-les en quantités raisonnables
+3. Contre les oxalates : variez les légumes verts
+4. Ne mettez pas trop de fruits
+5. Prenez le temps de les boire
+6. Utilisez des produits frais et biologiques
+7. Choisissez des jus maison plutôt que ceux du commerce
+8. Nettoyez l'extracteur immédiatement après l'extraction du jus
+
+** Heerlijke ice tea
+
+Ingrediënten :
+- 1,5 liter water
+- 3 zakjes Tenderness thee bio Energie
+- 250 ml Kombucha blossom
+- 100 ml Aloë vera sap bio
+- 250 ml bruiswater
+- Verse munt en sinaasappelschijfjes
+
+Bereiding:
+1. Breng het water aan de kook en haal vervolgens van het vuur
+2. Laat de zwarte theezakjes 3 tot 5 minuten trekken
+3. Afkoelen tot kamertemperatuur en voeg het Aloë Vera sap en Kombucha toe.
+4. Voeg ook wat sinaasappelschijfjes en muntblaadjes toe en laat enkele uren
+   verder koelen in de koelkast (afgedekt)
+5. Meng het geheel met het bruiswater en roer alles goed door
+6. Serveer in een glas met ijsblokjes en werk af met muntblaadjes en
+   sinaasappelschijfes
+7. Geniet!
+
+https://nl.pit-pit.com/pages/zomerthee
+
+** Gaspacho concombre - melon
+
+Avec :
+- copeaux de feta
+- huile d'olive
+- jus de citron
+
+Recette de Cristina (d'un resto bruxellois)
+
+** Jus avocat - pistache - miel (à Alicante)
+
+Ingrédients dans le blender :
+- 1 avocat
+- du lait entier (ou autre lait végétal, style lait de soja)
+- des pistaches concassées
+
+Mettre du miel liquide au fond et sur le bord intérieur du verre.
+
+Rajouter des pistaches concassées sur le dessus du smoothie.
+
+** Cure de jouvence
+
+Jus du matin :
+- carotte, chou kale, pomme, menthe
+  (cure douceur "je m'éveille")
+- betterave, carotte, citron, plasma d'eau de mer
+  (cure herbes sauvages "je découvre")
+- verveine citronnelle, fenouil, pomme, chlorella
+  (cure herbes sauvages "je découvre")
+- carotte, céleri, citron, verveine
+  (cure minceur "je me reminéralise")
+- pomme, céleri, spiruline, ortie
+  (cure sportifs "je me revitalise")
+
+Jus du midi :
+- fenouil sauvage, ortie, citron, pomme
+  (cure douceur "je m'éveille")
+- pomme, herbes sauvages (ortie, chardon marie, bourrache selon les
+  disponibilités)
+  (cure herbes sauvages "je découvre")
+- pomme, carotte, citron, plasma d'eau de mer
+  (cure herbes sauvages "je découvre")
+- pomme, ortie, plasma d'eau de mer
+  (cure minceur "je me reminéralise")
+- betterave, carotte, pomme, citron, plasma d'eau de mer
+  (cure sportifs "je me revitalise")
+
+Jus du soir :
+- carotte, céleri, pomme, persil
+  (cure douceur "je m'éveille")
+- céleri, spiruline, pomme, menthe
+  (cure herbes sauvages "je découvre")
+- pomme, menthe, citron, fenouil
+  (cure herbes sauvages "je découvre")
+- chlorella, pomme, fenouil, betterave
+  (cure minceur "je me reminéralise")
+- lithothamne, menthe, citron, pomme
+  (cure sportifs "je me revitalise")
+
+https://www.lesjusdepy.fr/
+
+** Cure de Jus Détox (Belgique !)
+
+https://www.drblend.com/fr racheté par https://www.sap.je/en/shop/juices/
+
+** Power Shot DETOX / Élixir de jouvence (pour les sportifs, etc.)
+
+Bien mieux qu'une boisson détox, cet élixir est un concentré de vitalité aux
+multiples bienfaits. Avec du citron, du gingembre et du curcuma ainsi que du
+*poivre noir en option pour les sportifs*, vous réaliserez un concentré d'élixir
+de jouvence *à boire en shoot ou dilué* dans de l'eau chaude...
+
+C'est simple, 2 fois plus de citron /en poids/ que de gingembre et que de
+curcuma :
+
+- 1/2 citron entier
+- 1/4 de curcuma
+- 1/4 de gingembre
+- poivre noir (optionnel)
+
+que vous diluer à convenance. XXX Quinton ?
+
+La dose habituelle est d'*un verre à liqueur par jour*.
+
+Attention : le curcuma, cela tâche. D'où l'astuce : je commence par le curcuma;
+comme cela, aorès les autres ingrédients rincent l'extracteur.
+
+https://www.youtube.com/watch?v=w7zjkMqVv6I
+
+Combien de temps peut-on le garder dans la bouteille en verre au frigo ?
+2 semaines. Mais chez moi la bouteille ne reste pas si longtemps car j'en prends
+aussi le soir dans de l'eau chaude.
+
+Petit rappel : l'élixir de Jouvence se décante au repos. Il faut *bien le remuer
+avant de se servir*.
+
+5:11 : Les *déchets*, je les passe *au déshydrateur* et le lendemain matin un petit
+coup de bender et hop cela fait des petites *épices* que j'utilise dans des
+préparations.
+
+Mêmes ingrédients :
+https://uperform.be/blog/shot-detox-citron-citron-vert-curcuma-et-gingembre/
+
+** Élixir de jouvence
+
+4 ingrédients pour une peau lisse, douce et élastique, une vision plus nette
+(de -3 à -1) et des cheveux plus épais et brillants (et qui arrêtent de
+blanchir !).
+
+Consommez 1 càc de cet élixir 3 fois par jour, 30 minutes avant les repas.
+
+- https://www.vulgaris-medical.com/actualite-sante/elixir-anti-age-notre-recette-100-naturelle
+- https://www.santeplusmag.com/cet-elixir-miraculeux-vous-permet-de-rester-jeune-pour-longtemps/
+- https://www.santeplusmag.com/lelixir-jouvence-que-toute-femme-devrait-essayer/
+- https://www.youtube.com/watch?v=Pu-hhEPJlwg (vidéo)
+
+*** Ingrédients
+
+- 1 gros bulbe d'ail (composé d'environ une 12-aine de gousses)
+- 100 ml d'huile de lin
+- 500 g de miel
+- 2 citrons de taille moyenne
+
+*** Préparation
+
+1. Pelez la tête d'ail et 1 citron
+2. Mixez le tout avec le 2-ème citron entier (avec la peau)
+3. Ajoutez ensuite le miel et l'huile de lin et mixez à nouveau
+4. Une fois le mélange bien liquide et homogène, conservez le dans un bocal en
+   verre avec un couvercle hermétique au réfrigérateur.
+
+*** Quels sont les bienfaits de ces ingrédients ?
+
+**** Ail
+
+L'ail contient 60 % d'eau. Il est riche en vitamines A, B1, B2, B3, B5, B6, E et
+C, en oligo-éléments, en minéraux comme le calcium, le phosphore, le fer et le
+sélénium, composés sulfurés, et en antioxydants : bêta-carotène, vitamine E et
+flavanoïdes.
+
+Grâce à sa teneur en antioxydants, l'ail est un précieux allié pour la peau. *Les
+antioxydants qu'il contient piègent les radicaux libres, permettant de limiter*
+*voire contrer leurs effets dévastateurs sur la peau. La peau ne s'affaisse plus,
+et les rides sont estompées.*
+
+L'ail élimine les parasites et nettoie les vaisseaux sanguins.
+
+- Inhibiteur de l'agrégation des plaquettes
+- Vasodilatateur coronarien (augmente le calibre des artères coronaires :
+  artères irriguant le muscle cardiaque)
+- Stomachique : facilite la digestion
+- Cholagogue : facilite l'évacuation de la bile
+- Cholérétique : augmente la sécrétion de bile
+- Antibiotique utilisé dans les infections intestinales chroniques et
+  quelquefois dans la dysenterie amibienne, contre le bacille de Koch (à
+  l'origine de la tuberculose). Dans certains pays, il est employé desséché en
+  dose de 4 à 6 g dans cette indication
+- Tonique général
+- Antiseptique utilisé en traitement externe dans certaines plaies (anthrax :
+  association de plusieurs furoncles)
+- Sudorifique : favorise la sudation
+- Hypoglycémiant léger : diminue le taux de sucre dans le sang
+- Combat les oxyures (vers blancs parasitant l'intestin ), administré le plus
+  souvent en lavement ou en suppositoire
+- Hypocholestérolémiant : diminue le taux de cholestérol dans le sang
+- Hypotenseur : fait baisser la tension artérielle
+- Prévient l'atteinte de la rétine secondaire à l'artériosclérose (durcissement
+  des petits vaisseaux)
+- Protège pour les artères du cerveau et des jambes (claudication intermittente)
+- Protège contre la parodontose (destruction des tissus alvéolaires dans
+  lesquels sont implantées les dents)
+
+**** Huile de lin
+
+Les graines de lin contiennent des acides gras linoléiques (oméga-6), oléiques
+(oméga-9) et palmitiques. Plus de 50% de ces acides sont alpha linoléiques, ce
+qui fait de l'huile de lin la source la plus riche d'oméga-3 (elle en contient
+même plus que l'huile de poisson).
+
+L'huile de lin est aussi une riche source de lignanes, d'importants antioxydants
+qui, combinés avec le citron, nettoient le foie et les canaux biliaires. Or,
+nettoyer son foie est la meilleure des cures de rajeunissement.
+
+- Laxative : combat la constipation
+- Riche en Oméga 3
+- Facilite la perte de poids
+- Facilite l'élimination des déchets et toxines
+- Combat les ballonnements
+- Soulage les troubles de la ménopause
+
+**** Miel
+
+Le miel est utilisé depuis des millénaires par les femmes grecques, romaines et
+égyptiennes pour prendre soin de leur peau. *Cet aliment est riche en vitamines*
+*A, B, C, D, H, K et PP, en sels minéraux comme le fer, le phosphore, le calcium*,
+*le potassium, le sodium), en acides aminés et en oligo-éléments tels que le
+cuivre, le sélénium et le zinc.* Le miel contient des antibiotiques naturels et
+possède également une forte teneur en eau.
+
+Le miel a des vertus hydratantes. Sa richesse en sucre facilite la fixation des
+molécules d'eau, ce qui rend la peau douce et souple. *Il a aussi des vertus
+antioxydantes qui permettent d'estomper les rides et de redessiner les*
+*contours. Le miel est riche en flavonoïdes qui aident le corps à éliminer les
+radicaux libres et protègent du vieillissement cutané.* Il est en plus
+régénérant grâce aux vitamines, acides aminés et minéraux qu'il contient.
+
+Le miel apporte au sang des micronutriments qui rajeunissent l'organisme tout
+entier.
+
+- Antioxydant
+- Anti-inflammatoire
+- Antibactérien
+- Source de nutriments
+
+**** Citron
+
+*Le citron est un alicament au même titre que l'ail et l'oignon. Malgré son goût
+acide, il est alcalinisant.* En d'autres termes, après oxydation, le citron
+donne un résidu très riche en vitamines A, B, C et en sels minéraux comme le
+sodium, calcium, magnésium et potassium. Le citron tonifie le foie, fluidifie et
+purifie le sang.
+
+*La richesse du citron en vitamine C fait de lui une bombe antioxydante ne
+laissant pas aux radicaux libres le champ libre pour agir de manière nocive sur*
+*la peau. Cette vitamine éclaircit en plus le teint, apporte beaucoup d'éclat et
+favorise l'élasticité de la peau. Elle est en plus soutenue par l'action de*
+*l'hespéridine et à l'ériocitrine, deux flavonoïdes redoutables contre les
+radicaux libres.*
+
+Le citron contient aussi de l'acide citrique et de l'acide malique. Cette
+combinaison permet de rester jeune longtemps en gommant les cellules mortes, et
+en relançant le renouvèlement des cellules.
+
+La vitamine C présente dans le citron est un antioxydant parfait, qui stimule le
+système immunitaire et les vaisseaux sanguins.
+
+- Antiseptique
+- Antiscorbutique : contre le scorbut (il contient une grande quantité de
+  vitamine C)
+- Bactéricide
+- Antivénéneux : contre le venin
+- Dépuratif : débarrasse l'organisme de ses toxines
+- Fébrifuge : fait baisser la fièvre
+- Antigoutteux : contre la goutte
+- Antiartériosclérose : contre l'artériosclérose
+- Reminéralisant
+- Antirhumatismal
+- Rafraîchissant
+- Anti-acide gastrique
+- Hypotenseur : fait baisser la tension artérielle
+- Antihelminthique :  combat les vers intestinaux
+- Combat la jaunisse
+- Agit contre l'obésité
+- Diminue l'ascite
+- Combat l'asthénie
+- Soulage les aphtes
+- Soulage la migraine
+- Élimine les verrues
+- Renforce les ongles
+
+** Jus citron carotte betterave pomme
+
+Pour la préparation de ce jus vous aurez besoin de :
+
+- 1 betterave
+- 1 carotte
+- 1 pomme et
+- 1 citron
+
+Vous pouvez simplement laver les ingrédients, il n'y a pas besoin de les
+éplucher. Ensuite, coupez-les en morceaux et mettez les morceaux dans une
+centrifugeuse; boire le jus dès qu'il est prêt, parce que ça fonctionne mieux
+quand il est frais.
+
+À l'exception de la lutte contre le cancer, cette boisson miracle:
+
+1. Prévient les maladies du foie, des reins et du pancréas, et peut également
+   aider à traiter les ulcères de l'estomac.
+2. Renforce le système immunitaire.
+3. Améliore la vision, bonne pour le traitement de la rougeur des yeux.
+4. Réduit la douleur après un entraînement physique intense.
+5. Élimine les selles dures, avec un effet positif sur le côlon.
+6. Rend votre peau plus saine.
+7. Renforce les poumons et régule l'hypertension artérielle.
+8. Améliore la mauvaise haleine due à l'indigestion de nourriture.
+9. Aide à traiter une peau à tendance acnéique.
+10. Réduit les douleurs menstruelles.
+
+https://www.sante-nutrition.org/boisson-miracle-empeche-propagation-du-cancer/
+
+** Jus magique
+
+Jus de betterave, orange, citron, pomme, miel pour booster sa santé
+
+Aujourd'hui, pour vivre mieux, on fait confiance aux recettes naturelles et aux
+bons vieux remèdes de grand-mère. La preuve avec ce jus composé uniquement de
+fruits et de betterave qui aurait des vertus étonnantes pour booster le système
+immunitaire et prolonger l'espérance de vie. Cette potion magique permettrait
+même de prévenir l'apparition de certain cancers et de prolonger l'espérance de
+vie. Voici la recette.
+
+Ce qu'il vous faut :
+
+- 1 kg de betterave
+- 100 g de miel pur
+- 3 oranges
+- 1/2 kg de carottes
+- 3 pommes
+- 1 citron
+
+Il suffit de tout mettre dans un mixeur et de mélanger.
+
+https://www.terrafemina.com/article/ce-jus-magique-prolongerait-l-esperance-de-vie_a306447/1
+
+** Meilleurs jus pour combattre le cancer
+
+Il s'agit ici d'une liste non exhaustive des meilleurs jus de fruits et de
+légumes contre le cancer. De nombreux autres aliments, fruits et légumes
+confondus, proposent des propriétés intéressantes sur la prévention et la
+guérison du cancer. C'est pour cette raison qu'il est intéressant de varier les
+jus que nous consommons, mais aussi de les boire régulièrement !  Toutefois, il
+faut préciser qu'il n'existe pas un aliment miracle face au cancer. Mais les
+fruits et les légumes présents dans ces jus peuvent se montrer d'un grand
+soutien. Ils sont pour la plupart des aliments antioxydants puissants. Mais
+aussi riches en composés phénoliques, en vitamines, en sels minéraux et en
+oligo-éléments.
+
+- Le jus d'argousier face au cancer
+- Le jus de carotte
+- Le jus de citron avec gingembre
+- Le jus d'épinards
+- Le jus de betterave
+
+https://www.lesjusdelegumes.fr/sante/quels-sont-les-meilleurs-jus-pour-combattre-le-cancer/
+
+** Comment se débarrasser des cernes sous les yeux
+
+Il arrive que nous nous réveillions après avoir passé une mauvaise nuit, et la
+première chose que nous voyons dans le miroir, ce sont d'énormes cernes sous nos
+yeux. Les dermatologues disent qu'avec l'âge, notre peau a tendance à perdre sa
+capacité à se régénérer, ce qui conduit à une plus grande visibilité de ces
+marques. Nous pouvons les couvrir temporairement avec du maquillage, mais cela
+n'aidera pas à éliminer le problème à long terme.
+
+En faisant confiance à la nature et à ses trésors, nous pouvons traiter et
+guérir plusieurs maladies et affections. Parmi les meilleurs remèdes naturels
+qui existent on trouve le curcuma.
+
+*** Ingrédients
+
+- 1 pincée de curcuma
+- 1 pincée de farine de pois chiche
+- 1 cs de jus de citron
+- 1 cs de jus de tomate
+
+*** Instructions
+
+1. Dans un bol, mélangez tous les ingrédients, puis appliquez la préparation sur
+   vos cernes.
+2. Laissez agir *pendant 10 minutes*, puis rincez.
+
+Cette astuce est *à appliquer chaque soir avant de vous coucher*. Le citron et la
+tomate possèdent des propriétés éclaircissantes très efficaces qui vont donner
+de l'éclat à votre teint, tandis que la teneur en antioxydants du curcuma va
+favoriser une bonne circulation sanguine et va éliminer les toxines
+accumulées. Pour finir, la farine de pois chiche va vous débarrasser des peaux
+mortes et prévenir les rides.
+
+https://www.recettemarocaine365.com/comment-se-debarrasser-des-cernes-sous-les-yeux/
+
+** Chocolats tout chauds, onctueux, épais ou fluide
+
+À base de cajou ou de banane... ou de lait de souchet ou d'amande.
+
+Un délice express et réconfortants.
+
+*** Ingrédients
+
+1° : Pour un chocolat très crémeux... très épais
+- 1 T de noix de cajou
+- 2 CAS de cacao cru en poudre
+- 2 CAS de sirop d'érable ou de sirop d'agave ou 2 dattes dénoyautées
+- 11/2 CAS de plasma marin hypertonique ou une petite pincée de sel
+- 1/2 T d'eau
+- + 1/4 à 1/2 T d'eau
+
+2° :Pour un chocolat crémeux... et épais
+Vous ajoutez à la préparation précédente (la 1°)
+- 1/2 T d'eau (bouillante pour un chocolat chaud)
+- 1 CAS de poudre de cacao cru
+- 1 CAS de sirop d'érable ou de sirop d'agave ou 2 dattes dénoyautées
+- 1/2 à 1 CAS de plasma marin hypertonique ou une petite pincée de sel
+
+3° :Pour un chocolat plus fluide... et onctueux
+Vous ajoutez à la préparation précédente (la 2°)
+- 1/2 T d'eau (bouillante pour un chocolat chaud)
+- 1 CAS de poudre de cacao cru
+- 1 CAS de sirop d'érable ou de sirop d'agave ou 2 dattes dénoyautées
+- 1/2 à 1 CAS de plasma marin hypertonique ou une petite pincée de sel
+La troisième version mesure environ 600 ml et peut s'allonger encore d'eau pour
+encore plus de fluidité
+
+*** Préparation
+
+1° : Tous les ingrédients se retrouvent dans la cuve du blender, exceptée 1/4
+à 1/2 T d'eau pour se laisser intimement broyés en préparation très onctueuse.
+
+2°: 1/4 à 1/2 T d'eau bouillante se rajoute peu à peu pour fluidifier légèrement
+le chocolat qui va rester très épais.
+
+3° : Ensuite, vous allonger d'eau (bouillante, pour un chocolat chaud) et
+ajouter de la poudre de cacao cru, du sirop d'agave ou d'érable et du sel (ou de
+l'eau de mer) pour obtenir la texture désirée.
+
+*** Note de dégustation
+
+Là, c'est le moment de jouer avec les épices selon l'humeur et les saisons. La
+nature nous en offre une variété généreuse que vous pouvez marier à l'infini...
+
+Un peu de gingembre râpé sera délicieux par temps humide, une pointe de piment
+de Cayenne qui s'accorde merveilleusement avec le cacao relancera le feu
+digestif, des épices pour pain d'épice, de la poudre de cannelle, de la badiane,
+de la vanille, de la fève tonka etc... même du poivre noir s'accorderont
+parfaitement avec ce chocolat chaud. Vous pouvez même remplacer l'eau bouillante
+par du thé de noël ou une infusion de thym par exemple. Amusez-vous.
+
+*** Variations
+
+Vous pouvez fabriquer du lait crémeux d'amande, de noisette, ou du lait de
+souchet, en prenant garde de ne mettre que peu d'eau au début pour bien mixer
+les noix, et en rajouter progressivement pour allonger le lait avant de le
+filtrer dans un sac à lait.
+
+Les noix de souchet sont naturellement sucrées, ce ne sont pas des graines
+oléagineuses et elle conviennent pour ceux qui sont allergiques au oléagineuses.
+
+** Kéfir d'eau et de fruits
+
+Exemples d'aromatisation
+- Fruits secs : raisins secs, canneberges
+- Fruits frais : nectarine, pêche, mangue, fraises, fruit de la passion
+- Fruits surgelés : Framboise
+- Épices :  Gousse de vanille, badiane, cannelle, gingembre confit ou râpé
+- Écorces d'agrumes : citron vert, combava, pamplemousse, orange...
+- Fleurs : sureau, pétales de rose, violette, hibiscus, robinier (ou acacia)...
+- Plantes aromatiques (à utiliser fraîches) : menthe, verveine citronnelle,
+  mélisse...
+
+Utilisez un pic à brochette ou une baguette de type baguette chinoise pour
+retirer plus facilement les ingrédients après la seconde fermentation.
+
+Sites :
+
+- https://uncourantdevert.fr/kefir-de-fruits-une-boisson-delicieuse/
+- https://www.commeunavantgout.fr/kefir-de-fruit/
+- https://madame.lefigaro.fr/cuisine/les-boissons-fermentees-nouvel-elixir-de-jouvence-070217-129570
+
+- *Mojito au kéfir d'eau*
+
+  + jus d'un demi-citron vert
+  + 2 càc de sucre (de canne)
+  + 2 petits brins de menthe (fraîche)
+  + 3 à 4 glaçons
+  + kéfir d'eau gazeuse
+  + éventuellement : rhum
+
+  https://groeikruid.nl/blogs/recepten/zomers-genieten-waterkefir-mojito
+
+- *Kéfir d'eau à la poire épicée*
+
+  + 3/4 d'une bouteille de kéfir d'eau
+  + 100 ml de jus de poire
+  + 1/2 càc de cannelle
+  + 1/2 càc de noix de muscade
+  + gingembre coupé
+
+  https://groeikruid.nl/blogs/news/kruidige-peer-waterkefir-herfstrecept
+
+*** Kéfir d'eau au curcuma et au gingembre
+
+https://www.mr-plantes.com/2019/09/kefir-deau-curcumagingembre-la-recette/
+
+*** Recette du kéfir
+
+Voici une recette de kéfir d'eau qui donne de bons résultats :
+
+Ingrédients :
+
+- 4 cuillères à soupe de grains de kéfir d'eau
+- 1 litre d'eau filtrée
+- 1/4 tasse de sucre de canne biologique
+- 2 figues séchées ou 3 abricots séchés
+- 1/2 citron bio
+
+Instructions :
+
+1. Dans un grand bocal en verre, ajoutez l'eau filtrée, le sucre et les figues
+   ou abricots séchés. Mélangez bien jusqu'à ce que le sucre soit dissous.
+
+2. Ajoutez les grains de kéfir d'eau dans le bocal.
+
+3. Coupez le demi-citron en deux et pressez le jus dans le bocal. Vous pouvez
+   également ajouter les moitiés de citron dans le mélange.
+
+4. Couvrez le bocal avec un chiffon ou un essuie-tout et laissez reposer
+   à température ambiante pendant environ 24 à 48 heures.
+
+5. Après ce temps, retirez les figues ou les abricots, ainsi que les moitiés de
+   citron.
+
+6. Filtrez le kéfir d'eau à l'aide d'un tamis en plastique ou en nylon et
+   transférez le liquide obtenu dans une bouteille en verre avec un couvercle
+   hermétique.
+
+7. Vous pouvez consommer le kéfir d'eau immédiatement ou le mettre au
+   réfrigérateur pour une boisson plus fraîche.
+
+Il est important de noter que les quantités de sucre et de grains de kéfir peuvent varier en fonction de vos préférences personnelles. Vous pouvez ajuster la quantité de sucre en fonction de la douceur que vous souhaitez et la quantité de grains de kéfir pour accélérer ou ralentir le processus de fermentation.
+
+** Jus ACE revisité
+
+Saviez-vous que les *vitamines ADEK* étant *liposolubles* avaient *besoin de gras*
+pour être parfaitement assimilées ?  Alors on rajoute un trait d'huile de
+noisette dans notre jus !  Ainsi, l'apport en vitamine E est comblé et la
+synergie ACE est parfaite et complète.
+
+https://carbelfrance.fr/blog/le-jus-ace-revisite/
+
+** Jus vitaminé et Jus minceur : pensez au chou-fleur
+
+La teneur élevée en choline du chou-fleur.  La choline est un nutriment
+essentiel dont de nombreuses personnes manquent. Dans 100 g de chou-fleur, vous
+trouverez environ 35 g de choline. Cela correspond à 11 % de l'apport journalier
+recommandé pour les femmes et à 8 % pour les hommes.
+
+https://carbelfrance.fr/blog/jus-vitamines-et-minceur-chou-fleur/
+
+** Jus d'avocat, tomate, fraise & basilic (au blender)
+
+https://madame.lefigaro.fr/recettes/jus-davocat-tomate-fraise-basilic-060916-116201
+
+** Recette détox : Smoothie VERT au Blender - Chef Clément
+
+- 1 branche de céleri
+- 1 petite tasse d'eau
+- 1/2 concombre
+- 1 pomme verte
+- fânes de carotte et persil plat
+- quelques pousses d'épinards
+- jus de citron vert
+- 2 c de purée d'amandes
+- 1 pincée de sel fin
+
+https://www.youtube.com/watch?v=SMUBdkJGll8
+
+** MAYB Green Kitchen Smoothies_Over 5 - David Frenki...
+
+Kid's Greenie
+
+** Infusion matinale (d'Irène Grosjean)
+
+https://www.youtube.com/watch?v=RdBqwPdC0kU à 18:17
+
+- 4 g d'HE de cannelle
+- un peu de miel
+- de l'eau chaude
+
+** Smoothies
+
+Les smoothies sont intéressants pour favoriser la consommation de légumes
+à travers celle des fruits. Les fruits plus sucrés et plus appétissants
+entrainent les légumes plus rébarbatifs pour former ensemble un smoothie
+onctueux, soyeux... et délicieux !
+
+C'est une grande idée pour augmenter la portion de fruits et de légumes au
+quotidien, entre-autres pour les enfants... et aussi pour les grands. Les
+smoothies s'oxydent beaucoup moins rapidement que les jus (qui doivent être bus
+aussitôt faits) et de ce fait, peuvent être emportés partout afin d'être
+consommés facilement. Ils sont rapidement assimilables par l'organisme car très
+digestes du fait de leur texture prémâchée. Ce qui n'empêche qu'il faut tout de
+même les faire tourner en bouche et les déguster gorgée après gorgée pour les
+prédigérer dans la bouche autant que pour les apprécier.
+
+*** Smoothie à la banane et aux fruits rouges surgelés
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270790&idpage=1355507
+
+*** Smoothie brocoli-passion
+
+[[file:instant-cru/smoothie-brocoli-passion.png]]
+
+https://linstantcrubeaute.learnybox.com/formation/formation/15656/?idmodule=151508&idpage=759902
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270790&idpage=1355508
+
+**** Ingrédients
+
+- Feuilles de brocoli
+- Bananes très très mûres
+- Fruits de la passion
+
+Vous pouvez remplacer :
+- les *bananes* par des *mangues* ou tout autre fruit,
+- les *fruits de la passion* par des *agrumes* (citron, framboises) qui apporteront
+  une belle acidité
+- les *feuilles de brocoli* par toutes les *feuilles vertes* que vous trouverez
+  selon la saison : les feuilles de blettes, les fanes de légumes racines ou
+  plus simplement les feuilles de chou kale, très riches en protéines ainsi que
+  les épinards si riches en anti-oxydants.
+
+Une astuce : ajouter de la *spiruline* ou de la poudre d'*algue Klamath* est un bon
+truc lorsque vous êtes pressé et n'avez pas de feuilles vertes sous la main...
+
+** Jus céleri branche, concombre, pomme
+
+** Jus pomme, persil, fenouil
+
+** Jus de carotte, concombre, pomme, persil
+
+De Norman Walker
+Moins fatigué, plus fort
+
+** Smoothie anti-fatigue
+
+https://vitaality.fr/un-smoothie-anti-fatigue/
+
+Pour 2 verres :
+- 1,5 T d'épinards
+- 1 mangue
+- 1 avocat
+- 1 cc de cacao en poudre
+- 1 cc de spiruline
+- 0,5 T d'eau
+- 1 poignée de glace
+
+Placez tous les ingrédients dans un mixeur.
+
+** Jus d'orange (Xavier Bazin, Santé Corps Esprit)
+
+Saviez-vous qu'un seul verre de jus d'orange contient le sucre de _deux_ oranges ?
+
+Mais surtout que le sucre des jus est beaucoup plus « rapide » que celui des
+fruits entiers.
+
+Lorsque vous mangez votre fruit entier, les fibres qu'il contient ont l'avantage
+de « ralentir » le passage du sucre dans le sang. À l'inverse, lorsque vous
+buvez le jus du fruit, sans les fibres, votre sucre sanguin augmente
+brutalement, ce qui fatigue votre pancréas et peut causer toutes sortes de
+dommages cellulaires à long terme.
+
+*Mon conseil :* N'hésitez pas à manger des fruits entiers mais évitez les jus, qui
+ne sont trop souvent que du « sucre liquide ». Votre boisson privilégiée doit
+toujours être l'eau, toute simple ou en tisane.
+
+Si vous aimez les jus, régalez-vous de jus de légumes, beaucoup moins
+sucrés. Pour tout vous dire, je prépare chaque matin, au réveil, à mon épouse et
+moi-même un grand *jus* composé de
+
+- concombre, courgette, carotte, fenouil, avocat, et gingembre, ou
+- concombre, fenouil, courgettes, carottes et betteraves
+
+... un délice, et une pluie de vitamines !
+
+** Jus d'ananas (Victoria Azarenka, championne du monde de tennis)
+
+[[file:instant-cru/jus-ananas-brocoli.png]]
+
+https://linstantcrumaitrise.learnybox.com/formation/formation/15654/?idmodule=270774&idpage=1355427
+
+Jus très intéressant au plan gastronomique.
+
+*** Ingrédients
+
+- Des morceaux d'*ananas* tout frais
+- Un *pied de brocoli* détaillé
+
+Le secret de ce jus repose sur :
+
+- Un peu de *gingembre* et
+- Les feuilles de *coriandre*
+
+** Jus façon gaspacho
+
+https://regenere.org/videos/terra-incognita-2017/terra-incognita-2017episode-14mes-recettes-pour-rompre-le-jea-neregenere-org.html
+
+** Jus réveil-matin (jus pour "maigrir" = détoxination et élimination intestinale)
+
+https://www.youtube.com/watch?v=j_TAhQokwdk
+
+*** Ingrédients (pour 75 cl)
+
+= quantité colossale de minéraux et de vitamines (le plein pour la journée)
+
+- 4 oranges (ou 4 pamplemousses)
+- 4 citrons
+- gingembre
+- curcuma
+- piment rouge
+- 1 très belle poignée d'épinards
+- 1 bouquet de persil
+- fenugrec germé
+
+*** Caractéristiques
+
+- Coté *détonixation*
+  + On peut garder la peau des citrons, mais on doit enlever la peau de tous les
+    autres agrumes (HE trop irritante pour l'organisme et les muqueuses)
+  + Les agrumes (avec l'astringence) mettent en mouvement la lymphe, et
+    décollent les intestins
+  + Garder la peau blanche des oranges : elle contient énormément de vitamines
+    et de minéraux ==> faire le jus à l'extracteur plutôt qu'au presse-agrumes
+    (pour garder cette peau)
+  + Le gingembre augmente la perméabilité de la cellule, essentiel pour la détox
+  + Le curcuma (booster du système immunitaire); pour qu'il libère tout son
+    potentiel (avec la curcimine), il faut lui adjoindre du poivre noir et/ou du
+    gingembre
+  + Le piment est vaso-dilatateur, favorise la circulation, la lymphe, et déloge
+    les colles
+- Côté *élimination* (émonctoires)
+  + Pour les intestins : les épinards, avec l'acide oxalique cru (!), accélèrent
+    la progression des matières à l'intérieur des intestins (laxatif... on
+    a tous des intestins paresseux); devraient être ajoutés dans les jus de
+    manière systématique. Psyllium : autre balais intestinal
+  + Pour les reins, bouquet de persil, véritable panacée
+  + Persil = fluidifiant, relance aussi les glandes surrénales
+  + Fenugrec pour le 3-ième émonctoire (par la peau ?)
+- *Brosse pour la peau* plutôt que douche = meilleure habitude de beauté et de
+  santé !  Sauna = panacée pour éliminer par la peau
+- Jus à mettre dans une bouteille à siroter tranquillement en 1 ou 2 heures (il
+  y a beaucoup de nutriments apportés à l'organisme) et le *citron* est
+  *conservateur*
+- Filtrer les jus; c'est bien meilleur pour l'assimilation
+
+** Jus pour le matin, pour se passer du café
+
+(discuté dans https://www.youtube.com/watch?v=j_TAhQokwdk)
+
+- Oranges
+- Citrons
+
+** Jus de betterave-pomme-céleri
+
+Ingrédients :
+- 350 g de betterave crue
+- 1 pomme Jonagold d'environ 200 g
+- 1 petite branche de céleri
+
+** Jus de légumes pour débutants (de CRUsine Académie)
+
+- Toujours plus de vert dans votre alimentation, en passant par les jus, en
+  ayant enlevé les fibres, vous verrez des résultats spectaculaires, à tous
+  niveaux : santé intestinale, peau, confort digestif.
+
+- Servir cela à vos amis à la place d'un apéritif alcoolisé.
+
+[[file:instant-cru/jus-de-legumes-pour-debutants-crusine-academie.png]]
+
+https://www.youtube.com/watch?v=CKEltWhYCOs
+
+*** Jus de pomme-citron-gingembre
+
+Pour 200 à 220 ml de jus :
+- 2 pommes
+- 1 citron
+- gingembre
+
+Selon le dosage de citron, peut également être adapté aux enfants.
+
+*** Jus de brocoli-poire-citron
+
+- 1/2 brocoli (au début) à 1 brocoli
+- 1 poire
+- 1/4 citron
+
+Elle l'adore particulièrement.
+
+*** Jus de carottes-orange-betterave-gingembre
+
+Pour plus de 300 ml de jus :
+- 1 orange, à couper de manière à avoir une assise pour garder le plus de blanc possible
+- 3 carottes
+- 1 betterave
+
+Un de ses jus fétiches aussi.
+
+- Remplir dans des *bouteilles de 250 ml à ras bord*, afin qu'il n'y ait pas
+  d'air, et boucher pour se conserver sans oxydation
+- Toujours mettre un peu de *citron* pour le *conserver* (au frigo)
+
+*** Jus de pomme-céleri-citron-gingembre
+
+Pour 200 ml de jus :
+- 2 pommes
+- 1 branche de céleri
+- 1/4 citron
+- gingembre
+
+Au début, ne pas trop mettre de céleri, et utiliser la partie tige (moins forte
+que la partie feuilles).
+
+Après, le céleri, on devient addict.
+
+*** Jus de mâche-épinard-blette-céleri-orange-gingembre-citron
+
+- mâche
+- épinard
+- blette
+- céleri
+- 2 oranges
+- un peu de gingembre
+- 1/8 citron
+
+Doser avec le céleri qui va relever le goût.
+
+Jus un peu plus épais. Utiliser une spatule pour ne pas trop gratter dans la
+passoire.
+
+Pour *conserver*, s'il manque un peu de jus, *compléter avec du Quinton* qui va
+vraiment bien avec les jus verts.
+
+Jus fétiche.
+
+*** Jus de pomme-carotte-épinard-citron
+
+Le *passe-partout*, à faire goûter aux gens qui débutent et à ceux qui ont un
+a priori sur les jus verts.
+
+Pour 400 ml de jus :
+- 1 pomme
+- 4 carottes
+- épinards
+- 1/4 citron
+
+Toujours bien alterner tous les ingrédients (du mou, du dur, du feuillage) pour
+optimiser le rendement de votre extracteur.
+
+*** Jus de carotte-orange
+
+Autre jus *passe-partout*.
+
+- 5 carottes
+- 2 oranges
+- curcuma (optionnel)
+
+Doser les carottes en fonction du débutant.
+
+*** Jus de pomme-fenouil-épinard-citron-gingembre
+
+- 1 pomme
+- 1/2 (au début) à 1 fenouil
+- épinard
+- 1/4 citron
+- gingembre
+
+Doser avec le fenouil (goût anis).
+
+Également un délice.
+
+** Jus de carotte - pomme
+
+- 3 carottes
+- 2 pommes
+- gingembre
+
+** Smoothies (de Zumoteka El vaso, Málaga, ES)
+
+*** Frutas del Bosque
+
+- 800 ml d'orange
+- 800 g de fraise
+- 125 g de framboise
+- 125 g de myrtilles
+- 20 g de gingembre
+- 1 verre de glaçons
+- (lait de coco ?)
+
+*** Sabor de Venezuela
+
+- 500 g d'ananas
+- 500 g de mangue
+- 100 g de fruits de la passion (4 unités)
+- 900 ml d'orange
+- 1 verre de glaçons
+
+*** Superfood Spirulina
+
+- 1 petite cuillère de spiruline
+- 200 g d'avocat
+- 300 g de banane
+- 600 g d'ananas
+- 900 ml d'eau de coco
+- 1 citron
+- 2 verres de glaçons
+
+*** Juventud
+
+- 900 ml d'orange
+- 500 g de mangue
+- 500 g de fraise
+- 100 g de fruits de la passion (4 unités)
+- 1 verre de glaçons
+
+*** Matcha kale
+
+- 150 g de chou kale (frisé)
+- 500 g de mangue
+- 300 g de banane
+- 600 ml d'eau de coco
+- 1 càs de thé matcha
+- 1 citron
+- 1 verre de glaçons
+
+*** Super Papaya
+
+- 850 ml d'orange
+- 500 g d'ananas
+- 600 g de papaye
+- 1 verre de glaçons
+- (menthe ?)
+
+*** Nuestro Best seller
+
+- 700 ml d'orange
+- 650 g de fraise
+- 650 g de mangue
+- 1 verre de glaçons
+
+*** Fresh Mango
+
+- 1000 g de mangue
+- 900 ml de lait de coco
+- 2 verres de glaçons
+
+*** Detox Aguacate
+
+- 200 g d'épinards
+- 200 g d'avocat
+- 1 citron
+- 1100 ml de pomme
+- (melon ?)
+- 2 verres de glaçons
+
+*** Especial para los Ninos
+
+- 400 g d'ananas
+- 600 g de fraise
+- 500 g de banane
+- 500 ml d'eau de coco
+- (melon ?)
+- 1 verre de glaçons
+
+*** Caroteno
+
+- 700 ml d'orange
+- 1400 ml de carotte
+- 30 g de gingembre
+- (pomme ?)
+
+*** Pitaya
+
+- 500 g de fraise
+- 300 g de banane
+- 150 g pitaya (« fruit du dragon »)
+- 400 ml de lait d'amande
+- 1 verre de glaçons
+
+*** Fresh Granada
+
+- Grenade
+- Orange
+
+*** Detox Remolacha
+
+- Betterave
+- Pomme
+- Carotte
+- Gingembre
+
+*** Para el Amor
+
+- Mangue
+- Pomme
+- Carotte
+- Gingembre
+
+*** Super Hidratante
+
+- Noix de coco naturelle
+
+** Jus de fruits de Rosa Rainchon (pour le matin)
+
+- 2 tomates / citron / basilic
+- 1 carotte / 1 orange / gingembre
+
+** Jus de légumes (de HD Parque Cristobal, Tenerife, ES)
+
+- melón, pepino, jengibre, espinas, piña, agua, espinacas
+- melon, concombre, gingembre, épines, ananas, eau, épinards
