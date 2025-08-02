@@ -1,0 +1,1480 @@
+#+TITLE:     613- Laboratory Results
+#+AUTHOR:    Fabrice Niessen
+#+EMAIL:     (concat "fni" at-sign "pirilampo.be")
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  fr
+#+OPTIONS:   H:3 num:t toc:t
+
+#+FILETAGS:  :personal:
+#+SETUPFILE: ~/org/theme-readtheorg.setup
+#+LaTeX_CLASS: mcbook
+#+LaTeX_CLASS_OPTIONS: [anonym,final]
+
+#+PROPERTY: header-args :exports results :cache no
+
+
+Autres valeurs à surveiller :
+- cortisol
+  + trop = burn out
+  + trop peu = épuisement
+- creatinine
+- nierfunctie GFR = taux de filtration glomérulaire (TFG)
+
+Faire un *bilan* (physiologique) *des neurotransmetteurs*.
+
+* Notes                                                               :noexport:
+
+- IGF-1 = croissance, mais = cancer et/ou diabète (les personnes naines
+  atteintes du syndrôme de Charron en sont exemptes !)
+
+http://www.doctissimo.fr/html/sante/analyses/index_analyses.htm
+
+* TODO À surveiller                                                 :noexport:
+
+- Ocytocine
+
+* Analyses sanguines                                                  :noexport:
+
+- dosage toxicologique vs *dosage nutritionnel*
+
+** Commentaires                                                        :ARCHIVE:
+
+*** Lever
+[2013-12-03 Tue]
+
+- Leververvetting (= steatose)... trop de triglycérides
+- Parenchym, focale weefseltjes (onder reserve)
+
+IRM planifié le [2014-01-05 Sun].
+
+** Template
+
+# #+name: template
+# #+begin_src org :eval never
+# pdf("$var.pdf")
+#
+# library(orgutils)
+# df <- readOrg("525-lab-results.txt", table.name = "data")
+# min <- readOrg("525-lab-results.txt", table.name = "min")
+# max <- readOrg("525-lab-results.txt", table.name = "max")
+# lab <- readOrg("525-lab-results.txt", table.name = "lab")
+#
+# df$Date <- as.Date(df$Date, "%Y-%m-%d")
+# plot($var ~ Date, df, xaxt = "n", pch=19, col=rgb(0.5, 0.5, 0.5, 0.5), cex=1.5,
+#   main="Cholesterol Total", las=2,
+#   # NAs not allowed in 'ylim'
+#   ylim=c(min(min$$var, min(df$$var, na.rm=TRUE)),
+#          max(max$$var, max(df$$var, na.rm=TRUE))),
+#   ylab=lab$$var)
+# abline(h=max$$var, lty=2, col="red", lwd=3)
+# abline(h=min$$var, lty=2, col="blue", lwd=3)
+# abline(h=(min$$var+max$$var)/2, lty=2, col="green")
+# axis(1, df$Date, format(df$Date, "%Y-%m"), cex.axis = 0.7)
+#
+# fit <- lm(df$$var ~ df$Date)
+# abline(fit, col="gray")
+#
+# dev.off()
+# #+end_src
+#
+# #+begin_src org :results replace :wrap "SRC R" :exports results :noweb yes :cache no
+# <<template(var="Cholesterol.Total")>>
+# #+end_src
+
+* Hématologie
+
+#+LaTeX: \tiny
+#+name: datahematologie
+|       Date | Glob.blancs | Tot.Lymfocy | Eosinoph | Lymfocy | Hemoglob | Reticulocy | Thrombocy | Vit.B12 | Acide.Fol | Ferrit | Sat.Transfer |
+|------------+-------------+-------------+----------+---------+----------+------------+-----------+---------+-----------+--------+--------------|
+| 2001-10-01 |             |             |      0.0 |    34.7 |     15.2 |            |           |         |           |        |              |
+| 2003-01-13 |             |             |      0.8 |    36.8 |     16.0 |            |           |         |           |        |              |
+| 2005-01-18 |             |             |      0.0 |    35.9 |     16.3 |         17 |        97 |     375 |      11.1 |    141 |              |
+| 2005-03-31 |             |             |      0.0 |    30.9 |     15.7 |         18 |       126 |         |           |        |              |
+| 2006-04-04 |             |             |      0.0 |    36.6 |     14.9 |            |       161 |         |           |        |              |
+| 2006-06-08 |             |             |          |         |          |            |           |         |           |        |              |
+| 2008-03-03 |             |             |      0.0 |    31.3 |     15.4 |            |       194 |         |           |        |              |
+| 2010-01-11 |             |             |      0.0 |    33.8 |     15.4 |            |       167 |         |           |        |              |
+| 2010-09-08 |             |             |          |         |          |            |           |         |           |        |              |
+| 2011-03-09 |             |             |      0.0 |    32.3 |     14.8 |            |       258 |         |           |        |              |
+| 2012-09-18 |             |             |      2.5 |    29.1 |     13.8 |         27 |       206 |         |           |        |              |
+| 2013-07-31 |             |             |      1.4 |    26.0 |     14.3 |         21 |       212 |         |           |        |              |
+| 2013-08-23 |             |             |      6.5 |    26.3 |     14.8 |            |           |     448 |      12.9 |     18 |              |
+| 2013-09-19 |             |             |          |         |          |            |           |         |           |        |              |
+| 2013-10-31 |             |             |      3.4 |    31.5 |     16.1 |            |           |     627 |      16.1 |     28 |              |
+| 2013-11-28 |             |             |      3.4 |    36.9 |     15.9 |            |           |         |           |     31 |              |
+| 2014-02-20 |             |             |      3.8 |    30.1 |     15.7 |            |           |     495 |           |     42 |              |
+| 2014-09-16 |             |             |      1.4 |    29.7 |     15.2 |         15 |       177 |         |           |        |              |
+| 2016-05-23 |             |             |      6.3 |    32.4 |          |            |           |     287 |           |     46 |              |
+| 2017-01-07 |             |             |      2.0 |    17.4 |     13.4 |         17 |       193 |     741 |           |     86 |              |
+| 2017-12-18 |             |             |      1.7 |         |          |            |       128 |     360 |           |     48 |              |
+| 2018-07-13 |             |             |      2.4 |    25.2 |     16.6 |            |       195 |     300 |           |     43 |              |
+| 2018-11-07 |             |             |          |         |          |            |           |         |           |        |              |
+| 2018-11-07 |             |             |          |         |     15.6 |            |           |     377 |           |     45 |              |
+| 2018-12-07 |             |             |      2.1 |    27.3 |     16.7 |         15 |       201 |     565 |       9.2 |     48 |              |
+| 2019-04-25 |             |             |          |         |     16.3 |            |           |         |           |     62 |              |
+| 2019-04-25 |             |             |          |         |     16.2 |            |           |         |           |     62 |              |
+| 2019-10-16 |             |             |      2.4 |    27.2 |     15.5 |            |       195 |     251 |           |     83 |              |
+| 2020-09-02 |             |             |      2.6 |    29.1 |     15.1 |            |           |     488 |           |    101 |              |
+| 2021-03-21 |             |             |      1.5 |    29.7 |     14.1 |            |           |     364 |      14.7 |     19 |              |
+| 2021-07-30 |             |             |          |         |          |            |           |         |           |        |              |
+| 2021-08-13 |             |             |          |         |          |            |           |         |           |        |              |
+| 2021-09-30 |             |             |      0.4 |    30.9 |     14.5 |       18.5 |           |         |           |     22 |              |
+| 2021-12-07 |         4.5 |        1030 |      0.4 |    23.0 |     16.1 |            |           |     304 |      10.2 |     33 |           26 |
+| 2022-03-22 |         3.7 |         960 |      2.4 |    26.0 |     15.4 |            |           |     251 |       6.4 |     34 |           21 |
+| 2023-06-09 |         4.8 |        1170 |      1.4 |    24.3 |     14.5 |       13.0 |           |     380 |       9.7 |     27 |           26 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfohematologie
+|       | Glob.blancs | Tot.Lymfocy | Eosinoph | Lymfocy | Hemoglob | Reticulocy | Thrombocy | Vit.B12 | Acide.Fol | Ferrit | Sat.Transfer |
+|-------+-------------+-------------+----------+---------+----------+------------+-----------+---------+-----------+--------+--------------|
+| label |             |             |          |         |          |            |           |         |           |        |              |
+| min   |         4.0 |        1500 |        0 |      20 |     13.5 |          5 |       150 |     300 |         2 |     50 |           25 |
+| max   |        10.5 |        4000 |        5 |      45 |     17.5 |         20 |       400 |     835 |        12 |    290 |           50 |
+| unite |     1000/ul |         /ul |       pc |      pc |     g/dl |       0/00 |    10*9/l |    ng/L |      ug/L |   ug/L |           pc |
+#+LaTeX: \normalsize
+
+** Eosinophiles
+
+#+begin_src R :results output graphics file :file images/Eosinophiles.pdf
+source("525-lab-results.R")
+PlotLabVal("datahematologie", "labinfohematologie", "Eosinoph", "Eosinophiles")
+#+end_src
+
+#+results[4239220b1ca8579cb16f90f25fb7c27abe0b5989]:
+[[file:images/Eosinophiles.pdf]]
+
+** Lymfocyten
+
+#+begin_src R :results output graphics file :file images/Lymfocyten.pdf
+source("525-lab-results.R")
+PlotLabVal("datahematologie", "labinfohematologie", "Lymfocy", "Lymfocyten")
+#+end_src
+
+#+results[4239220b1ca8579cb16f90f25fb7c27abe0b5989]:
+[[file:images/Lymfocyten.pdf]]
+
+** Hemoglobine
+
+#+begin_src R :results output graphics file :file images/Hemoglobine.pdf
+source("525-lab-results.R")
+PlotLabVal("datahematologie", "labinfohematologie", "Hemoglob", "Hemoglobine")
+#+end_src
+
+#+results[4239220b1ca8579cb16f90f25fb7c27abe0b5989]:
+[[file:images/Hemoglobine.pdf]]
+
+** Reticulocytes
+
+Les réticulocytes sont des globules rouges immatures fabriqués par la moelle
+osseuse. Leur taux sanguin élevé est le signe d'une anémie ou d'une hémorragie
+aiguë. Au contraire, un taux bas peut témoigner d'une anomalie de la moelle
+osseuse.
+
+#+begin_src R :results output graphics file :file images/Reticulocytes.pdf
+source("525-lab-results.R")
+PlotLabVal("datahematologie", "labinfohematologie", "Reticulocy", "Reticulocytes")
+#+end_src
+
+#+results[4239220b1ca8579cb16f90f25fb7c27abe0b5989]:
+[[file:images/Reticulocytes.pdf]]
+
+** Thrombocytes
+
+#+begin_src R :results output graphics file :file images/Thrombocytes.pdf
+source("525-lab-results.R")
+PlotLabVal("datahematologie", "labinfohematologie", "Thrombocy", "Thrombocytes")
+#+end_src
+
+#+results[4239220b1ca8579cb16f90f25fb7c27abe0b5989]:
+[[file:images/Thrombocytes.pdf]]
+
+** Vitamine B12
+
+#+begin_src R :results output graphics file :file images/Vit-B12.pdf
+source("525-lab-results.R")
+PlotLabVal("datahematologie", "labinfohematologie", "Vit.B12", "Vitamine B12")
+#+end_src
+
+#+results[9c1eb02c4e00dced75a4ae24261a1df8ee2947ae]:
+[[file:images/Vit-B12.pdf]]
+
+** Acide folique
+
+#+begin_src R :results output graphics file :file images/Aci-Folique.pdf
+source("525-lab-results.R")
+PlotLabVal("datahematologie", "labinfohematologie", "Acide.Fol", "Aci-Folique")
+#+end_src
+
+#+results[9c1eb02c4e00dced75a4ae24261a1df8ee2947ae]:
+[[file:images/Aci-Folique.pdf]]
+
+** Ferritine
+
+La ferritine est une protéine essentielle pour réguler le stockage de fer dans
+l'organisme, en régulant son absorption au niveau intestinal. Son dosage permet
+de dépister un certain nombre d'anomalies ou de maladies dont des carences en
+fer, à l'origine d'une anémie.
+
+#+begin_src R :results output graphics file :file images/Ferritine.pdf
+source("525-lab-results.R")
+PlotLabVal("datahematologie", "labinfohematologie", "Ferrit", "Ferritine")
+#+end_src
+
+#+results[db88e150d9beb3cab7023e898888e8d059ad9cf0]:
+[[file:images/Ferritine.pdf]]
+
+** Saturation Transferrine
+
+#+begin_src R :results output graphics file :file images/Sat-Transfer.pdf
+source("525-lab-results.R")
+PlotLabVal("datahematologie", "labinfohematologie", "Sat.Transfer", "Saturation Transferrine")
+#+end_src
+
+#+results[db88e150d9beb3cab7023e898888e8d059ad9cf0]:
+[[file:images/Sat-Transfer.pdf]]
+
+* Biochimie générale
+
+** Fonction rénale
+
+#+LaTeX: \tiny
+#+name: datarenale
+|       Date | Acide.Urique |
+|------------+--------------|
+| 2001-10-01 |          7.2 |
+| 2003-01-13 |          8.7 |
+| 2005-01-18 |          7.6 |
+| 2005-03-31 |              |
+| 2006-04-04 |              |
+| 2006-06-08 |          8.5 |
+| 2008-03-03 |          6.9 |
+| 2010-01-11 |          7.8 |
+| 2010-09-08 |              |
+| 2011-03-09 |          8.0 |
+| 2012-09-18 |          7.9 |
+| 2013-07-31 |          7.9 |
+| 2013-08-23 |          8.0 |
+| 2013-09-19 |              |
+| 2013-10-31 |          7.6 |
+| 2013-11-28 |          6.6 |
+| 2014-02-20 |          7.7 |
+| 2014-09-16 |          7.2 |
+| 2016-05-23 |          7.7 |
+| 2017-01-07 |          6.6 |
+| 2017-12-18 |          7.0 |
+| 2018-07-13 |          6.9 |
+| 2018-11-07 |              |
+| 2018-11-07 |          6.5 |
+| 2018-12-07 |              |
+| 2019-04-25 |          6.4 |
+| 2019-04-25 |          6.4 |
+| 2019-10-16 |          7.0 |
+| 2020-09-02 |          6.7 |
+| 2021-03-21 |          6.7 |
+| 2021-07-30 |              |
+| 2021-08-13 |              |
+| 2021-09-30 |              |
+| 2021-12-07 |          7.6 |
+| 2022-03-22 |          6.5 |
+| 2023-06-09 |          6.3 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinforenale
+|       | Acide.Urique |
+|-------+--------------|
+| label |              |
+| min   |          3.4 |
+| max   |            7 |
+| unite |        mg/dl |
+#+LaTeX: \normalsize
+
+*** Acide urique
+
+#+begin_src R :results output graphics file :file images/Acide-Urique.pdf
+source("525-lab-results.R")
+PlotLabVal("datarenale", "labinforenale", "Acide.Urique", "Acide Urique")
+#+end_src
+
+#+results[f5cc05d8224a50e3e1e43f4ec6aa22158db8ddda]:
+[[file:images/Acide-Urique.pdf]]
+
+** Équilibre hydro-minéral
+
+#+LaTeX: \tiny
+#+name: datahydromineral
+|       Date | Sodium | Phosphore | Vit.D |
+|------------+--------+-----------+-------|
+| 2001-10-01 |        |           |       |
+| 2003-01-13 |        |           |       |
+| 2005-01-18 |        |           |       |
+| 2005-03-31 |        |           |       |
+| 2006-04-04 |        |           |       |
+| 2006-06-08 |        |           |       |
+| 2008-03-03 |        |           |       |
+| 2010-01-11 |        |           |       |
+| 2010-09-08 |        |           |       |
+| 2011-03-09 |        |           |       |
+| 2012-09-18 |        |           |       |
+| 2013-07-31 |        |           |       |
+| 2013-08-23 |    142 |      0.93 |  27.0 |
+| 2013-09-19 |        |           |       |
+| 2013-10-31 |        |           |       |
+| 2013-11-28 |        |           |  21.8 |
+| 2014-02-20 |    144 |      0.86 |  23.8 |
+| 2014-09-16 |        |           |  35.5 |
+| 2016-05-23 |    145 |           |  25.6 |
+| 2017-01-07 |        |           |       |
+| 2017-12-18 |        |           |  40.9 |
+| 2018-07-13 |    144 |      1.20 |  54.1 |
+| 2018-11-07 |        |           |       |
+| 2018-11-07 |    146 |      0.69 |       |
+| 2018-12-07 |        |           |       |
+| 2019-04-25 |    142 |      0.78 |  37.0 |
+| 2019-04-25 |    144 |      0.70 |  30.8 |
+| 2019-10-16 |    144 |      0.60 |  24.8 |
+| 2020-09-02 |    141 |      0.97 |  58.3 |
+| 2021-03-21 |    139 |      1.13 |  59.0 |
+| 2021-07-30 |        |           |       |
+| 2021-08-13 |        |           |       |
+| 2021-09-30 |        |           |       |
+| 2021-12-07 |    142 |      0.94 |  47.8 |
+| 2022-03-22 |    144 |      0.73 |  44.7 |
+| 2023-06-09 |    146 |      1.03 |  33.6 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfohydromineral
+|       | Sodium | Phosphore | Vit.D |
+|-------+--------+-----------+-------|
+| label |        |           |       |
+| min   |    135 |      0.74 |    30 |
+| max   |    145 |      1.51 |    60 |
+| unite | mmol/L |    mmol/L |  ug/L |
+#+LaTeX: \normalsize
+
+*** Sodium
+
+#+begin_src R :results output graphics file :file images/Sodium.pdf
+source("525-lab-results.R")
+PlotLabVal("datahydromineral", "labinfohydromineral", "Sodium", "Sodium")
+#+end_src
+
+#+results:
+[[file:images/Sodium.pdf]]
+
+*** Phosphore
+
+#+begin_src R :results output graphics file :file images/Phosphore.pdf
+source("525-lab-results.R")
+PlotLabVal("datahydromineral", "labinfohydromineral", "Phosphore", "Phosphore")
+#+end_src
+
+#+results:
+[[file:images/Phosphore.pdf]]
+
+*** Vitamine D
+
+#+begin_src R :results output graphics file :file images/Vit-D.pdf
+source("525-lab-results.R")
+PlotLabVal("datahydromineral", "labinfohydromineral", "Vit.D", "Vitamine D")
+#+end_src
+
+#+results:
+[[file:images/Vit-D.pdf]]
+
+** Lipides risque cardio-vasculaire
+
+#+LaTeX: \tiny
+#+name: datalipides
+|       Date | Triglycerides | Chol.Total | Chol.HDL | Chol.LDL | Non.HDL.Chol |
+|------------+---------------+------------+----------+----------+--------------|
+| 2001-10-01 |           152 |        239 |          |      154 |              |
+| 2003-01-13 |           132 |        209 |          |      124 |              |
+| 2005-01-18 |           150 |        218 |       65 |      123 |              |
+| 2005-03-31 |               |            |          |          |              |
+| 2006-04-04 |           118 |        228 |       58 |      146 |              |
+| 2006-06-08 |               |            |          |          |              |
+| 2008-03-03 |               |            |          |          |              |
+| 2010-01-11 |           132 |        231 |       51 |      154 |              |
+| 2010-09-08 |               |            |          |          |              |
+| 2011-03-09 |               |        239 |       61 |          |              |
+| 2012-09-18 |               |        216 |       60 |          |              |
+| 2013-07-31 |               |        193 |       51 |      116 |              |
+| 2013-08-23 |           125 |        220 |       56 |      139 |              |
+| 2013-09-19 |               |            |          |          |              |
+| 2013-10-31 |               |            |          |          |              |
+| 2013-11-28 |           127 |        220 |       62 |      133 |              |
+| 2014-02-20 |           124 |        208 |       54 |      129 |              |
+| 2014-09-16 |           171 |        214 |       57 |      123 |              |
+| 2016-05-23 |           134 |        228 |       58 |      143 |              |
+| 2017-01-07 |            98 |        221 |       59 |      142 |              |
+| 2017-12-18 |           119 |        212 |       59 |      129 |              |
+| 2018-07-27 |           166 |        248 |       67 |      148 |              |
+| 2018-11-07 |               |            |          |          |              |
+| 2018-11-07 |           139 |        236 |       70 |      138 |          166 |
+| 2018-12-07 |               |            |          |          |              |
+| 2019-04-25 |           108 |        233 |       51 |      160 |          182 |
+| 2019-04-25 |            97 |        251 |       63 |      169 |          188 |
+| 2019-10-16 |           117 |        219 |       59 |      137 |          160 |
+| 2021-03-21 |           107 |        205 |       63 |      121 |          142 |
+| 2021-07-30 |           146 |        264 |       71 |      164 |          193 |
+| 2021-08-13 |            80 |        220 |       63 |      141 |              |
+| 2021-09-30 |               |            |          |          |              |
+| 2021-12-07 |            95 |        233 |       63 |      150 |              |
+| 2022-03-22 |           130 |        223 |       66 |      131 |              |
+| 2023-06-09 |           121 |        228 |       60 |      144 |          168 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfolipides
+|       | Triglycerides | Chol.Total | Chol.HDL | Chol.LDL | Non.HDL.Chol |
+|-------+---------------+------------+----------+----------+--------------|
+| label |               |            |          |          |              |
+| min   |            70 |        140 |       40 |        0 |            0 |
+| max   |           150 |        190 |       55 |      114 |          130 |
+| unite |         mg/dl |      mg/dl |    mg/dl |    mg/dl |        mg/dl |
+#+LaTeX: \normalsize
+
+*** Triglycerides
+
+#+begin_src R :results output graphics file :file images/Triglycerides.pdf
+source("525-lab-results.R")
+PlotLabVal("datalipides", "labinfolipides", "Triglycerides", "Triglycerides")
+#+end_src
+
+#+results[f2a32c959b06afc967d74b8f568b1dbc3c4f7fdd]:
+[[file:images/Triglycerides.pdf]]
+
+*** Cholestérol total
+
+#+begin_src R :results output graphics file :file images/Cholesterol-Total.pdf
+source("525-lab-results.R")
+PlotLabVal("datalipides", "labinfolipides", "Chol.Total", "Cholesterol Total")
+#+end_src
+
+#+results[edf0ee586fd75ef5d4a2605fcb099aa4c8ada95c]:
+[[file:images/Cholesterol-Total.pdf]]
+
+*** Cholestérol HDL (bon cholestérol)
+
+#+begin_src R :results output graphics file :file images/Cholesterol-HDL.pdf
+source("525-lab-results.R")
+PlotLabVal("datalipides", "labinfolipides", "Chol.HDL", "Cholesterol HDL")
+#+end_src
+
+#+results[650ba7b17c5072b04fcb1ef1ffaf43ce813e3c24]:
+[[file:images/Cholesterol-HDL.pdf]]
+
+*** Cholestérol LDL (calculé) (mauvais cholestérol)
+
+#+begin_src R :results output graphics file :file images/Cholesterol-LDL.pdf
+source("525-lab-results.R")
+PlotLabVal("datalipides", "labinfolipides", "Chol.LDL", "Cholesterol LDL")
+#+end_src
+
+#+results[6d042aa77adc708fab22908241d8a0d3d1b319dd]:
+[[file:images/Cholesterol-LDL.pdf]]
+
+*** Cholestérol Non-HDL
+
+#+begin_src R :results output graphics file :file images/Non-HDL-Cholesterol.pdf
+source("525-lab-results.R")
+PlotLabVal("datalipides", "labinfolipides", "Non.HDL.Chol", "Cholesterol Non-HDL")
+#+end_src
+
+#+results:
+[[file:images/Non-HDL-Cholesterol.pdf]]
+
+** Fonction hépatique pancréatique
+
+#+LaTeX: \tiny
+#+name: datahepatique
+|       Date | Gamma.GTP |
+|------------+-----------|
+| 2001-10-01 |           |
+| 2003-01-13 |        52 |
+| 2005-01-18 |        45 |
+| 2005-03-31 |           |
+| 2006-04-04 |        58 |
+| 2006-06-08 |           |
+| 2008-03-03 |           |
+| 2010-01-11 |        94 |
+| 2010-09-08 |           |
+| 2011-03-09 |        78 |
+| 2012-09-18 |           |
+| 2013-07-31 |        95 |
+| 2013-08-23 |       113 |
+| 2013-09-19 |           |
+| 2013-10-31 |        92 |
+| 2013-11-28 |       132 |
+| 2014-02-20 |       139 |
+| 2014-09-16 |       104 |
+| 2016-05-23 |       179 |
+| 2017-01-07 |       149 |
+| 2017-12-18 |        92 |
+| 2018-07-13 |           |
+| 2018-11-07 |           |
+| 2018-11-07 |        65 |
+| 2018-12-07 |           |
+| 2019-04-25 |        51 |
+| 2019-04-25 |        48 |
+| 2019-10-16 |        58 |
+| 2020-09-02 |        36 |
+| 2021-03-21 |        79 |
+| 2021-07-30 |           |
+| 2021-08-13 |        41 |
+| 2021-09-30 |        44 |
+| 2021-12-07 |        63 |
+| 2022-03-22 |        84 |
+| 2023-06-09 |        48 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfohepatique
+|       | Gamma.GTP |
+|-------+-----------|
+| label |           |
+| min   |         9 |
+| max   |        50 |
+| unite |     mU/ml |
+#+LaTeX: \normalsize
+
+*** Gamma GT
+
+#+begin_src R :results output graphics file :file images/Gamma-GTP.pdf
+source("525-lab-results.R")
+PlotLabVal("datahepatique", "labinfohepatique", "Gamma.GTP", "Gamma GT")
+#+end_src
+
+#+results[cc9c1e7edf8c465db1268ec1f0db226daac1b09b]:
+[[file:images/Gamma-GTP.pdf]]
+
+** Fonction musculaire
+
+#+LaTeX: \tiny
+#+name: datamusculaire
+|       Date |  CK |
+|------------+-----|
+| 2001-10-01 |     |
+| 2003-01-13 |     |
+| 2005-01-18 |     |
+| 2005-03-31 |     |
+| 2006-04-04 |     |
+| 2006-06-08 |     |
+| 2008-03-03 |     |
+| 2010-01-11 |     |
+| 2010-09-08 |     |
+| 2011-03-09 |     |
+| 2012-09-18 |     |
+| 2013-07-31 |     |
+| 2013-08-23 |     |
+| 2013-09-19 |     |
+| 2013-10-31 |     |
+| 2013-11-28 |     |
+| 2014-02-20 |     |
+| 2014-09-16 |     |
+| 2016-05-23 |     |
+| 2017-01-07 |     |
+| 2017-12-18 |     |
+| 2018-07-13 |     |
+| 2018-11-07 |     |
+| 2018-11-07 |     |
+| 2018-12-07 |     |
+| 2019-04-25 |     |
+| 2019-04-25 |     |
+| 2019-10-16 |     |
+| 2020-09-02 |     |
+| 2021-03-21 |     |
+| 2021-07-30 |     |
+| 2021-08-13 |     |
+| 2021-09-30 |     |
+| 2021-12-07 |  89 |
+| 2022-03-22 | 196 |
+| 2023-06-09 |  81 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfomusculaire
+|       |  CK |
+|-------+-----|
+| label |     |
+| min   |   0 |
+| max   | 171 |
+| unite | U/l |
+#+LaTeX: \normalsize
+
+*** Creatine kinase
+
+#+begin_src R :results output graphics file :file images/creatine-kinase.pdf
+source("525-lab-results.R")
+PlotLabVal("datamusculaire", "labinfomusculaire", "CK", "Creatine kinase")
+#+end_src
+
+#+results[cc9c1e7edf8c465db1268ec1f0db226daac1b09b]:
+[[file:images/Gamma-GTP.pdf]]
+
+** Protéines
+
+#+LaTeX: \tiny
+#+name: dataproteines
+|       Date | Beta.1.G | Gamma.G |
+|------------+----------+---------|
+| 2001-10-01 |          |         |
+| 2003-01-13 |          |    1.53 |
+| 2005-01-18 |     0.54 |    1.38 |
+| 2005-03-31 |          |         |
+| 2006-04-04 |          |         |
+| 2006-06-08 |          |         |
+| 2008-03-03 |          |         |
+| 2010-01-11 |          |         |
+| 2010-09-08 |          |         |
+| 2011-03-09 |          |         |
+| 2012-09-18 |          |         |
+| 2013-07-31 |          |         |
+| 2013-08-23 |          |    1.18 |
+| 2013-09-19 |          |         |
+| 2013-10-31 |          |         |
+| 2013-11-28 |          |    1.17 |
+| 2014-02-20 |          |    1.12 |
+| 2014-09-16 |          |         |
+| 2016-05-23 |          |         |
+| 2017-01-07 |     0.48 |    0.95 |
+| 2017-12-18 |     0.53 |    1.21 |
+| 2018-07-13 |          |         |
+| 2018-11-07 |          |         |
+| 2018-11-07 |          |         |
+| 2018-12-07 |          |         |
+| 2019-04-25 |          |         |
+| 2019-04-25 |          |         |
+| 2019-10-16 |          |         |
+| 2020-09-02 |          |         |
+| 2021-03-21 |     0.44 |    0.94 |
+| 2021-07-30 |          |         |
+| 2021-08-13 |          |         |
+| 2021-09-30 |          |         |
+| 2021-12-07 |          |         |
+| 2022-03-22 |          |         |
+| 2023-06-09 |     0.46 |    0.99 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfoproteines
+|       | Beta.1.G | Gamma.G |
+|-------+----------+---------|
+| label |          |         |
+| min   |     0.34 |    0.80 |
+| max   |     0.52 |    1.35 |
+| unite |     g/dl |    g/dl |
+#+LaTeX: \normalsize
+
+*** Beta 1 Globulines
+
+#+begin_src R :results output graphics file :file images/Beta-1-Glob.pdf
+source("525-lab-results.R")
+PlotLabVal("dataproteines", "labinfoproteines", "Beta.1.G", "Beta 1 Globulines")
+#+end_src
+
+#+results[cc9c1e7edf8c465db1268ec1f0db226daac1b09b]:
+[[file:images/Beta-1-Glob.pdf]]
+
+*** Gamma Globulines
+
+#+begin_src R :results output graphics file :file images/Gamma-Glob.pdf
+source("525-lab-results.R")
+PlotLabVal("dataproteines", "labinfoproteines", "Gamma.G", "Gamma Globulines")
+#+end_src
+
+#+results[cc9c1e7edf8c465db1268ec1f0db226daac1b09b]:
+[[file:images/Gamma-Glob.pdf]]
+
+** Endocrinologie (Hypophyse - gonades)
+
+#+LaTeX: \tiny
+#+name: dataendocrinologie
+|       Date | Transcort | LH.MCH |  LH | FSH | Testo | Testo.Lib | Androstaandiol.Gluc | Oestradiol |
+|------------+-----------+--------+-----+-----+-------+-----------+---------------------+------------|
+| 2001-10-01 |           |        |     |     |       |           |                     |            |
+| 2003-01-13 |           |        |     |     |       |           |                     |            |
+| 2005-01-18 |           |        |     |     |       |           |                     |            |
+| 2005-03-31 |           |        |     |     |       |           |                     |            |
+| 2006-04-04 |           |        |     |     |       |           |                     |            |
+| 2006-06-08 |           |        |     |     |       |           |                     |            |
+| 2008-03-03 |           |        |     |     |       |           |                     |            |
+| 2010-01-11 |           |        |     |     |       |           |                     |            |
+| 2010-09-08 |           |    2.5 |     |     | 350.6 |           |                     |            |
+| 2011-03-09 |           |        |     |     |       |           |                     |            |
+| 2012-09-18 |           |        |     |     |       |           |                     |            |
+| 2013-07-31 |           |        |     |     | 252.6 |           |                     |            |
+| 2013-08-23 |           |        | 3.2 |     | 323.1 |           |                     |            |
+| 2013-09-19 |           |        | 2.5 |     | 344.3 |           |                     |            |
+| 2013-10-31 |           |        |     |     |       |           |                     |            |
+| 2013-11-28 |           |        |     |     | 395.2 |           |                     |            |
+| 2014-02-20 |           |        |     |     |       |           |                     |            |
+| 2014-09-16 |           |    2.9 |     |     | 323.9 |           |                     |            |
+| 2016-05-23 |           |        | 1.7 | 4.1 | 279.8 |           |                     |            |
+| 2017-01-07 |        55 |        |     |     |       |           |                     |            |
+| 2017-12-18 |        57 |    4.0 |     |     | 634.0 |     162.3 |                14.5 |         42 |
+| 2018-07-13 |        59 |        |     | 1.2 | 485.5 |     190.0 |                13.1 |         11 |
+| 2018-11-07 |           |    0.2 |     | 0.5 | 581.0 |     142.2 |                31.5 |         30 |
+| 2018-11-07 |        55 |        | 0.4 | 0.9 | 516.0 |     223.0 |                25.1 |         34 |
+| 2018-12-07 |           |        |     |     |       |           |                     |            |
+| 2019-04-25 |        46 |    1.3 |     | 0.9 | 545.0 |     132.5 |                66.4 |         34 |
+| 2019-04-25 |        50 |        | 0.7 | 0.7 | 503.9 |     217.0 |                66.7 |         37 |
+| 2019-10-16 |        57 |        |     |     | 580.9 |     249.0 |                41.0 |         45 |
+| 2020-09-02 |        55 |        |     | 3.3 | 420.0 |      86.4 |                     |         21 |
+| 2021-03-21 |        52 |        |     | 3.9 | 472.0 |     106.8 |                     |            |
+| 2021-07-30 |           |        |     |     |       |           |                     |            |
+| 2021-08-13 |           |        |     |     |       |           |                     |            |
+| 2021-09-30 |           |        |     |     |       |           |                     |            |
+| 2021-12-07 |           |        |     |     |       |           |                     |            |
+| 2022-03-22 |           |        |     |     |       |           |                     |            |
+| 2023-06-09 |        51 |        |     | 3.7 | 409.0 |      84.6 |                8.40 |         20 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfoendocrinologie
+|       | Transcort | LH.MCH |   LH |  FSH | Testo | Testo.Lib | Androstaandiol.Gluc | Oestradiol |
+|-------+-----------+--------+------+------+-------+-----------+---------------------+------------|
+| label |           |        |      |      |       |           |                     |            |
+| min   |        32 |    1.7 |    3 |    2 |   330 |      70.0 |                 3.4 |          0 |
+| max   |        50 |    8.6 |   18 |   15 |   805 |     164.4 |                22.0 |         29 |
+| unite |      mg/L |   IU/L | IU/L | IU/L | ng/dL |      ng/L |               ng/ml |       ng/L |
+#+LaTeX: \normalsize
+
+*** Transcortine
+
+#+begin_src R :results output graphics file :file images/Transcortine.pdf
+source("525-lab-results.R")
+PlotLabVal("dataendocrinologie", "labinfoendocrinologie", "Transcort", "Transcortine")
+#+end_src
+
+#+results:
+[[file:images/Transcortine.pdf]]
+
+*** LH (Labo MCH)
+
+#+begin_src R :results output graphics file :file images/LH-MCH.pdf
+source("525-lab-results.R")
+PlotLabVal("dataendocrinologie", "labinfoendocrinologie", "LH.MCH", "LH MCH")
+#+end_src
+
+#+results[baa8a8748f54b49d6df3b0d788766a80007a4384]:
+[[file:images/LH-MCH.pdf]]
+
+*** LH
+
+#+begin_src R :results output graphics file :file images/LH.pdf
+source("525-lab-results.R")
+PlotLabVal("dataendocrinologie", "labinfoendocrinologie", "LH", "LH")
+#+end_src
+
+#+results[07cd7169ae21e5c5bcc77fa7c62b5b639cd316b0]:
+[[file:images/LH.pdf]]
+
+*** FSH
+
+#+begin_src R :results output graphics file :file images/FSH.pdf
+source("525-lab-results.R")
+PlotLabVal("dataendocrinologie", "labinfoendocrinologie", "FSH", "FSH")
+#+end_src
+
+#+results[07cd7169ae21e5c5bcc77fa7c62b5b639cd316b0]:
+[[file:images/FSH.pdf]]
+
+*** Testostérone
+
+#+begin_src R :results output graphics file :file images/Testo.pdf
+source("525-lab-results.R")
+PlotLabVal("dataendocrinologie", "labinfoendocrinologie", "Testo", "Testosterone")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/Testo.pdf]]
+
+*** Testostérone Libre
+
+#+begin_src R :results output graphics file :file images/Testo-Libre.pdf
+source("525-lab-results.R")
+PlotLabVal("dataendocrinologie", "labinfoendocrinologie", "Testo.Lib", "Testosterone Libre")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/Testo.pdf]]
+
+*** Androstaandiol Glucuronide
+
+#+begin_src R :results output graphics file :file images/Androstaandiol-gluc.pdf
+source("525-lab-results.R")
+PlotLabVal("dataendocrinologie", "labinfoendocrinologie", "Androstaandiol.Gluc", "Androstaandiol Glucuronide")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/Androstaandiol-gluc.pdf]]
+
+*** Oestradiol
+
+#+begin_src R :results output graphics file :file images/Oestradiol.pdf
+source("525-lab-results.R")
+PlotLabVal("dataendocrinologie", "labinfoendocrinologie", "Oestradiol", "Oestradiol")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/Oestradiol.pdf]]
+
+* Marqueurs oncologiques
+
+** Dépistage
+
+#+LaTeX: \tiny
+#+name: dataoncologie
+|       Date |   PSA |
+|------------+-------|
+| 2001-10-01 |       |
+| 2003-01-13 |       |
+| 2005-01-18 |       |
+| 2005-03-31 |       |
+| 2006-04-04 |       |
+| 2006-06-08 |       |
+| 2008-03-03 |       |
+| 2010-01-11 |       |
+| 2010-09-08 |       |
+| 2011-03-09 |       |
+| 2012-09-18 |       |
+| 2013-07-31 |       |
+| 2013-08-23 |       |
+| 2013-09-19 |       |
+| 2013-10-31 |       |
+| 2013-11-28 |       |
+| 2014-02-20 |       |
+| 2014-09-16 |       |
+| 2016-05-23 |       |
+| 2017-01-07 |       |
+| 2017-12-18 | 1.170 |
+| 2018-07-13 |       |
+| 2018-11-07 |       |
+| 2018-11-07 |       |
+| 2018-12-07 |       |
+| 2019-04-25 |       |
+| 2019-04-25 |       |
+| 2019-10-16 | 0.770 |
+| 2020-09-02 | 0.681 |
+| 2021-03-21 | 0.812 |
+| 2021-07-30 |       |
+| 2021-08-13 |       |
+| 2021-09-30 |       |
+| 2021-12-07 | 0.600 |
+| 2022-03-22 | 0.900 |
+| 2023-06-09 | 0.657 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfooncologie
+|       |   PSA |
+|-------+-------|
+| label |       |
+| min   | 0.000 |
+| max   | 2.000 |
+| unite |  ug/L |
+#+LaTeX: \normalsize
+
+*** PSA
+
+#+begin_src R :results output graphics file :file images/PSA.pdf
+source("525-lab-results.R")
+PlotLabVal("dataoncologie", "labinfooncologie", "PSA", "PSA")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/PSA.pdf]]
+
+* Hormonologie
+
+** Thyroïde
+
+#+LaTeX: \tiny
+#+name: datathyroide
+|       Date | T4Libre | T3Libre |  TSH |
+|------------+---------+---------+------|
+| 2001-10-01 |         |         |      |
+| 2003-01-13 |         |         |      |
+| 2005-01-18 |         |         | 1.68 |
+| 2005-03-31 |         |         |      |
+| 2006-04-04 |         |         |      |
+| 2006-06-08 |         |         |      |
+| 2008-03-03 |         |         |      |
+| 2010-01-11 |         |         |      |
+| 2010-09-08 |         |         | 1.34 |
+| 2011-03-09 |         |         |      |
+| 2012-09-18 |         |         |      |
+| 2013-07-31 |         |         |      |
+| 2013-08-23 |         |         | 1.16 |
+| 2013-09-19 |         |         |      |
+| 2013-10-31 |         |         |      |
+| 2013-11-28 |         |         | 1.50 |
+| 2014-02-20 |         |         | 0.90 |
+| 2014-09-16 |         |         | 1.59 |
+| 2016-05-23 |   14.55 |    4.95 | 0.98 |
+| 2017-01-07 |   15.00 |    5.07 | 1.16 |
+| 2017-12-18 |   16.90 |    6.10 | 0.70 |
+| 2018-07-13 |         |    5.65 | 0.93 |
+| 2018-11-07 |         |         |      |
+| 2018-11-07 |         |    5.66 | 0.85 |
+| 2018-12-07 |         |         |      |
+| 2019-04-25 |         |    5.34 | 0.91 |
+| 2019-04-25 |         |    5.61 | 0.65 |
+| 2019-10-16 |         |         |      |
+| 2020-09-02 |         |    5.07 | 0.62 |
+| 2021-03-21 |   16.00 |    5.13 | 0.78 |
+| 2021-07-30 |         |         |      |
+| 2021-08-13 |         |         |      |
+| 2021-09-30 |   16.80 |         | 0.57 |
+| 2021-12-07 |   12.00 |    4.00 | 0.71 |
+| 2022-03-22 |   10.90 |    4.80 | 0.70 |
+| 2023-06-09 |   15.60 |    5.29 | 0.70 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfothyroide
+|       | T4Libre | T3Libre |   TSH |
+|-------+---------+---------+-------|
+| label |         |         |       |
+| min   |      12 |    3.60 | 0.270 |
+| max   |      22 |    6.80 | 4.200 |
+| unite |  pmol/L |  pmol/L | mUI/L |
+#+LaTeX: \normalsize
+
+*** T4 libre
+
+#+begin_src R :results output graphics file :file images/T4Libre.pdf
+source("525-lab-results.R")
+PlotLabVal("datathyroide", "labinfothyroide", "T4Libre", "T4Libre")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/T4Libre.pdf]]
+
+*** T3 libre
+
+#+begin_src R :results output graphics file :file images/T3Libre.pdf
+source("525-lab-results.R")
+PlotLabVal("datathyroide", "labinfothyroide", "T3Libre", "T3Libre")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/T3Libre.pdf]]
+
+*** TSH
+
+#+begin_src R :results output graphics file :file images/TSH.pdf
+source("525-lab-results.R")
+PlotLabVal("datathyroide", "labinfothyroide", "TSH", "TSH")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/TSH.pdf]]
+
+** Métabolisme
+
+#+LaTeX: \tiny
+#+name: datametabol
+|       Date |  DHEA |
+|------------+-------|
+| 2001-10-01 |       |
+| 2003-01-13 |       |
+| 2005-01-18 |       |
+| 2005-03-31 |       |
+| 2006-04-04 |       |
+| 2006-06-08 |       |
+| 2008-03-03 |       |
+| 2010-01-11 |       |
+| 2010-09-08 |       |
+| 2011-03-09 |       |
+| 2012-09-18 |       |
+| 2013-07-31 | 267.0 |
+| 2013-08-23 | 192.0 |
+| 2013-09-19 |       |
+| 2013-10-31 |       |
+| 2013-11-28 |       |
+| 2014-02-20 |       |
+| 2014-09-16 |       |
+| 2016-05-23 | 191.0 |
+| 2017-01-07 | 283.9 |
+| 2017-12-18 | 349.0 |
+| 2018-07-13 | 278.0 |
+| 2018-11-07 |       |
+| 2018-11-07 | 326.0 |
+| 2018-12-07 |       |
+| 2019-04-25 |       |
+| 2019-04-25 |       |
+| 2019-10-16 |       |
+| 2020-09-02 | 264.0 |
+| 2021-03-21 | 260.0 |
+| 2021-07-30 |       |
+| 2021-08-13 |       |
+| 2021-09-30 |       |
+| 2021-12-07 |       |
+| 2022-03-22 |       |
+| 2023-06-09 | 205.0 |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfometabol
+|       |  DHEA |
+|-------+-------|
+| label |       |
+| min   |  88.9 |
+| max   | 427.0 |
+| unite | ug/dL |
+#+LaTeX: \normalsize
+
+*** DHEA
+
+#+begin_src R :results output graphics file :file images/DHEA.pdf
+source("525-lab-results.R")
+PlotLabVal("datametabol", "labinfometabol", "DHEA", "DHEA")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/DHEA.pdf]]
+
+* Allergologie
+
+#+LaTeX: \tiny
+#+name: dataallergologie
+|       Date | Froment | Soja | Noisettes |
+|------------+---------+------+-----------|
+| 2001-10-01 |         |      |           |
+| 2003-01-13 |         |      |           |
+| 2005-01-18 |         |      |           |
+| 2005-03-31 |         |      |           |
+| 2006-04-04 |         |      |           |
+| 2006-06-08 |         |      |           |
+| 2008-03-03 |         |      |           |
+| 2010-01-11 |         |      |           |
+| 2010-09-08 |         |      |           |
+| 2011-03-09 |         |      |           |
+| 2012-09-18 |         |      |           |
+| 2013-07-31 |         |      |           |
+| 2013-08-23 |         |      |           |
+| 2013-09-19 |         |      |           |
+| 2013-10-31 |         |      |           |
+| 2013-11-28 |         |      |           |
+| 2014-02-20 |         |      |           |
+| 2014-09-16 |         |      |           |
+| 2016-05-23 |         |      |           |
+| 2017-01-07 |         |      |           |
+| 2017-12-18 |    0.12 | 0.13 |      4.38 |
+| 2018-07-13 |         |      |           |
+| 2018-11-07 |         |      |           |
+| 2018-11-07 |         |      |           |
+| 2018-12-07 |         |      |           |
+| 2019-04-25 |         |      |           |
+| 2019-04-25 |         |      |           |
+| 2019-10-16 |         |      |           |
+| 2020-09-02 |         |      |           |
+| 2021-03-21 |         |      |           |
+| 2021-07-30 |         |      |           |
+| 2021-08-13 |         |      |           |
+| 2021-09-30 |         |      |           |
+| 2021-12-07 |         |      |           |
+| 2022-03-22 |         |      |           |
+| 2023-06-09 |         |      |           |
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfoallergologie
+|       | Froment | Soja | Noisettes |
+|-------+---------+------+-----------|
+| label |         |      |           |
+| min   |       0 |    0 |         0 |
+| max   |    0.10 | 0.10 |      0.10 |
+| unite |    U/ml | U/ml |      U/ml |
+#+LaTeX: \normalsize
+
+** Froment AG f4
+
+#+begin_src R :results output graphics file :file images/Froment.pdf
+source("525-lab-results.R")
+PlotLabVal("dataallergologie", "labinfoallergologie", "Froment", "Froment")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/Froment.pdf]]
+
+** Soja AG f14 IgE
+
+#+begin_src R :results output graphics file :file images/Soja.pdf
+source("525-lab-results.R")
+PlotLabVal("dataallergologie", "labinfoallergologie", "Soja", "Soja")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/Soja.pdf]]
+
+** Noisettes AG f17
+
+#+begin_src R :results output graphics file :file images/Noisettes.pdf
+source("525-lab-results.R")
+PlotLabVal("dataallergologie", "labinfoallergologie", "Noisettes", "Noisettes")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/Noisettes.pdf]]
+
+* Patient
+
+** Poids du patient                                                   :noexport:
+
+#+name: poids
+|       Date |       Poids |              |                  |                |                |   |                             |                       |     |
+|------------+-------------+--------------+------------------+----------------+----------------+---+-----------------------------+-----------------------+-----|
+| 2009-11-08 |        79.0 |              |                  |                |                |   |                             |                       |     |
+| 2009-11-15 |        78.9 |              |                  |                |                |   |                             |                       |     |
+| 2009-11-29 |        78.6 |              |                  |                |                |   |                             |                       |     |
+| 2011-07-31 |        74.9 |              |                  |                |                |   |                             |                       |     |
+| 2012-03-18 |        76.7 |              |                  |                |                |   |                             |                       |     |
+| 2012-04-22 |        78.3 |              |                  |                |                |   |                             |                       |     |
+| 2012-05-06 |        78.5 |              |                  |                |                |   |                             |                       |     |
+| 2012-07-01 |        78.1 |              |                  |                |                |   |                             |                       |     |
+| 2012-09-02 |        80.6 |              |                  |                |                |   |                             |                       |     |
+| 2012-09-16 |        80.0 |              |                  |                |                |   |                             |                       |     |
+| 2012-12-23 |        80.0 |              |                  |                |                |   |                             |                       |     |
+| 2013-02-10 |        80.9 |              |                  |                |                |   |                             |                       |     |
+| 2013-03-03 |        79.7 |              |                  |                |                |   |                             |                       |     |
+| 2013-03-24 |        78.5 |              |                  |                |                |   |                             |                       |     |
+| 2013-10-20 |        77.8 |              |                  |                |                |   |                             |                       |     |
+| 2013-11-17 |        78.4 |              |                  |                |                |   |                             |                       |     |
+| 2013-12-18 |        77.5 |              |                  |                |                |   |                             |                       |     |
+| 2014-05-28 |        81.5 |              |                  |                |                |   |                             |                       |     |
+| 2014-12-17 |        81.5 |              |                  |                |                |   |                             |                       |     |
+| 2015-04-09 |        81.9 |              |                  |                |                |   |                             |                       |     |
+| 2015-05-04 |        82.3 |              |                  |                |                |   |                             |                       |     |
+| 2015-06-20 |        81.8 |              |                  |                |                |   |                             |                       |     |
+| 2015-07-03 |        81.2 |              |                  |                |                |   |                             |                       |     |
+| 2015-07-10 |        81.4 |              |                  |                |                |   |                             |                       |     |
+| 2015-08-03 |        80.9 |              |                  |                |                |   |                             |                       |     |
+| 2015-08-31 |        79.4 |              |                  |                |                |   |                             |                       |     |
+| 2015-09-21 |        78.5 |              |                  |                |                |   |                             |                       |     |
+| 2015-10-06 |        78.1 |              |                  |                |                |   |                             |                       |     |
+| 2016-05-19 |        81.5 |              |                  |                |                |   |                             |                       |     |
+| 2016-07-31 |        78.3 |              |                  |                |                |   |                             |                       |     |
+| 2016-09-05 |        77.0 |              |                  |                |                |   |                             |                       |     |
+| 2016-10-12 |        75.1 |              |                  |                |                |   |                             |                       |     |
+| 2016-11-27 |        74.9 |              |                  |                |                |   |                             |                       |     |
+| 2017-08-01 |        75.5 |              |                  |                |                |   |                             |                       |     |
+| 2017-09-03 |        73.9 |              |                  |                |                |   |                             |                       |     |
+| 2017-09-17 |        73.9 |              |                  |                |                |   |                             |                       |     |
+| 2017-09-21 |        73.1 |              |                  |                |                |   |                             |                       |     |
+| 2017-09-28 |        72.8 |              |                  |                |                |   |                             |                       |     |
+| 2017-10-05 |        72.6 |              |                  |                |                |   |                             |                       |     |
+| 2017-10-12 |        72.3 |              |                  |                |                |   |                             |                       |     |
+| 2017-10-19 |        72.3 |              |                  |                |                |   |                             |                       |     |
+| 2017-10-26 |        72.1 |              |                  |                |                |   |                             |                       |     |
+| 2017-11-02 |        71.9 |              |                  |                |                |   |                             |                       |     |
+| 2017-11-09 |        72.1 |              |                  |                |                |   |                             |                       |     |
+| 2017-11-30 |        72.3 |              |                  |                |                |   |                             |                       |     |
+| 2017-12-07 |        72.6 |              |                  |                |                |   |                             |                       |     |
+| 2017-12-14 |        71.8 |              |                  |                |                |   |                             |                       |     |
+| 2018-01-04 |        71.3 |              |                  |                |                |   |                             |                       |     |
+| 2018-01-18 |        71.8 |              |                  |                |                |   |                             |                       |     |
+| 2018-02-01 |        71.2 |              |                  |                |                |   |                             |                       |     |
+| 2018-02-15 |        70.4 |              |                  |                |                |   |                             |                       |     |
+| 2018-03-08 |        70.4 |              |                  |                |                |   |                             |                       |     |
+| 2018-03-15 |        70.0 |              |                  |                |                |   |                             |                       |     |
+| 2018-03-22 |        69.8 |              |                  |                |                |   |                             |                       |     |
+| 2018-04-05 |        69.9 |              |                  |                |                |   |                             |                       |     |
+| 2018-04-12 |        70.1 |              |                  |                |                |   |                             |                       |     |
+| 2018-04-19 |        70.4 |              |                  |                |                |   |                             |                       |     |
+| 2018-04-28 |        70.3 |              |                  |                |                |   |                             |                       |     |
+| 2018-05-24 |        71.5 |              |                  |                |                |   |                             |                       |     |
+| 2018-05-31 |        70.1 |              |                  |                |                |   |                             |                       |     |
+| 2018-07-05 |        72.8 |              |                  |                |                |   |                             |                       |     |
+| 2018-07-26 |        72.3 |              |                  |                |                |   |                             |                       |     |
+| 2018-08-02 |        71.2 |              |                  |                |                |   |                             |                       |     |
+| 2018-08-16 |        70.8 |              |                  |                |                |   |                             |                       |     |
+| 2018-08-23 |        71.6 |              |                  |                |                |   |                             |                       |     |
+| 2018-08-30 |        71.6 |              |                  |                |                |   |                             |                       |     |
+| 2018-09-06 |        71.2 |              |                  |                |                |   |                             |                       |     |
+| 2018-09-13 |        71.3 |              |                  |                |                |   |                             |                       |     |
+| 2018-09-20 |        70.8 |              |                  |                |                |   |                             |                       |     |
+| 2018-09-27 |        71.7 |              |                  |                |                |   |                             |                       |     |
+| 2018-10-04 |        71.6 |              |                  |                |                |   |                             |                       |     |
+| 2018-10-11 |        71.7 |              |                  |                |                |   |                             |                       |     |
+| 2018-10-18 |        72.0 |              |                  |                |                |   |                             |                       |     |
+| 2018-10-25 |        71.4 |              |                  |                |                |   |                             |                       |     |
+| 2018-11-01 |        71.9 |              |                  |                |                |   |                             |                       |     |
+| 2018-11-08 |        72.6 |              |                  |                |                |   |                             |                       |     |
+| 2018-11-15 |        73.6 |              |                  |                |                |   |                             |                       |     |
+| 2018-11-22 |        72.6 |              |                  |                |                |   |                             |                       |     |
+| 2018-11-29 |        72.3 |              |                  |                |                |   |                             |                       |     |
+| 2018-12-06 |        72.5 |              |                  |                |                |   |                             |                       |     |
+| 2018-12-13 |        72.4 |              |                  |                |                |   |                             |                       |     |
+| 2018-12-20 |        71.7 |              |                  |                |                |   |                             |                       |     |
+| 2019-01-03 |        71.5 |              |                  |                |                |   |                             |                       |     |
+| 2019-01-10 |        71.8 |              |                  |                |                |   |                             |                       |     |
+| 2019-01-24 |        71.9 |              |                  |                |                |   |                             |                       |     |
+| 2019-02-07 |        73.1 |              |                  |                |                |   |                             |                       |     |
+| 2019-02-14 |        73.3 |              |                  |                |                |   |                             |                       |     |
+| 2019-02-21 |        73.2 |              |                  |                |                |   |                             |                       |     |
+| 2019-02-28 |        73.4 |              |                  |                |                |   |                             |                       |     |
+| 2019-03-07 |        73.4 |              |                  |                |                |   |                             |                       |     |
+| 2019-03-14 |        73.8 |              |                  |                |                |   |                             |                       |     |
+| 2019-03-21 |        73.6 |              |                  |                |                |   |                             |                       |     |
+| 2019-03-28 |        73.8 |              |                  |                |                |   |                             |                       |     |
+| 2019-04-11 |        73.4 |              |                  |                |                |   |                             |                       |     |
+| 2019-04-18 |        73.3 |              |                  |                |                |   |                             |                       |     |
+| 2019-04-25 |        73.4 |              |                  |                |                |   |                             |                       |     |
+| 2019-05-23 |        72.9 |              |                  |                |                |   |                             |                       |     |
+| 2019-06-06 |        73.2 |              |                  |                |                |   |                             |                       |     |
+| 2019-06-13 |        72.6 |              |                  |                |                |   |                             |                       |     |
+| 2019-06-20 |        72.2 |              |                  |                |                |   |                             |                       |     |
+| 2019-06-27 |        71.6 |              |                  |                |                |   |                             |                       |     |
+| 2019-07-04 |        71.9 |              |                  |                |                |   |                             |                       |     |
+| 2019-07-13 |        71.8 |              |                  |                |                |   |                             |                       |     |
+| 2019-07-19 |        71.8 |              |                  |                |                |   |                             |                       |     |
+| 2019-08-02 |        71.6 |              |                  |                |                |   |                             |                       |     |
+| 2009-08-15 |        71.5 |              |                  |                |                |   |                             |                       |     |
+| 2019-08-29 |        72.0 |              |                  |                |                |   |                             |                       |     |
+| 2019-09-05 |        71.2 |              |                  |                |                |   |                             |                       |     |
+| 2019-09-12 |        70.6 |              |                  |                |                |   |                             |                       |     |
+| 2019-09-19 |        71.1 |              |                  |                |                |   |                             |                       |     |
+| 2019-09-26 |        70.1 |              |                  |                |                |   |                             |                       |     |
+| 2019-10-10 |        70.4 |              |                  |                |                |   |                             |                       |     |
+| 2019-10-24 |        70.3 |              |                  |                |                |   |                             |                       |     |
+| 2019-11-07 |        71.3 |              |                  |                |                |   |                             |                       |     |
+| 2019-11-15 |        71.8 |              |                  |                |                |   |                             |                       |     |
+| 2019-11-21 |        71.4 |              |                  |                |                |   |                             |                       |     |
+| 2019-11-28 |        71.2 |              |                  |                |                |   |                             |                       |     |
+| 2020-01-09 |        71.9 |              |                  |                |                |   |                             |                       |     |
+| 2020-01-16 |        71.8 |              |                  |                |                |   |                             |                       |     |
+| 2020-01-23 |        72.7 |              |                  |                |                |   |                             |                       |     |
+| 2020-01-30 |        72.8 |              |                  |                |                |   |                             |                       |     |
+| 2020-02-20 |        73.2 |              |                  |                |                |   |                             |                       |     |
+| 2020-02-27 |        72.7 |              |                  |                |                |   |                             |                       |     |
+| 2020-03-05 |        72.8 |              |                  |                |                |   |                             |                       |     |
+| 2020-04-09 |        72.4 |              |                  |                |                |   |                             |                       |     |
+| 2020-05-28 |        71.1 |              |                  |                |                |   |                             |                       |     |
+| 2020-06-04 |        70.5 |              |                  |                |                |   |                             |                       |     |
+| 2020-08-06 |        70.3 |              |                  |                |                |   |                             |                       |     |
+| 2020-08-20 |        69.4 |              |                  |                |                |   |                             |                       |     |
+| 2020-08-27 |        69.1 |              |                  |                |                |   |                             |                       |     |
+| 2020-09-10 |        68.4 |              |                  |                |                |   |                             |                       |     |
+| 2020-09-24 |        68.4 |              |                  |                |                |   |                             |                       |     |
+| 2020-11-19 |        69.2 |              |                  |                |                |   |                             |                       |     |
+| 2020-12-03 |        68.8 |              |                  |                |                |   |                             |                       |     |
+| 2020-12-24 |        70.8 |              |                  |                |                |   |                             |                       |     |
+| 2021-01-16 |        71.1 |              |                  |                |                |   |                             |                       |     |
+| 2021-03-11 |        69.7 |              |                  |                |                |   |                             |                       |     |
+| 2021-04-29 |        71.1 |              |                  |                |                |   |                             |                       |     |
+| 2021-05-13 |        71.6 |              |                  |                |                |   |                             |                       |     |
+| 2021-06-10 |        71.3 |              |                  |                |                |   |                             |                       |     |
+| 2021-07-09 |        70.7 |              |                  |                |                |   |                             |                       |     |
+| 2021-07-19 |        71.3 |              |                  |                |                |   |                             |                       |     |
+| 2021-09-02 |        72.3 |              |                  |                |                |   |                             |                       |     |
+| 2021-10-28 |        72.3 |              |                  |                |                |   |                             |                       |     |
+| 2021-11-25 |        72.0 |              |                  |                |                |   |                             |                       |     |
+| 2021-12-20 |        72.4 |              |                  |                |                |   |                             |                       |     |
+| 2022-03-10 |        72.3 |              |                  |                |                |   |                             |                       |     |
+| 2022-04-14 |        73.1 |              |                  |                |                |   |                             |                       |     |
+|------------+-------------+--------------+------------------+----------------+----------------+---+-----------------------------+-----------------------+-----|
+|            |          kg |            % |               kg |              % |             kg |   |                        kcal |                 years |     |
+|------------+-------------+--------------+------------------+----------------+----------------+---+-----------------------------+-----------------------+-----|
+| 2022-06-09 |        71.7 |         17.9 |              3.0 |           56.0 |                | 5 |                        1690 |                    33 | 7.5 |
+| 2022-06-16 |        74.0 |         19.9 |              3.0 |           54.4 |           56.3 | 5 |                        1708 |                    38 | 8.0 |
+| 2022-06-23 |        73.2 |         19.6 |              3.0 |           54.6 |           55.9 | 5 |                        1694 |                    37 | 8.0 |
+| 2022-07-06 |        73.2 |         19.6 |              2.9 |           54.6 |           55.9 | 5 |                        1693 |                    37 | 8.0 |
+| 2022-07-14 |        74.4 |         20.0 |              3.0 |           54.4 |           56.5 | 5 |                        1714 |                    38 | 8.0 |
+| 2022-07-21 |        72.6 |         18.9 |              3.0 |           55.2 |           55.9 | 5 |                        1693 |                    35 | 7.5 |
+| 2022-07-27 |        72.7 |         19.5 |              2.9 |           54.6 |           55.6 | 5 |                        1684 |                    37 | 8.0 |
+| 2022-08-04 |        73.4 |         19.4 |              3.0 |           54.8 |           56.2 | 5 |                        1701 |                    36 | 8.0 |
+| 2022-08-17 |        73.0 |         19.3 |              3.0 |           54.8 |           56.0 | 5 |                        1696 |                    36 | 8.0 |
+| 2022-08-22 |        72.3 |         18.3 |              3.0 |           55.7 |           56.1 | 5 |                        1696 |                    33 | 7.5 |
+| 2022-08-25 |        72.0 |         18.4 |              2.9 |           55.5 |           55.8 | 5 |                        1686 |                    33 | 7.5 |
+| 2022-09-03 |        73.6 |         18.3 |              3.0 |           55.9 |           57.2 | 5 |                        1728 |                    33 | 7.5 |
+| 2022-09-08 |        73.2 |         18.4 |              3.0 |           55.7 |           56.8 | 5 |                        1715 |                    33 | 7.5 |
+| 2022-09-15 |        73.1 |         19.7 |              2.9 |           54.5 |           55.8 | 5 |                        1689 |                    37 | 8.0 |
+| 2022-09-22 |        73.0 |         19.9 |              2.9 |           54.7 |           55.6 | 5 |                        1685 |                    38 | 8.0 |
+| 2022-10-06 |        74.1 |         20.1 |              3.0 |           54.2 |           56.2 | 5 |                        1705 |                    38 | 8.0 |
+| 2022-10-13 |        73.5 |         20.2 |              2.9 |           54.1 |           55.7 | 5 |                        1689 |                    39 | 8.0 |
+| 2022-10-20 |        74.1 |         19.5 |              3.0 |           54.8 |           56.7 | 5 |                        1718 |                    36 | 8.0 |
+| 2022-10-27 |        74.1 |         20.5 |              3.0 |           54.0 |           56.0 | 5 |                        1698 |                    39 | 8.5 |
+| 2022-11-03 |        74.8 |         21.6 |              2.9 |           53.1 |           55.7 | 5 |                        1694 |                    43 | 9.0 |
+| 2022-11-12 |        75.9 |         20.3 |              3.0 |           54.3 |           57.5 | 5 |                        1744 |                    39 | 8.5 |
+| 2022-11-17 |        76.7 |         20.9 |              3.0 |           53.9 |           57.6 | 5 |                        1751 |                    41 | 9.0 |
+| 2022-11-24 |        77.0 |         21.2 |              3.0 |           53.7 |           57.7 | 5 |                        1752 |                    42 | 9.0 |
+| 2022-12-01 |        75.4 |         20.8 |              3.0 |           53.8 |           56.7 | 5 |                        1721 |                    41 | 8.5 |
+| 2022-12-09 |        75.6 |         21.2 |              3.0 |           53.5 |           56.6 | 5 |                        1721 |                    42 | 9.0 |
+| 2022-12-22 |        76.4 |         20.8 |              3.0 |           53.9 |           57.5 | 5 |                        1744 |                    40 | 8.5 |
+| 2022-12-31 |        77.2 |         20.2 |              3.1 |           54.6 |           58.5 | 5 |                        1774 |                    39 | 8.5 |
+|------------+-------------+--------------+------------------+----------------+----------------+---+-----------------------------+-----------------------+-----|
+|            | Weight (kg) | Body Fat (%) | Muscle Mass (kg) | Body Water (%) | Bone Mass (kg) |   | Basal Metabolic Rate (kcal) | Metabolic Age (years) |     |
+|------------+-------------+--------------+------------------+----------------+----------------+---+-----------------------------+-----------------------+-----|
+| 2023-01-07 |        76.8 |         20.4 |              3.1 |           54.3 |           58.5 | 5 |                        1762 |                    39 | 8.5 |
+| 2023-01-13 |        76.2 |         20.8 |              3.0 |           53.9 |           57.4 | 5 |                        1742 |                    40 | 8.5 |
+| 2023-01-19 |        76.9 |         20.7 |              3.0 |           54.1 |           57.9 | 5 |                        1759 |                    40 | 9.0 |
+| 2023-01-27 |        76.6 |         20.6 |              3.0 |           54.1 |           57.8 | 5 |                        1754 |                    40 | 8.5 |
+| 2023-02-03 |        75.8 |         20.7 |              3.0 |           54.0 |           57.1 | 5 |                        1734 |                    40 | 8.5 |
+| 2023-02-10 |        76.5 |         20.1 |              3.1 |           54.5 |           58.1 | 5 |                        1762 |                    38 | 8.5 |
+| 2023-02-16 |        75.3 |         20.6 |              3.0 |           54.0 |           56.8 | 5 |                        1723 |                    40 | 8.5 |
+| 2023-02-23 |        75.3 |         20.2 |              3.0 |           54.3 |           57.1 | 5 |                        1730 |                    39 | 8.5 |
+| 2023-03-02 |        75.5 |         20.2 |              3.0 |           54.3 |           57.2 | 5 |                        1735 |                    39 | 8.5 |
+| 2023-03-05 |        74.7 |         20.3 |              3.0 |           54.1 |           56.5 | 5 |                        1715 |                    39 | 8.5 |
+| 2023-03-16 |        75.5 |         20.6 |              3.0 |           54.0 |           57.0 | 5 |                        1730 |                    40 | 8.5 |
+| 2023-03-23 |        75.0 |         21.6 |              2.9 |           53.1 |           55.9 | 5 |                        1698 |                    43 | 9.0 |
+| 2023-03-26 |        74.3 |         20.0 |              3.0 |           54.3 |           56.4 | 5 |                        1710 |                    38 | 8.5 |
+| 2023-03-30 |        74.8 |         20.5 |              3.0 |           54.0 |           56.5 | 5 |                        1714 |                    40 | 8.5 |
+| 2023-04-06 |        74.9 |         19.5 |              3.0 |           54.9 |           57.3 | 5 |                        1734 |                    37 | 8.0 |
+| 2023-04-08 |        74.6 |         18.6 |              3.0 |           55.7 |           57.7 | 5 |                        1744 |                    34 | 8.0 |
+| 2023-04-09 |        75.8 |         18.3 |              3.1 |           56.3 |           58.9 | 5 |                        1779 |                    34 | 8.0 |
+| 2023-04-15 |        75.6 |         19.4 |              3.0 |           55.1 |           57.9 | 5 |                        1753 |                    36 | 8.0 |
+| 2023-04-20 |        75.1 |         20.5 |              3.0 |           54.0 |           56.8 | 5 |                        1722 |                    40 | 8.5 |
+| 2023-04-27 |        75.4 |         20.4 |              3.0 |           54.1 |           57.0 | 5 |                        1729 |                    39 | 8.5 |
+| 2023-05-04 |        75.2 |         20.0 |              3.0 |           54.4 |           57.2 | 5 |                        1732 |                    38 | 8.5 |
+| 2023-05-11 |        75.3 |         21.2 |              3.0 |           53.5 |           56.3 | 5 |                        1711 |                    42 | 9.0 |
+| 2023-05-20 |        74.7 |         20.3 |              3.0 |           54.2 |           56.6 | 5 |                        1715 |                    39 | 8.5 |
+| 2023-05-25 |        74.6 |         20.4 |              3.0 |           54.0 |           56.4 | 5 |                        1710 |                    39 | 8.5 |
+| 2023-06-02 |        73.8 |         19.2 |              3.0 |           55.0 |           56.6 | 5 |                        1714 |                    36 | 8.0 |
+| 2023-06-08 |        73.3 |         19.3 |              3.0 |           54.9 |           56.2 | 5 |                        1700 |                    36 | 8.0 |
+| 2023-06-12 |        72.5 |         18.5 |              3.0 |           55.5 |           56.2 | 5 |                        1697 |                    34 | 7.5 |
+| 2023-06-15 |        74.2 |         18.5 |              3.0 |           55.7 |           57.4 | 5 |                        1736 |                    34 | 8.0 |
+| 2023-06-23 |        73.8 |         18.5 |              3.0 |           55.7 |           57.1 | 5 |                        1726 |                    34 | 8.0 |
+| 2023-06-29 |        72.3 |         19.3 |              2.9 |           54.7 |           55.5 | 5 |                        1678 |                    36 | 8.0 |
+| 2023-07-06 |        73.7 |         19.0 |              3.0 |           55.2 |           56.7 | 5 |                        1715 |                    35 | 8.0 |
+| 2023-07-13 |        72.9 |         19.9 |              2.9 |           54.2 |           55.5 | 5 |                        1681 |                    38 | 8.0 |
+| 2023-07-20 |        72.2 |         19.0 |              2.9 |           54.9 |           55.6 | 5 |                        1681 |                    35 | 8.0 |
+| 2023-07-27 |        71.5 |         19.2 |              2.9 |           54.7 |           54.9 | 5 |                        1660 |                    36 | 8.0 |
+| 2023-08-03 |        72.1 |         18.9 |              2.9 |           55.0 |           55.5 | 5 |                        1679 |                    35 | 8.0 |
+| 2023-08-10 |        71.9 |         17.9 |              3.0 |           56.0 |           56.1 | 5 |                        1693 |                    34 | 7.5 |
+| 2023-08-24 |        72.4 |         18.4 |              3.0 |           55.5 |           56.1 | 5 |                        1695 |                    34 | 7.5 |
+| 2023-08-31 |        72.5 |         18.5 |              3.0 |           55.5 |           56.1 | 5 |                        1694 |                    34 | 7.5 |
+| 2023-09-07 |        71.9 |         17.9 |              3.0 |           55.9 |           56.1 | 5 |                        1693 |                    34 | 7.5 |
+| 2023-09-14 |        71.5 |         17.6 |              3.0 |           56.2 |           56.0 | 5 |                        1688 |                    34 | 7.5 |
+| 2023-09-21 |        71.1 |         17.7 |              2.9 |           56.0 |           55.6 | 5 |                        1678 |                    34 | 7.5 |
+| 2023-09-28 |        70.8 |         17.6 |              2.9 |           56.1 |           55.5 | 5 |                        1673 |                    34 | 7.5 |
+| 2023-10-05 |        71.4 |         17.4 |              3.0 |           56.4 |           56.0 | 5 |                        1690 |                    34 | 7.0 |
+| 2023-10-12 |        71.4 |         17.0 |              3.0 |           56.9 |           56.3 | 5 |                        1696 |                    34 | 7.0 |
+| 2023-10-19 |        70.8 |         17.6 |              2.9 |           56.1 |           55.4 | 5 |                        1672 |                    34 | 7.5 |
+| 2023-10-26 |        70.8 |         17.7 |              2.9 |           56.0 |           55.4 | 5 |                        1670 |                    34 | 7.5 |
+| 2023-11-02 |        71.3 |         17.2 |              3.0 |           56.5 |           56.1 | 5 |                        1690 |                    34 | 7.0 |
+| 2023-12-02 |        71.0 |         17.8 |              2.9 |           55.9 |           55.4 | 5 |                        1670 |                    35 | 7.5 |
+| 2023-12-07 |        71.2 |         17.5 |              2.9 |           56.3 |           55.8 | 5 |                        1682 |                    35 | 7.5 |
+| 2023-12-14 |        72.1 |         18.4 |              2.9 |           55.5 |           55.9 | 5 |                        1687 |                    35 | 8.0 |
+| 2023-12-21 |        71.1 |         18.1 |              2.9 |           55.6 |           55.4 | 5 |                        1670 |                    35 | 7.5 |
+| 2023-12-28 |        72.6 |         17.9 |              3.0 |           56.1 |           56.6 | 5 |                        1708 |                    35 | 7.5 |
+|------------+-------------+--------------+------------------+----------------+----------------+---+-----------------------------+-----------------------+-----|
+|            | Weight (kg) | Body Fat (%) | Muscle Mass (kg) | Body Water (%) | Bone Mass (kg) |   | Basal Metabolic Rate (kcal) | Metabolic Age (years) |     |
+|------------+-------------+--------------+------------------+----------------+----------------+---+-----------------------------+-----------------------+-----|
+| 2024-01-11 |        73.2 |         19.5 |              3.0 |           54.6 |           56.0 | 5 |                        1694 |                    37 | 8.0 |
+| 2024-01-18 |        73.2 |         19.1 |              3.0 |           55.0 |           56.3 | 5 |                        1701 |                    36 | 8.0 |
+| 2024-01-25 |        74.0 |         19.1 |              3.0 |           55.1 |           56.9 | 5 |                        1719 |                    36 | 8.0 |
+| 2024-02-02 |        73.4 |         19.8 |              3.0 |           54.4 |           55.9 | 5 |                        1693 |                    38 | 8.5 |
+| 2024-02-08 |        73.5 |         19.2 |              3.0 |           54.9 |           56.4 | 5 |                        1706 |                    36 | 8.0 |
+| 2024-02-15 |        74.2 |         19.5 |              3.0 |           54.8 |           56.8 | 5 |                        1717 |                    37 | 8.5 |
+| 2024-02-22 |        73.0 |         19.8 |              2.9 |           54.3 |           55.6 | 5 |                        1684 |                    38 | 8.5 |
+| 2024-02-29 |        73.8 |         19.7 |              3.0 |           54.5 |           56.3 | 5 |                        1705 |                    37 | 8.5 |
+| 2024-03-21 |        74.6 |         20.4 |              3.0 |           54.1 |           56.5 | 5 |                        1711 |                    39 | 8.5 |
+| 2024-03-28 |        74.5 |         19.7 |              3.0 |           54.7 |           56.9 | 5 |                        1722 |                    37 | 8.5 |
+| 2024-04-10 |        73.7 |         20.3 |              2.9 |           54.0 |           55.8 | 5 |                        1692 |                    39 | 8.5 |
+| 2024-04-18 |        73.0 |         18.8 |              3.0 |           55.3 |           56.3 | 5 |                        1702 |                    35 | 8.0 |
+| 2024-04-25 |        72.7 |         18.8 |              3.0 |           55.1 |           56.1 | 5 |                        1694 |                    35 | 8.0 |
+| 2024-05-02 |        73.1 |         18.9 |              3.0 |           55.2 |           56.3 | 5 |                        1703 |                    35 | 8.0 |
+| 2024-05-09 |        73.7 |         19.6 |              3.0 |           54.7 |           56.3 | 5 |                        1705 |                    37 | 8.5 |
+| 2024-05-30 |        73.6 |         19.4 |              3.0 |           54.7 |           56.3 | 5 |                        1704 |                    37 | 8.0 |
+| 2024-06-27 |        73.5 |         19.0 |              3.0 |           55.1 |           56.6 | 5 |                        1710 |                    35 | 8.0 |
+| 2024-07-04 |        74.4 |         19.4 |              3.0 |           54.9 |           57.0 | 5 |                        1723 |                    36 | 8.5 |
+| 2024-07-11 |        75.1 |         19.7 |              3.0 |           54.7 |           57.3 | 5 |                        1733 |                    37 | 8.5 |
+| 2024-07-18 |        74.6 |         19.5 |              3.0 |           54.9 |           57.1 | 5 |                        1728 |                    37 | 8.5 |
+| 2024-08-22 |        74.2 |         19.8 |              3.0 |           54.5 |           56.5 | 5 |                        1710 |                    38 | 8.5 |
+| 2024-09-05 |        74.4 |         19.7 |              3.0 |           54.6 |           56.7 | 5 |                        1717 |                    37 | 8.5 |
+| 2024-09-19 |        73.3 |         18.7 |              3.0 |           55.3 |           56.6 | 5 |                        1708 |                    35 | 8.0 |
+| 2024-09-26 |        74.6 |         19.4 |              3.0 |           54.9 |           57.1 | 5 |                        1727 |                    37 | 8.5 |
+| 2024-10-03 |        74.1 |         19.3 |              3.0 |           55.0 |           56.8 | 5 |                        1718 |                    36 | 8.0 |
+| 2025-01-02 |        76.4 |         20.2 |              3.1 |           54.4 |           58.0 | 5 |                        1756 |                    39 | 9.0 |
+
+*** Paramètres sanguins à surveiller
+
+- Glycémie
+- Bon choléstérol (HDL)
+- Indice HOMA (signes avant-coureur du diabète)
+
+** Poids
+
+Pour un individu de *1,77 m*, voici la relation entre l'indice de masse
+corporelle et le poids :
+
+|  IMC | Poids |
+|------+-------|
+| 25.0 |  78.3 |
+| 21.8 |  68.3 |
+| 18.5 |  58.0 |
+#+TBLFM: $2=$1*(1.77*1.77);%.1f
+
+#+begin_src R :colnames yes :results output graphics file :file images/Poids.pdf
+# Instead of :var df=poids.
+# This will work with mixed Cygwin/Windows versions of Emacs/R!
+library(orgutils)
+df <- readOrg("525-lab-results.txt", table.name = "poids")
+
+df$Date <- as.Date(df$Date, "%Y-%m-%d")
+plot(Poids ~ Date, df, xaxt = "n", pch=19, col=rgb(0.5, 0.5, 0.5, 0.5), cex=1.5,
+  main="Poids", las=2,
+  xlab="Date",
+  ylim=c(min(62.7, min(Poids, na.rm=TRUE)),
+         max(78.3, max(Poids, na.rm=TRUE))),
+  ylab="kg")
+abline(h=78.3, lty=2, col="red", lwd=3)
+abline(h=58.0, lty=2, col="blue", lwd=3)
+abline(h=68.3, lty=2, col="green")
+axis(1, df$Date, format(df$Date, "%Y-%m"), cex.axis = 0.7)
+
+fit <- lm(df$Poids ~ df$Date)
+abline(fit, col="gray")
+#+end_src
+
+#+results:
+[[file:images/Poids.png]]
+
+** Exercices
+
+#+LaTeX: \tiny
+#+name: dataexercices
+|       Date | Hours |    Km | Km/h |
+|------------+-------+-------+------|
+| 2013-12-31 |    22 |   483 | 22.0 |
+| 2014-12-31 |    31 |   696 | 22.5 |
+| 2015-12-31 |    86 |  1719 | 20.0 |
+| 2016-12-31 |    56 |  1159 | 20.7 |
+| 2017-12-31 |   107 |  2200 | 20.6 |
+| 2018-12-31 |   202 |  4513 | 22.3 |
+| 2019-12-31 |   236 |  5203 | 22.0 |
+| 2020-12-31 |   306 |  6076 | 19.9 |
+| 2021-12-31 |   384 |  7298 | 19.0 |
+| 2022-12-31 |   516 |  9062 | 17.6 |
+| 2023-12-31 |   590 | 10149 | 17.2 |
+| 2024-12-31 |   559 | 10085 | 18.0 |
+#+TBLFM: $4=$-1/$-2;%.1f
+#+LaTeX: \normalsize
+
+#+LaTeX: \tiny
+#+name: labinfoexercices
+|       | Hours |   Km |
+|-------+-------+------|
+| label |       |      |
+| min   |    90 | 1500 |
+| max   |   365 | 7200 |
+| unite | hours |   km |
+#+LaTeX: \normalsize
+
+*** Vélo
+
+#+begin_src R :results output graphics file :file images/Velo.pdf
+source("525-lab-results.R")
+PlotLabVal("dataexercices", "labinfoexercices", "Km", "Km")
+#+end_src
+
+#+results[82cb29a7f379fe1024f428eb85ec1213b5c7304e]:
+[[file:images/Velo.pdf]]
