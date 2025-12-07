@@ -90,6 +90,20 @@ Où commander sur le Web ?
 - https://www.hsnstore.be/marques/essential-series/bisglycinate-de-cuivre-3mg-cuivre
 - https://www.hsnstore.be/marques/essential-series/vitamine-c-1000mg-bioflavonoides-rose-musquee
 
+** TODO Médicaments prescrits par le Dr Duboé (2024)
+
+Matin
+- [[https://www.sunday.de/fr/cuivre-gelules-dosage-eleve-3-mg.html][Complexe de cuivre Forte 3 mg]]
+- [[https://www.sunday.de/fr/vitamine-c-1000mg-ultra-dosage-eleve-naturelle.html][Vitamine C Ultra (1000 mg)]]
+- [[https://www.sunday.de/fr/complexe-fer-ultra-45mg-gelules.html][Complexe Fer Ultra 45 mg]]
+- [[https://www.sunday.de/fr/complexe-homocysteine.html][Complexe homocystéine]]
+
+Soir
+- [[https://www.sunday.de/fr/complexe-zinc-vitamine-c-gelules.html][Complexe de zinc Ultra Plus C]]
+- [[https://www.sunday.de/fr/complexe-selenium.html][Complexe de sélénium Ultra 200 µg]]
+- Finastéride 5 mg et minoxidil 1 mg (contre la chute des cheveux) en
+  préparation magistrale
+
 ** Health and Wellness
 
 *** Dr Judith Tsachor (bilan nutritionnel) vs Dr Georges Mouton
@@ -99,8 +113,8 @@ Avenue Des Sept-Bonniers, 310
 1190 Bruxelles
 02-343.78.62
 
-*** TODO Faire analyse de sang pour Duboé
-SCHEDULED: <2025-09-15 Mon>
+*** TODO Prendre RDV avec Dr Duboé, puis planifier analyse de sang
+SCHEDULED: <2026-01-05 Mon>
 
 **** Contacts (Centres de prélèvements de sang)
 
@@ -134,45 +148,26 @@ SCHEDULED: <2025-10-06 Mon>
   + Pilules contraceptives ?
 - Je paie l'analyse de l'eau du robinet; ils paient celle de l'eau purifiée
 
+**** Émission TV "Le monde de Jamy"
+
+- Nitrates
+- PFAS (carbone - fluor), dont TFA (acide trifloroacétique)
+- manganèse
+- CVM (chlorure de ... vinyl) = gaz
+
 **** Polluants dans l'eau
 
 Dans l'eau du robinet, il existe plusieurs polluants potentiellement dangereux
 pour la santé. Voici les principaux à surveiller :
 
-- Nitrates et nitrites : Ces composés, souvent présents à cause des fertilisants
-  agricoles, peuvent causer des problèmes graves pour les nourrissons (par
-  exemple, le syndrome du bébé bleu, qui empêche l'oxygénation du sang).
-
-- Plomb : Le plomb est un métal toxique, surtout dans les vieilles installations
-  en plomberie. Il peut avoir des effets délétères sur le système nerveux, en
-  particulier chez les enfants.
-
-- Pesticides : Utilisés dans l'agriculture, certains pesticides peuvent être
-  présents dans l'eau et sont associés à des risques pour la santé, notamment
-  des troubles hormonaux et un risque accru de cancers.
-
-- Chlore et chloramines : Le chlore est couramment utilisé pour désinfecter
-  l'eau, mais s'il est en excès, il peut causer des irritations cutanées, des
-  troubles respiratoires et des effets à long terme sur la santé.
-
-- Métaux lourds : Outre le plomb, d'autres métaux comme le cadmium, le mercure,
-  et l'arsenic peuvent contaminer l'eau, provoquant des dommages aux reins, au
-  système nerveux et augmentant les risques de cancer.
-
-- Bactéries et agents pathogènes : Des agents pathogènes comme les Escherichia
-  coli ou les Giardia peuvent être présents dans l'eau contaminée, provoquant
-  des infections digestives graves.
-
-- Substances chimiques industrielles : Certains produits chimiques comme les
-  polychlorobiphényles (PCB), les dioxines et autres produits dérivés des
-  industries chimiques peuvent être présents dans l'eau, souvent à faibles
-  concentrations, mais leur impact est préoccupant à long terme, notamment en
-  termes de toxicité chronique et de perturbation endocrinienne.
-
-- Pharmaceutiques et produits cosmétiques : Des traces de médicaments et de
-  produits cosmétiques peuvent se retrouver dans l'eau, avec des effets
-  potentiels sur la santé, bien que les recherches sur ce sujet soient encore en
-  cours.
+- Nitrates et nitrites
+- Plomb
+- Pesticides
+- Chlore
+- Métaux lourds : plomb, cadmium, mercure, et arsenic.
+- Bactéries et agents pathogènes : Escherichia coli ou Giardia
+- Substances chimiques industrielles : polychlorobiphényles (PCB) et dioxines
+- Pharmaceutiques et produits cosmétiques
 
 Pour évaluer la qualité de l'eau du robinet, il est conseillé de consulter les
 rapports de qualité fournis par les autorités locales ou de réaliser un test
@@ -349,10 +344,10 @@ Antwoorden op je vragen:
 
 *** NEXT Prévoir un RDV avec l'urologue de Liège (Dr. Robert Andrianne)
 
-Le Professeur Robert Andrianne exerce principalement à l’Hôpital de Bastogne
+Le Professeur Robert Andrianne exerce principalement à l'Hôpital de Bastogne
 (réseau Vivalia), et non à Liège même pour les consultations courantes. Pour
-obtenir un rendez-vous avec lui, il faut contacter le secrétariat de l’Hôpital
-de Bastogne au 063-55.16.11. Il est consultant au CHU de Liège, mais il n’existe
+obtenir un rendez-vous avec lui, il faut contacter le secrétariat de l'Hôpital
+de Bastogne au 063-55.16.11. Il est consultant au CHU de Liège, mais il n'existe
 pas de système de prise de rendez-vous en ligne spécifiquement pour lui à Liège
 selon les informations disponibles.
 
@@ -412,10 +407,7 @@ Regular, recurring tasks and habits that need to be maintained.
 ** Quarterly
 
 *** TODO Routine / Donner mon sang au Centre de transfusion de Gasthuisberg :errands:
-SCHEDULED: <2025-09-30 Tue .+2m>
-:PROPERTIES:
-:LAST_REPEAT: [2025-07-07 Mon 19:00]
-:END:
+SCHEDULED: <2025-12-15 Mon .+2m>
 
 https://donorportaal.rodekruis.be/
 
@@ -435,8 +427,8 @@ https://donorportaal.rodekruis.be/
 
 ** Semiannually
 
-*** TODO Routine / Planifier un rendez-vous chez la dentiste (Maria Davidts, 016-26.22.55) + Hypnose
-SCHEDULED: <2025-05-01 Thu +6m>
+*** TODO Routine / Planifier un rendez-vous chez la dentiste (Maria Davidts, 016-26.22.55)
+SCHEDULED: <2026-03-19 Thu +6m>
 
 Elle n'a aucun collègue à recommander en cas d'indisponibilité (congé).
 
@@ -452,7 +444,7 @@ En cas d'urgence, se rendre à l'hôpital.
 ** Biennially
 
 *** TODO Prendre RDV oogarts (016-22.95.36)
-DEADLINE: <2025-09-01 Mon +2y>
+DEADLINE: <2026-08-01 Sat +2y>
 
 À renouveler *tous les 2 ans*.
 
